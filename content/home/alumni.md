@@ -2,765 +2,766 @@
 widget = "alumni"
 active = true
 date = 2016-04-20T00:00:00
+layout = "widgets/alumni"
 
 weight = 10
 
 title = "Alumni"
 
-[[people.alumni]]
+[[people]]
   name = "Owen Arden"
   www = "https://users.soe.ucsc.edu/~owen/"
   grad_year = "2017"
   org = "UC Santa Cruz"
 
-[[people.alumni]]
+[[people]]
   name = "Mark Reitblatt"
   grad_year = "2017"
 
-[[people.alumni]]
+[[people]]
   name = "Abhishek Anand"
   grad_year = "2016"
 
-[[people.alumni]]
+[[people]]
   name = "Krishnaprasad Vikram"
   grad_year = "2015"
 
-[[people.alumni]]
+[[people]]
   name = "Danfeng Zhang"
   grad_year = "2015"
 
 
-[[people.alumni]]
+[[people]]
   name = "Konstantinos Mamouras"
   grad_year = "2015"
 
 
-[[people.alumni]]
+[[people]]
   name = "Jean-Baptiste Jeannin"
   grad_year = "2013"
 
 
-[[people.alumni]]
+[[people]]
   name = "Mon Liu"
   grad_year = "2012"
 
 
-[[people.alumni]]
+[[people]]
   name = "Kevin Walsh"
   grad_year = "2012"
 
 
-[[people.alumni]]
+[[people]]
   name = "Nikolaos Karampatziakis"
   grad_year = "2012"
 
 
-[[people.alumni]]
+[[people]]
   name = "Michael Clarkson"
   grad_year = "2010"
 
 
-[[people.alumni]]
+[[people]]
   name = "Xin Qi"
   grad_year = "2010"
 
 
-[[people.alumni]]
+[[people]]
   name = "Thomas Roeder"
   grad_year = "2010"
 
 
-[[people.alumni]]
+[[people]]
   name = "Stephen Chong"
   grad_year = "2008"
 
 
-[[people.alumni]]
+[[people]]
   name = "Jeffrey Hartline"
   grad_year = "2008"
 
 
-[[people.alumni]]
+[[people]]
   name = "Milind Kulkarni"
   grad_year = "2008"
 
 
-[[people.alumni]]
+[[people]]
   name = "Yin Wang"
   grad_year = "2008"
 
 
-[[people.alumni]]
+[[people]]
   name = "Nathaniel Nystrom"
   grad_year = "2007"
 
 
-[[people.alumni]]
+[[people]]
   name = "Lantian Zheng"
   grad_year = "2007"
 
 
-[[people.alumni]]
+[[people]]
   name = "Matthew Fluet"
   grad_year = "2007"
 
 
-[[people.alumni]]
+[[people]]
   name = "Grigory Bronevetsky"
   grad_year = "2007"
 
 
-[[people.alumni]]
+[[people]]
   name = "Alexa Sharp"
   grad_year = "2007"
 
 
-[[people.alumni]]
+[[people]]
   name = "Wojciech Moczydlowski"
   grad_year = "2007"
 
 
-[[people.alumni]]
+[[people]]
   name = "Kevin Hamlen"
   grad_year = "2006"
 
 
-[[people.alumni]]
+[[people]]
   name = "Rohit Fernandes"
   grad_year = "2006"
 
 
-[[people.alumni]]
+[[people]]
   name = "Daniel Marques"
   grad_year = "2006"
 
 
-[[people.alumni]]
+[[people]]
   name = "Kamen Yotov"
   grad_year = "2006"
 
 
-[[people.alumni]]
+[[people]]
   name = "Eliyahu Barzilay"
   grad_year = "2006"
 
 
-[[people.alumni]]
+[[people]]
   name = "Hubert Chen"
   grad_year = "2004"
 
 
-[[people.alumni]]
+[[people]]
   name = "Ulfar Erlingsson"
   grad_year = "2004"
 
 
-[[people.alumni]]
+[[people]]
   name = "James Cheney"
   grad_year = "2004"
 
 
-[[people.alumni]]
+[[people]]
   name = "James Ezick"
   grad_year = "2004"
 
 
-[[people.alumni]]
+[[people]]
   name = "Amanda Holland-Minkley"
   grad_year = "2004"
 
 
-[[people.alumni]]
+[[people]]
   name = "Alexei Kopylov"
   grad_year = "2004"
 
 
-[[people.alumni]]
+[[people]]
   name = "Daniel Grossman"
   grad_year = "2003"
 
 
-[[people.alumni]]
+[[people]]
   name = "Stephan Zdancewic"
   grad_year = "2002"
 
 
-[[people.alumni]]
+[[people]]
   name = "Yaron Minsky"
   grad_year = "2002"
 
 
-[[people.alumni]]
+[[people]]
   name = "Frederick Smith"
   grad_year = "2002"
 
 
-[[people.alumni]]
+[[people]]
   name = "Stephanie Weirich"
   grad_year = "2002"
 
 
-[[people.alumni]]
+[[people]]
   name = "Aleksey Nogin"
   grad_year = "2002"
 
 
-[[people.alumni]]
+[[people]]
   name = "Li-Dong Zhou"
   grad_year = "2001"
 
 
-[[people.alumni]]
+[[people]]
   name = "Ralph Benzinger"
   grad_year = "2001"
 
 
-[[people.alumni]]
+[[people]]
   name = "Ozan Hafizogullari"
   grad_year = "2001"
 
 
-[[people.alumni]]
+[[people]]
   name = "Eric Aaron"
   grad_year = "2000"
 
 
-[[people.alumni]]
+[[people]]
   name = "David Patrick Walker"
   grad_year = "2000"
 
 
-[[people.alumni]]
+[[people]]
   name = "Nawaaz Ahmed"
   grad_year = "2000"
 
 
-[[people.alumni]]
+[[people]]
   name = "Vijay S Menon"
   grad_year = "2000"
 
 
-[[people.alumni]]
+[[people]]
   name = "Jason J Hickey"
   grad_year = "2000"
 
 
-[[people.alumni]]
+[[people]]
   name = "Arthur Neal Glew"
   grad_year = "1999"
 
 
-[[people.alumni]]
+[[people]]
   name = "Takako Hickey"
   grad_year = "1998"
 
 
-[[people.alumni]]
+[[people]]
   name = "Induprakas Kodukula"
   grad_year = "1998"
 
 
-[[people.alumni]]
+[[people]]
   name = "Vladimir Kotlyar"
   grad_year = "1998"
 
 
-[[people.alumni]]
+[[people]]
   name = "James Caldwell"
   grad_year = "1998"
 
 
-[[people.alumni]]
+[[people]]
   name = "Karl Crary"
   grad_year = "1998"
 
 
-[[people.alumni]]
+[[people]]
   name = "Pavel Naumov"
   grad_year = "1998"
 
 
-[[people.alumni]]
+[[people]]
   name = "Aswin van den Berg"
   grad_year = "1998"
 
 
-[[people.alumni]]
+[[people]]
   name = "Scott Stoller"
   grad_year = "1997"
 
 
-[[people.alumni]]
+[[people]]
   name = "Paul Stodghill"
   grad_year = "1997"
 
 
-[[people.alumni]]
+[[people]]
   name = "Roderick Moten"
   grad_year = "1997"
 
 
-[[people.alumni]]
+[[people]]
   name = "Ashvin Dsourza"
   grad_year = "1996"
 
 
-[[people.alumni]]
+[[people]]
   name = "Thomas Bressoud"
   grad_year = "1996"
 
 
-[[people.alumni]]
+[[people]]
   name = "Peter Kopke"
   grad_year = "1996"
 
 
-[[people.alumni]]
+[[people]]
   name = "Samuel Weber"
   grad_year = "1995"
 
 
-[[people.alumni]]
+[[people]]
   name = "Paul Jackson"
   grad_year = "1995"
 
 
-[[people.alumni]]
+[[people]]
   name = "Kjartan Stefansson"
   grad_year = "1995"
 
 
-[[people.alumni]]
+[[people]]
   name = "Yanhong Liu"
   grad_year = "1995"
 
 
-[[people.alumni]]
+[[people]]
   name = "Pei-Hsin Ho"
   grad_year = "1995"
 
 
-[[people.alumni]]
+[[people]]
   name = "Sofoklis Efremidis"
   grad_year = "1994"
 
 
-[[people.alumni]]
+[[people]]
   name = "Richard Johnson"
   grad_year = "1994"
 
 
-[[people.alumni]]
+[[people]]
   name = "Mayan Moudgill"
   grad_year = "1994"
 
 
-[[people.alumni]]
+[[people]]
   name = "Ze-Wei Chen"
   grad_year = "1994"
 
 
-[[people.alumni]]
+[[people]]
   name = "Judith Underwood"
   grad_year = "1994"
 
 
-[[people.alumni]]
+[[people]]
   name = "Clifford Krumvieda"
   grad_year = "1993"
 
 
-[[people.alumni]]
+[[people]]
   name = "Wei Li"
   grad_year = "1993"
 
 
-[[people.alumni]]
+[[people]]
   name = "Eugene Ressler"
   grad_year = "1993"
 
 
-[[people.alumni]]
+[[people]]
   name = "Devdatt Dubhashi"
   grad_year = "1992"
 
 
-[[people.alumni]]
+[[people]]
   name = "Micah Beck"
   grad_year = "1992"
 
 
-[[people.alumni]]
+[[people]]
   name = "John Reppy"
   grad_year = "1992"
 
 
-[[people.alumni]]
+[[people]]
   name = "Geoffrey Smith"
   grad_year = "1991"
 
 
-[[people.alumni]]
+[[people]]
   name = "Radhakrishnan Jagadeesan"
   grad_year = "1991"
 
 
-[[people.alumni]]
+[[people]]
   name = "John Field"
   grad_year = "1991"
 
 
-[[people.alumni]]
+[[people]]
   name = "Pavel Curtis"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "Laurie Hendren"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "Jacob Aizikowitz"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "Nils Klarlund"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "Anne Rogers"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "Charles Elkan"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "James Russell"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "Vasant Shanbhogue"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "Kimberly Taylor"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "Mark Novick"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "David Basin"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "Chetan Murthy"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "Alan Zaring"
   grad_year = "1990"
 
 
-[[people.alumni]]
+[[people]]
   name = "Matthew Dickerson"
   grad_year = "1989"
 
 
-[[people.alumni]]
+[[people]]
   name = "Douglas Ierardi"
   grad_year = "1989"
 
 
-[[people.alumni]]
+[[people]]
   name = "Timothy Griffin"
   grad_year = "1989"
 
 
-[[people.alumni]]
+[[people]]
   name = "Scott Smith"
   grad_year = "1989"
 
 
-[[people.alumni]]
+[[people]]
   name = "Bradley Vander Zanden"
   grad_year = "1989"
 
 
-[[people.alumni]]
+[[people]]
   name = "Stephen Peckham"
   grad_year = "1989"
 
 
-[[people.alumni]]
+[[people]]
   name = "James Hook"
   grad_year = "1988"
 
 
-[[people.alumni]]
+[[people]]
   name = "Alexander Aiken"
   grad_year = "1988"
 
 
-[[people.alumni]]
+[[people]]
   name = "Ernest McCurley"
   grad_year = "1988"
 
 
-[[people.alumni]]
+[[people]]
   name = "Anne Neirnyck"
   grad_year = "1988"
 
 
-[[people.alumni]]
+[[people]]
   name = "Todd Knoblock"
   grad_year = "1988"
 
 
-[[people.alumni]]
+[[people]]
   name = "Paul Mendler"
   grad_year = "1988"
 
 
-[[people.alumni]]
+[[people]]
   name = "William Pugh"
   grad_year = "1988"
 
 
-[[people.alumni]]
+[[people]]
   name = "Richard Palmer"
   grad_year = "1987"
 
 
-[[people.alumni]]
+[[people]]
   name = "Jan Prins"
   grad_year = "1987"
 
 
-[[people.alumni]]
+[[people]]
   name = "Jennifer Widom"
   grad_year = "1987"
 
 
-[[people.alumni]]
+[[people]]
   name = "Ralph Johnson"
   grad_year = "1987"
 
 
-[[people.alumni]]
+[[people]]
   name = "Michael Schwartzbach"
   grad_year = "1987"
 
 
-[[people.alumni]]
+[[people]]
   name = "Stuart Allen"
   grad_year = "1987"
 
 
-[[people.alumni]]
+[[people]]
   name = "Walter Cleaveland"
   grad_year = "1987"
 
 
-[[people.alumni]]
+[[people]]
   name = "Douglas Howe"
   grad_year = "1987"
 
 
-[[people.alumni]]
+[[people]]
   name = "Roger Hoover"
   grad_year = "1987"
 
 
-[[people.alumni]]
+[[people]]
   name = "Bowen Alpern"
   grad_year = "1986"
 
 
-[[people.alumni]]
+[[people]]
   name = "James Sasaki"
   grad_year = "1986"
 
 
-[[people.alumni]]
+[[people]]
   name = "Dean Jacobs"
   grad_year = "1985"
 
 
-[[people.alumni]]
+[[people]]
   name = "Van Nguyen"
   grad_year = "1985"
 
 
-[[people.alumni]]
+[[people]]
   name = "Robert Harper"
   grad_year = "1985"
 
 
-[[people.alumni]]
+[[people]]
   name = "Ryan Stansifer"
   grad_year = "1985"
 
 
-[[people.alumni]]
+[[people]]
   name = "Susan Horowtiz"
   grad_year = "1985"
 
 
-[[people.alumni]]
+[[people]]
   name = "Hans-Juerge Boehm"
   grad_year = "1984"
 
 
-[[people.alumni]]
+[[people]]
   name = "Thomas Murtagh"
   grad_year = "1983"
 
 
-[[people.alumni]]
+[[people]]
   name = "Richard Schlichting"
   grad_year = "1982"
 
 
-[[people.alumni]]
+[[people]]
   name = "Robert Hood"
   grad_year = "1982"
 
 
-[[people.alumni]]
+[[people]]
   name = "Thomas Reps"
   grad_year = "1982"
 
 
-[[people.alumni]]
+[[people]]
   name = "Robert Melville"
   grad_year = "1981"
 
 
-[[people.alumni]]
+[[people]]
   name = "Scott Johnson"
   grad_year = "1981"
 
 
-[[people.alumni]]
+[[people]]
   name = "Dean Kraftt"
   grad_year = "1981"
 
 
-[[people.alumni]]
+[[people]]
   name = "John Holm"
   grad_year = "1980"
 
 
-[[people.alumni]]
+[[people]]
   name = "Gary Levin"
   grad_year = "1980"
 
 
-[[people.alumni]]
+[[people]]
   name = "Peter Vanderbilt"
   grad_year = "1980"
 
 
-[[people.alumni]]
+[[people]]
   name = "Tat-Hung Chan"
   grad_year = "1980"
 
 
-[[people.alumni]]
+[[people]]
   name = "Carl Hauser"
   grad_year = "1980"
 
 
-[[people.alumni]]
+[[people]]
   name = "Joseph Bates"
   grad_year = "1979"
 
 
-[[people.alumni]]
+[[people]]
   name = "Lishing Liu"
   grad_year = "1979"
 
 
-[[people.alumni]]
+[[people]]
   name = "Richard Reitman"
   grad_year = "1978"
 
 
-[[people.alumni]]
+[[people]]
   name = "Marvin Solomon"
   grad_year = "1977"
 
 
-[[people.alumni]]
+[[people]]
   name = "James McGraw"
   grad_year = "1977"
 
 
-[[people.alumni]]
+[[people]]
   name = "Juan Lafuente"
   grad_year = "1976"
 
 
-[[people.alumni]]
+[[people]]
   name = "Kuo-chung Tai"
   grad_year = "1976"
 
 
-[[people.alumni]]
+[[people]]
   name = "Edmund Clarke"
   grad_year = "1976"
 
 
-[[people.alumni]]
+[[people]]
   name = "Narain Gehani"
   grad_year = "1975"
 
 
-[[people.alumni]]
+[[people]]
   name = "Susan Owicki"
   grad_year = "1975"
 
 
-[[people.alumni]]
+[[people]]
   name = "Kurt Mehlhorn"
   grad_year = "1974"
 
 
-[[people.alumni]]
+[[people]]
   name = "Steven Muchnick"
   grad_year = "1974"
 
 
-[[people.alumni]]
+[[people]]
   name = "Donald Johnson"
   grad_year = "1973"
 
 
-[[people.alumni]]
+[[people]]
   name = "John Brown"
   grad_year = "1972"
 
 
-[[people.alumni]]
+[[people]]
   name = "Jean Levy"
   grad_year = "1972"
 
 
-[[people.alumni]]
+[[people]]
   name = "John Cherniavsky"
   grad_year = "1972"
 

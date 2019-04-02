@@ -11,8 +11,8 @@
   <div class="col-xs-12 col-md-8">
 
     <div class="row">
-    {{ with $page.Params.people }}
-      {{ range .faculty }}
+    {{ with $page.Params }}
+      {{ range .people }}
         <div class="col-md-4" id="profile">
           <div class="portrait"
                style="background-image: url('{{ (printf "/img/%s" .img) | relURL }}');"></div>

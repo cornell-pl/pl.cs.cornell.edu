@@ -12,8 +12,8 @@
 
     <div class="row">
     <ul class="list-split">
-    {{ with $page.Params.people }}
-      {{ range .alumni }}
+    {{ with $page.Params }}
+      {{ range .people }}
         <li itemprop="name">
         {{/* Link to website */}}
         {{ if isset . "www" }}
