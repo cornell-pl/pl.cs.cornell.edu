@@ -457,6 +457,10 @@ small,
   background-size: cover;
 }
 
+#profile .portrait-title {
+	margin-top: 10px;
+}
+
 #profile .portrait-title h2 {
   font-size: 1.75em;
   font-weight: 300;
@@ -1229,7 +1233,7 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-brand {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: bold;
   font-size: 1.2em;
   color: #fff;

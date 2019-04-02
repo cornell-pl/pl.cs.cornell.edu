@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Cornell PL</title>
+    <title>Homes on Cornell Programming Languages</title>
     <link>https://cornell-pl.github.io/home/</link>
-    <description>Recent content in Homes on Cornell PL</description>
+    <description>Recent content in Homes on Cornell Programming Languages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; TODO</copyright>
@@ -36,6 +36,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://cornell-pl.github.io/home/students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affiliated Faculty and Researchers</title>
+      <link>https://cornell-pl.github.io/home/affiliated/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://cornell-pl.github.io/home/affiliated/</guid>
       <description></description>
     </item>
     
