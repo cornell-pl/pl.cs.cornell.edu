@@ -16,7 +16,7 @@
         <div class="col-md-4" id="profile">
           <div class="portrait"
                style="background-image: url('{{ (printf "/img/%s" .img) | relURL }}');"></div>
-          <meta itemprop="image" content="{{ (printf "img/%s" .img) | absURL }}">
+          <meta itemprop="image" content="{{ (printf "/img/%s" .img) | absURL }}">
 
           <div class="portrait-title">
             <h3 itemprop="name">

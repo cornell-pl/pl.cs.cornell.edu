@@ -446,7 +446,6 @@ small,
 }
 
 #profile .portrait {
-  background-image: url('../img/portrait.jpg');
   width: 150px;
   height: 150px;
   margin: 0 auto;
