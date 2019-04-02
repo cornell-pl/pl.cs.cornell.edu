@@ -1,0 +1,38 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Blog Posts widget -->
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+
+  </div>
+  <div class="col-xs-12 col-md-8">
+
+    <div class="row">
+    {{ with $page.Params.people }}
+      {{ range .affiliated }}
+        <div class="col-md-4" id="profile">
+          {{ if isset . "img" }}
+            <div class="portrait"
+                 style="background-image: url('{{ (printf "/img/%s" .img) | relURL }}');"></div>
+            <meta itemprop="image" content="{{ (printf "img/%s" .img) | absURL }}">
+          {{ else }} 
+            <div class="portrait"
+                 style="background-image: url('{{ (printf "/img/unknown.png") | relURL }}');"></div>
+            <meta itemprop="image" content="{{ (printf "img/unknown.png") | absURL }}">
+          {{ end }}
+
+          <div class="portrait-title">
+            <h3 itemprop="name">
+              <a href="{{ .www }}">{{ .name }}</a>
+            </h3>
+          </div>
+        </div>
+      {{ end }}
+    {{ end }}
+    </div>
+
+  </div>
+</div>

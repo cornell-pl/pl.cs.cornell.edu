@@ -8,7 +8,7 @@ baseurl = ""
 relativeurls = true
 
 # Title of your site
-title = "Cornell PL"
+title = "Cornell Programming Languages"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -136,6 +136,11 @@ enableGitInfo = false
   name = "Students"
   url = "#students"
   weight = 6
+
+[[menu.main]]
+  name = "Affiliated"
+  url = "#affiliated"
+  weight = 7
 
 [[menu.main]]
   name = "Alumni"
