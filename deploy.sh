@@ -54,7 +54,6 @@ fi
 # Move public/ to docs/ for github pages deployment.
 rm -rf docs/
 mv public/ docs/
-git checkout docs/CNAME
 
 if [[ "$website" != "" ]]; then
   # Push the changes to the remote server
