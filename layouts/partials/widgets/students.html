@@ -10,9 +10,10 @@
   </div>
   <div class="col-xs-12 col-md-8">
 
+    <div class="row">
     {{ with $page.Params.people }}
       {{ range .students }}
-        <div id="profile">
+        <div class="col-md-4" id="profile">
           <div class="portrait"
                style="background-image: url('{{ (printf "/img/%s" .img) | relURL }}');"></div>
           <meta itemprop="image" content="{{ (printf "img/%s" .img) | absURL }}">
@@ -23,6 +24,7 @@
         </div>
       {{ end }}
     {{ end }}
+    </div>
 
   </div>
 </div>
