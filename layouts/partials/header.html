@@ -128,7 +128,7 @@
   {{ if not .IsHome }}
   <title> {{ .Title }} | {{ .Site.Title }} </title>
   {{ else }}
-  <title> {{ .Site.Title }} | {{ .Site.Params.role }}, {{ (index .Site.Params.organizations 0).name }} </title>
+  <title> {{ .Site.Title }} </title>
   {{ end }}
 
 </head>

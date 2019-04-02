@@ -19,7 +19,9 @@
           <meta itemprop="image" content="{{ (printf "img/%s" .img) | absURL }}">
 
           <div class="portrait-title">
-            <h3 itemprop="name">{{ .name }}</h3>
+            <h3 itemprop="name">
+              <a href="{{ .www }}">{{ .name }}</a>
+            </h3>
           </div>
         </div>
       {{ end }}
