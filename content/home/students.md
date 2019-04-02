@@ -16,21 +16,17 @@ title = "Students"
 [[people]]
   name = "Rolph Recto"
   www = "https://rachitnigam.com/"
-  img = "rn359.jpg"
 
 [[people]]
   name = "Alexa"
   www = "https://rachitnigam.com/"
-  img = "rn359.jpg"
 
 [[people]]
   name = "Pedro"
   www = "https://rachitnigam.com/"
-  img = "rn359.jpg"
 
 [[people]]
   name = "Eric"
   www = "https://rachitnigam.com/"
-  img = "rn359.jpg"
 
 +++
