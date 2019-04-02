@@ -10,11 +10,21 @@
   </div>
   <div class="col-xs-12 col-md-8">
 
-    {{ range $student := .Params.people.students }}
+    <div class="row">
+    {{ with $page.Params.people }}
+      {{ range .faculty }}
+        <div class="col-md-4" id="profile">
+          <div class="portrait"
+               style="background-image: url('{{ (printf "/img/%s" .img) | relURL }}');"></div>
+          <meta itemprop="image" content="{{ (printf "img/%s" .img) | absURL }}">
 
-      <p>{{ $student.name }}</p>
-
+          <div class="portrait-title">
+            <h3 itemprop="name">{{ .name }}</h3>
+          </div>
+        </div>
+      {{ end }}
     {{ end }}
+    </div>
 
   </div>
 </div>

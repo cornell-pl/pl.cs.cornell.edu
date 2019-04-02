@@ -11,31 +11,31 @@ title = "Faculty"
 [[people.faculty]]
   name = "Erik Andersen"
   www = "https://rachitnigam.com/"
-  img = "/img/rn359.jpg"
+  img = "rn359.jpg"
 
 [[people.faculty]]
   name = "Robert Constable"
   www = "https://rachitnigam.com/"
-  img = "/img/rn359.jpg"
+  img = "rn359.jpg"
 
 [[people.faculty]]
   name = "Nate Foster"
   www = "https://rachitnigam.com/"
-  img = "/img/rn359.jpg"
+  img = "rn359.jpg"
 
 [[people.faculty]]
   name = "Dexter Kozen"
   www = "https://rachitnigam.com/"
-  img = "/img/rn359.jpg"
+  img = "rn359.jpg"
 
 [[people.faculty]]
   name = "Greg Morrisett"
   www = "https://rachitnigam.com/"
-  img = "/img/rn359.jpg"
+  img = "rn359.jpg"
 
 [[people.faculty]]
   name = "Andrew Myers"
   www = "https://rachitnigam.com/"
-  img = "/img/rn359.jpg"
+  img = "rn359.jpg"
 
 +++
