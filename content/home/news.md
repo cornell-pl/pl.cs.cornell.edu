@@ -1,4 +1,6 @@
 +++
+active = false
+
 # Recent News
 [[news]]
   date = "May 2019"

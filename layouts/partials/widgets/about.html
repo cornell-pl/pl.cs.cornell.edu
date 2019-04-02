@@ -8,37 +8,10 @@
   </div>
   <div class="col-xs-12 col-md-8" itemprop="description">
 
+
     {{ $page.Content }}
 
     <div class="row">
-
-      {{ with $page.Params.interests }}
-      <div class="col-sm-5">
-        <h3>{{ i18n "interests" | markdownify }}</h3>
-        <ul class="ul-interests">
-          {{ range .interests }}
-          <li>{{ . | markdownify }}</li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-
-      {{ with $page.Params.education }}
-      <div class="col-sm-7">
-        <h3>{{ i18n "education" | markdownify }}</h3>
-        <ul class="ul-edu fa-ul">
-          {{ range .courses }}
-          <li>
-            <i class="fa-li fa fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
-            </div>
-          </li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
 
       {{ with $.GetPage "/home/news.md" }}
         <h3>News</h3>

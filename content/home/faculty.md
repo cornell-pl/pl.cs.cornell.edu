@@ -2,38 +2,38 @@
 widget = "faculty"
 active = true
 date = 2016-04-20T00:00:00
+layout = "widgets/people"
 
 weight = 2
 
 title = "Faculty"
 
-# Students
-[[people.faculty]]
+[[people]]
   name = "Erik Andersen"
   www = "https://rachitnigam.com/"
   img = "rn359.jpg"
 
-[[people.faculty]]
+[[people]]
   name = "Robert Constable"
   www = "https://rachitnigam.com/"
   img = "rn359.jpg"
 
-[[people.faculty]]
+[[people]]
   name = "Nate Foster"
   www = "https://rachitnigam.com/"
   img = "rn359.jpg"
 
-[[people.faculty]]
+[[people]]
   name = "Dexter Kozen"
   www = "https://rachitnigam.com/"
   img = "rn359.jpg"
 
-[[people.faculty]]
+[[people]]
   name = "Greg Morrisett"
   www = "https://rachitnigam.com/"
   img = "rn359.jpg"
 
-[[people.faculty]]
+[[people]]
   name = "Andrew Myers"
   www = "https://rachitnigam.com/"
   img = "rn359.jpg"
