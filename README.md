@@ -1,4 +1,4 @@
-Cornell PL WWW
--------------
+rachitnigam.com
+===============
 
-Website to store the Cornell PL website.
+Rachit Nigam's personal website.

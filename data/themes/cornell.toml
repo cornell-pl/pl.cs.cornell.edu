@@ -1,0 +1,21 @@
+# Theme metadata
+name = "1950s"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#b31b1b"
+primary_light = "#b31b1b"
+primary_dark = "#b31b1b"
+
+# Menu
+menu_primary = "#b31b1b"
+menu_text = "#fff"
+menu_text_active = "#fff"
+menu_title = "#fff"
+
+# Backgrounds
+background = "#fff"
+home_section_odd = "#fff"
+home_section_even = "#f7f7f7"

@@ -1,0 +1,22 @@
+{{ .Scratch.Set "Rachit Nigam" "./" }}
+{{ .Scratch.Set "Arjun Guha" "http://people.cs.umass.edu/arjun" }}
+{{ .Scratch.Set "Sam Baxter" "https://baxtersa.github.io/about/" }}
+{{ .Scratch.Set "Shriram Krishnamurthi" "http://cs.brown.edu/~sk/" }}
+{{ .Scratch.Set "Joe Gibbs Politz" "https://jpolitz.github.io/" }}
+{{ .Scratch.Set "Jean-Baptiste Jeannin" "https://jeannin.github.io/" }}
+{{ .Scratch.Set "Rian Shambaugh" "https://www.linkedin.com/in/rian-shambaugh-4b89b5a3" }}
+{{ .Scratch.Set "Jane Tangen" "http://jane.ptangen.com/" }}
+
+{{ if $.Params.authors }}
+  {{ $authorLen := len $.Params.authors }}
+  {{ range $k, $v := $.Params.authors }}
+    {{- if $.Scratch.Get . -}}
+      <a href="{{ $.Scratch.Get . }}" target="_blank" rel="noopener">
+        {{- $v | markdownify -}}
+      </a>
+    {{- else -}}
+      {{- $v | markdownify -}}
+    {{- end -}}
+    {{- if lt $k (sub $authorLen 1) -}}, {{ end }}
+  {{ end }}
+{{ end }}
