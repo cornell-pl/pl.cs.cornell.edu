@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Cornell PL"
-  canonical_url = "https://rachitnigam.com"
+  canonical_url = "https://cornell-pl.github.io/www/"
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
