@@ -4,6 +4,8 @@ name = "1950s"
 # Is theme light or dark?
 light = true
 
+soft_text = "#aaa"
+
 # Primary
 primary = "#b31b1b"
 primary_light = "#b31b1b"

@@ -9,33 +9,33 @@ title = "Faculty"
 
 # Students
 [[people.faculty]]
-  name = "Rachit Nigam"
+  name = "Erik Andersen"
   www = "https://rachitnigam.com/"
   img = "/img/rn359.jpg"
-  bio = "Hi there"
 
 [[people.faculty]]
-  name = "Rolph Recto"
+  name = "Robert Constable"
   www = "https://rachitnigam.com/"
   img = "/img/rn359.jpg"
-  bio = "Hi there"
 
 [[people.faculty]]
-  name = "Alexa"
+  name = "Nate Foster"
   www = "https://rachitnigam.com/"
   img = "/img/rn359.jpg"
-  bio = "Hi there"
 
 [[people.faculty]]
-  name = "Pedro"
+  name = "Dexter Kozen"
   www = "https://rachitnigam.com/"
   img = "/img/rn359.jpg"
-  bio = "Hi there"
 
 [[people.faculty]]
-  name = "Eric"
+  name = "Greg Morrisett"
   www = "https://rachitnigam.com/"
   img = "/img/rn359.jpg"
-  bio = "Hi there"
+
+[[people.faculty]]
+  name = "Andrew Myers"
+  www = "https://rachitnigam.com/"
+  img = "/img/rn359.jpg"
 
 +++

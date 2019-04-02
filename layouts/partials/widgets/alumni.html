@@ -11,18 +11,20 @@
   <div class="col-xs-12 col-md-8">
 
     <div class="row">
-    <ul>
+    <ul class="list-split">
     {{ with $page.Params.people }}
       {{ range .alumni }}
         <li itemprop="name">
+        {{/* Link to website */}}
         {{ if isset . "www" }}
           <a href="{{ .www }}">{{ .name }}</a>
         {{ else }}
           {{ .name }}
         {{ end }}
         ({{ .grad_year }})
-        {{ if isset . "diss" }}
-          [<a href="{{ .diss }}">dissertation</a>]
+        {{/* Institution */}}
+        {{ if isset . "org" }}
+         <span class="institution">· {{ .org }}</span>
         {{ end }}</li>
       {{ end }}
     {{ end }}
