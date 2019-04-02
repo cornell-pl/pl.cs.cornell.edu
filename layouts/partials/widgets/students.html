@@ -1,0 +1,20 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Blog Posts widget -->
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+
+  </div>
+  <div class="col-xs-12 col-md-8">
+
+    {{ range $student := .Params.people.students }}
+
+      <p>{{ $student.name }}</p>
+
+    {{ end }}
+
+  </div>
+</div>
