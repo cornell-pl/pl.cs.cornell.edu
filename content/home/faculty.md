@@ -8,29 +8,34 @@ weight = 2
 title = "Faculty"
 
 # Students
-[[people.students]]
+[[people.faculty]]
   name = "Rachit Nigam"
   www = "https://rachitnigam.com/"
   img = "/img/rn359.jpg"
+  bio = "Hi there"
 
-[[people.students]]
+[[people.faculty]]
   name = "Rolph Recto"
   www = "https://rachitnigam.com/"
   img = "/img/rn359.jpg"
+  bio = "Hi there"
 
-[[people.students]]
+[[people.faculty]]
   name = "Alexa"
   www = "https://rachitnigam.com/"
   img = "/img/rn359.jpg"
+  bio = "Hi there"
 
-[[people.students]]
+[[people.faculty]]
   name = "Pedro"
   www = "https://rachitnigam.com/"
   img = "/img/rn359.jpg"
+  bio = "Hi there"
 
-[[people.students]]
+[[people.faculty]]
   name = "Eric"
   www = "https://rachitnigam.com/"
   img = "/img/rn359.jpg"
+  bio = "Hi there"
 
 +++
