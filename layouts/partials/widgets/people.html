@@ -14,9 +14,16 @@
     {{ with $page.Params }}
       {{ range .people }}
         <div class="col-md-4 col-sm-4" id="profile">
-          <div class="portrait"
-               style="background-image: url('{{ (printf "/img/%s" .img) | relURL }}');"></div>
-          <meta itemprop="image" content="{{ (printf "/img/%s" .img) | absURL }}">
+          {{ if isset . "img" }}
+            <div class="portrait"
+                 style="background-image: url('{{ (printf "/img/%s" .img) | relURL }}');"></div>
+            <meta itemprop="image" content="{{ (printf "img/%s" .img) | absURL }}">
+          {{ else }}
+            <div class="portrait"
+                 style="background-image: url('{{ (printf "/img/unknown.png") | relURL }}');"></div>
+            <meta itemprop="image" content="{{ (printf "img/unknown.png") | absURL }}">
+          {{ end }}
+
 
           <div class="portrait-title">
             <h3 itemprop="name">

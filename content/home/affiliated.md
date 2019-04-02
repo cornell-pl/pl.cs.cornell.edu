@@ -5,30 +5,32 @@ date = 2016-04-20T00:00:00
 
 weight = 4
 
+layout = "widgets/people"
+
 title = "Affiliated Faculty and Researchers"
 
 # Affiliated
-[[people.affiliated]]
+[[people]]
   name = "Michael Clarkson"
   www = "http://www.cs.cornell.edu/~clarkson/"
 
-[[people.affiliated]]
+[[people]]
   name = "Michael George"
   www = "http://www.cs.cornell.edu/~mdgeorge/"
 
-[[people.affiliated]]
+[[people]]
   name = "Elizavet Kozyri"
   www = "http://www.cs.cornell.edu/~ekozyri/"
 
-[[people.affiliated]]
+[[people]]
   name = "Kristina Sojakova"
   www = "http://www.cs.cornell.edu/~ks858/"
 
-[[people.affiliated]]
+[[people]]
   name = "Hardik Soni"
   www = "http://www.linkedin.com/in/sonihardik"
 
-[[people.affiliated]]
+[[people]]
   name = "Yuqian Zhang"
   www = "https://yuqian-zhang.github.io/"
 
