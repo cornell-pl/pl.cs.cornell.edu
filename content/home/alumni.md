@@ -1,8 +1,18 @@
 +++
+widget = "alumni"
+active = true
+date = 2016-04-20T00:00:00
+
+weight = 10
+
+title = "Alumni"
+
 [[people.alumni]]
   name = "Owen Arden"
+  www = "https://users.soe.ucsc.edu/~owen/"
   grad_year = "2017"
   org = "UC Santa Cruz"
+  diss = "https://newcatalog.library.cornell.edu/catalog/9905979"
 
 [[people.alumni]]
   name = "Mark Reitblatt"

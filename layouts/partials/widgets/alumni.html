@@ -10,11 +10,24 @@
   </div>
   <div class="col-xs-12 col-md-8">
 
-    {{ range $student := .Params.people.students }}
-
-      <p>{{ $student.name }}</p>
-
+    <div class="row">
+    <ul>
+    {{ with $page.Params.people }}
+      {{ range .alumni }}
+        <li itemprop="name">
+        {{ if isset . "www" }}
+          <a href="{{ .www }}">{{ .name }}</a>
+        {{ else }}
+          {{ .name }}
+        {{ end }}
+        ({{ .grad_year }})
+        {{ if isset . "diss" }}
+          [<a href="{{ .diss }}">dissertation</a>]
+        {{ end }}</li>
+      {{ end }}
     {{ end }}
+    </ul>
+    </div>
 
   </div>
 </div>
