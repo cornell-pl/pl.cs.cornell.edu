@@ -21,13 +21,12 @@
         {{ else }}
           {{ .name }}
         {{ end }}
-        <br />
-        ↳ 
+        <span class="institution">{{ .grad_year }}</span>
         {{ if isset . "org" }}
-          <span class="institution">{{ .grad_year }} · {{ .org }}</span>
-        {{ else }}
-          <span class="institution">{{ .grad_year }} </span>
-        {{ end }}</li>
+        <br />
+        ↳ <span class="institution">{{ .org }}</span>
+        {{ end }}
+        </li>
       {{ end }}
     {{ end }}
     </ul>
