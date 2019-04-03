@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Cornell Programming Languages</title>
+    <title>Homes on PL @ Cornell</title>
     <link>https://cornell-pl.github.io/home/</link>
-    <description>Recent content in Homes on Cornell Programming Languages</description>
+    <description>Recent content in Homes on PL @ Cornell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; TODO</copyright>
