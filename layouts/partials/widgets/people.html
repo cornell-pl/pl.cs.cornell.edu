@@ -1,5 +1,6 @@
 {{ $ := .root }}
 {{ $page := .page }}
+{{ $scratch := newScratch }}
 
 <!-- Blog Posts widget -->
 <div class="row">
@@ -14,20 +15,28 @@
     {{ with $page.Params }}
       {{ range .people }}
         <div class="col-sm-4 col-xs-6" id="profile">
-          {{ if isset . "img" }}
-            <div class="portrait"
-                 style="background-image: url('{{ (printf "/img/%s" .img) | relURL }}');"></div>
-            <meta itemprop="image" content="{{ (printf "img/%s" .img) | absURL }}">
-          {{ else }}
-            <div class="portrait"
-                 style="background-image: url('{{ (printf "/img/unknown.png") | relURL }}');"></div>
-            <meta itemprop="image" content="{{ (printf "img/unknown.png") | absURL }}">
+          {{ $scratch.Set "profileImage" "unknown.png"}}
+          {{ if .img }}
+            {{ $scratch.Set "profileImage" .img }}
           {{ end }}
+          {{ $img := ($scratch.Get "profileImage")}}
 
+          {{ if .www }}
+          <a href="{{ .www }}">
+          <img class="portrait"
+               alt="image for {{ .name }}"
+               src="{{ (printf "/img/%s" $img) | relURL }}">
+          </a>
+          {{ else }}
+            <img class="portrait"
+                 alt="image for {{ .name }}"
+                 src="{{ (printf "/img/%s" $img) | relURL }}">
+          {{ end }}
+          <meta itemprop="image" content="{{ (printf "img/%s" $img) | absURL }}">
 
           <div class="portrait-title">
             <h3 itemprop="name">
-            {{ if isset . "www" }}
+            {{ if .www }}
               <a href="{{ .www }}">{{ .name }}</a>
             {{ else }}
               {{ .name }}
