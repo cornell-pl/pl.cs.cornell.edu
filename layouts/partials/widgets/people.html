@@ -13,7 +13,7 @@
     <div class="row">
     {{ with $page.Params }}
       {{ range .people }}
-        <div class="col-md-4 col-sm-4" id="profile">
+        <div class="col-sm-4 col-xs-6" id="profile">
           {{ if isset . "img" }}
             <div class="portrait"
                  style="background-image: url('{{ (printf "/img/%s" .img) | relURL }}');"></div>
