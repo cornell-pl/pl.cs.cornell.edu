@@ -27,7 +27,11 @@
 
           <div class="portrait-title">
             <h3 itemprop="name">
+            {{ if isset . "www" }}
               <a href="{{ .www }}">{{ .name }}</a>
+            {{ else }}
+              {{ .name }}
+            {{ end }}
             </h3>
           </div>
         </div>

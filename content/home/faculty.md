@@ -10,30 +10,34 @@ title = "Faculty"
 
 [[people]]
   name = "Robert Constable"
-  www = "https://rachitnigam.com/"
+  www = "https://www.cs.cornell.edu/home/rc/"
 
 [[people]]
   name = "Nate Foster"
-  www = "https://rachitnigam.com/"
+  www = "https://www.cs.cornell.edu/~jnfoster/"
 
 [[people]]
   name = "Dexter Kozen"
-  www = "https://rachitnigam.com/"
+  www = "https://www.cs.cornell.edu/~kozen/"
 
 [[people]]
   name = "Greg Morrisett"
-  www = "https://rachitnigam.com/"
+  www = "https://www.cs.cornell.edu/~jgm/"
 
 [[people]]
   name = "Andrew Myers"
-  www = "https://rachitnigam.com/"
+  www = "https://www.cs.cornell.edu/andru/"
 
 [[people]]
   name = "Adrian Sampson"
-  www = "https://rachitnigam.com/"
+  www = "https://www.cs.cornell.edu/~asampson/"
+
+[[people]]
+  name = "Fred Schneider"
+  www = "https://www.cs.cornell.edu/fbs/"
 
 [[people]]
   name = "Ross Tate"
-  www = "https://rachitnigam.com/"
+  www = "https://www.cs.cornell.edu/~ross/"
 
 +++

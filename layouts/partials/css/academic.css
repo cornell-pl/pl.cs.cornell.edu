@@ -511,6 +511,13 @@ small,
   -webkit-column-count: 2;
   -moz-column-count: 2;
   column-count: 2;
+
+  -moz-column-fill: balance;
+  column-fill: balance;
+}
+
+.list-split li {
+  padding-bottom: 10px;
 }
 
 ul.ul-interests li {

@@ -19,6 +19,9 @@ title = "Affiliated Faculty and Researchers"
   www = "http://www.cs.cornell.edu/~mdgeorge/"
 
 [[people]]
+  name = "Ed Kiefer"
+
+[[people]]
   name = "Elizavet Kozyri"
   www = "http://www.cs.cornell.edu/~ekozyri/"
 
