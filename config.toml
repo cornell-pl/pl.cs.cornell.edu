@@ -9,7 +9,7 @@ relativeurls = true
 canonifyurls = true
 
 # Title of your site
-title = "Cornell Programming Languages"
+title = "PL @ Cornell"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
