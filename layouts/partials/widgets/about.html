@@ -2,32 +2,25 @@
 {{ $page := .page }}
 
 <!-- About widget -->
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="{{ if $.Site.Params.email }}person-email{{ end }}{{ if $.Site.Params.phone }} person-telephone{{ end }}{{ if $.Site.Params.address}} person-address{{ end }}">
+<div class="row" itemprop="author">
   <div class="col-xs-12 col-md-4">
     <div id="profile">
-      {{ if $.Site.Params.avatar }}
-      <div class="logo" style="background-image: url('{{ (printf "/img/%s" $.Site.Params.avatar) | relURL }}');"></div>
-      <meta itemprop="image" content="{{ (printf "img/%s" $.Site.Params.avatar) | absURL }}">
-      {{ end }}
+      <img class="logo" src="{{ (printf "/img/%s" $.Site.Params.avatar) | relURL }}">
+      <meta itemprop="image"
+            content="{{ (printf "img/%s" $.Site.Params.avatar) | absURL }}">
     </div>
   </div>
 
   <div class="col-xs-12 col-md-8" itemprop="description">
-
-
     {{ $page.Content }}
 
-    <div class="row">
-
-      {{ with $.GetPage "/home/news.md" }}
-        <h3>News</h3>
-        <ul class="ul-interests">
-          {{ range .Params.news }}
-            <li><i>{{ .date | markdownify }}</i> - {{ .content | markdownify }}</li>
-          {{ end }}
-        </ul>
-      {{ end }}
-
-    </div>
+    {{ with $.GetPage "/home/news.md" }}
+      <h3>News</h3>
+      <ul class="ul-interests">
+        {{ range .Params.news }}
+          <li><i>{{ .date | markdownify }}</i> - {{ .content | markdownify }}</li>
+        {{ end }}
+      </ul>
+    {{ end }}
   </div>
 </div>
