@@ -7,7 +7,7 @@ weight = 4
 
 layout = "widgets/people"
 
-title = "Affiliated Faculty and Researchers"
+title = "Affiliated Members"
 
 # Affiliated
 [[people]]
