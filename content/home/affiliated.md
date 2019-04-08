@@ -11,10 +11,6 @@ title = "Affiliated Members"
 
 # Affiliated
 [[people]]
-  name = "Michael Clarkson"
-  www = "http://www.cs.cornell.edu/~clarkson/"
-
-[[people]]
   name = "Michael George"
   www = "http://www.cs.cornell.edu/~mdgeorge/"
 
