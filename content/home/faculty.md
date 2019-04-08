@@ -9,6 +9,10 @@ weight = 2
 title = "Faculty"
 
 [[people]]
+  name = "Michael Clarkson"
+  www = "http://www.cs.cornell.edu/~clarkson/"
+
+[[people]]
   name = "Robert Constable"
   www = "https://www.cs.cornell.edu/home/rc/"
 
