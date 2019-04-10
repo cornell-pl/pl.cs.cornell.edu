@@ -30,9 +30,11 @@ title = "Students"
 
 [[people]]
   name = "Jonathan DiLorenzo"
+  www = "https://www.cs.cornell.edu/~dilorenzo/"
 
 [[people]]
   name = "Ryan Doenges"
+  www = "http://ryandoeng.es/"
 
 [[people]]
   name = "Molly Feldman"
@@ -48,9 +50,11 @@ title = "Students"
 
 [[people]]
   name = "Andrew Hirsch"
+  www = "http://www.cs.cornell.edu/~akhirsch/"
 
 [[people]]
   name = "Praveen Kumar"
+  www = "https://www.cs.cornell.edu/~praveenk/"
 
 [[people]]
   name = "Xiang Long"
@@ -64,6 +68,7 @@ title = "Students"
 
 [[people]]
   name = "Matthew Milano"
+  www = "http://www.cs.cornell.edu/~milano/"
 
 [[people]]
   name = "Fabian Muehlboeck"
@@ -82,6 +87,7 @@ title = "Students"
 
 [[people]]
   name = "Brittany Nkounkou"
+  www = "http://www.cs.cornell.edu/~nkounkou/"
 
 [[people]]
   name = "Edwin Peguero"
