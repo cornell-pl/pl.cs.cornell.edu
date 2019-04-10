@@ -11,6 +11,7 @@ title = "Faculty"
 [[people]]
   name = "Michael Clarkson"
   www = "http://www.cs.cornell.edu/~clarkson/"
+  img = "mrc26.jpg"
 
 [[people]]
   name = "Robert Constable"
@@ -20,6 +21,7 @@ title = "Faculty"
 [[people]]
   name = "Nate Foster"
   www = "https://www.cs.cornell.edu/~jnfoster/"
+  img = "jnf27.jpg"
 
 [[people]]
   name = "Dexter Kozen"

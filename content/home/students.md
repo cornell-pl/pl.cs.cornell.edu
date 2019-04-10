@@ -20,9 +20,13 @@ title = "Students"
 
 [[people]]
   name = "Eric Campbell"
+  www = "https://ericthewry.github.io"
+  img = "ehc86.jpg"
 
 [[people]]
   name = "Ethan Cecchetti"
+  www = "https://www.cs.cornell.edu/~ethan"
+  img = "ebc65.png"
 
 [[people]]
   name = "Jonathan DiLorenzo"
@@ -37,6 +41,7 @@ title = "Students"
 
 [[people]]
   name = "Josh Gancher"
+  img = "jrg358.png"
 
 [[people]]
   name = "Dietrich Geisler"
@@ -62,9 +67,13 @@ title = "Students"
 
 [[people]]
   name = "Fabian Muehlboeck"
+  www = "https://www.cs.cornell.edu/~fabianm"
+  img = "fm359.jpg"
 
 [[people]]
   name = "Haobin Ni"
+  www = "http://haobin.cx"
+  img = "hn332.jpg"
 
 [[people]]
   name = "Rachit Nigam"
@@ -97,6 +106,8 @@ title = "Students"
 
 [[people]]
   name = "Steffen Smolka"
+  www = "https://www.cs.cornell.edu/~smolka"
+  img = "sjs429.jpg"
 
 [[people]]
   name = "Alexa VanHattum"

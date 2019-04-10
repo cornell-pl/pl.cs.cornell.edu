@@ -17,6 +17,7 @@ title = "Alumni"
 [[people]]
   name = "Mark Reitblatt"
   grad_year = "2017"
+  www = "http://reitblatt.com.s3-website-us-west-1.amazonaws.com"
 
 [[people]]
   name = "Abhishek Anand"
@@ -25,25 +26,34 @@ title = "Alumni"
 [[people]]
   name = "Krishnaprasad Vikram"
   grad_year = "2015"
+  www = "http://www.cs.cornell.edu/~kvikram"
 
 [[people]]
   name = "Danfeng Zhang"
   grad_year = "2015"
+  www = "http://www.cse.psu.edu/~dbz5017"
+  org = "Penn State"
 
 
 [[people]]
   name = "Konstantinos Mamouras"
   grad_year = "2015"
+  www = "https://mamouras.web.rice.edu"
+  org = "Rice University"
 
 
 [[people]]
   name = "Jean-Baptiste Jeannin"
   grad_year = "2013"
+  www = "https://aero.engin.umich.edu/people/jean-baptiste-jeannin"
+  org = "University of Michigan"
 
 
 [[people]]
   name = "Mon Liu"
   grad_year = "2012"
+  www = "https://jedliu.net"
+  org = "Barefoot Networks"
 
 
 [[people]]
@@ -59,62 +69,65 @@ title = "Alumni"
 [[people]]
   name = "Michael Clarkson"
   grad_year = "2010"
+  www = "http://www.cs.cornell.edu/~clarkson"
+  org = "Cornell"
 
 
 [[people]]
   name = "Xin Qi"
   grad_year = "2010"
-
+  www = "https://sites.google.com/site/qixin99"
+  org = "Square"
 
 [[people]]
   name = "Thomas Roeder"
   grad_year = "2010"
 
-
 [[people]]
   name = "Stephen Chong"
   grad_year = "2008"
-
+  www = "https://people.seas.harvard.edu/~chong"
+  org = "Harvard"
 
 [[people]]
   name = "Jeffrey Hartline"
   grad_year = "2008"
 
-
 [[people]]
   name = "Milind Kulkarni"
   grad_year = "2008"
-
 
 [[people]]
   name = "Yin Wang"
   grad_year = "2008"
 
-
 [[people]]
   name = "Nathaniel Nystrom"
   grad_year = "2007"
-
+  www = "https://www.inf.usi.ch/nystrom"
+  org = "University of Lugano"
 
 [[people]]
   name = "Lantian Zheng"
   grad_year = "2007"
-
+  www = "https://ai.google/research/people/LantianZheng"
+  org = "Google"
 
 [[people]]
   name = "Matthew Fluet"
   grad_year = "2007"
-
+  www = "https://www.cs.rit.edu/~mtf"
+  org = "Rochester Institute of Technology"
 
 [[people]]
   name = "Grigory Bronevetsky"
   grad_year = "2007"
 
-
 [[people]]
   name = "Alexa Sharp"
   grad_year = "2007"
-
+  www = "https://www.cs.oberlin.edu/~asharp"
+  org = "Oberlin"
 
 [[people]]
   name = "Wojciech Moczydlowski"
@@ -144,6 +157,8 @@ title = "Alumni"
 [[people]]
   name = "Eliyahu Barzilay"
   grad_year = "2006"
+  www = "http://barzilay.org"
+  org = "Northeastern"
 
 
 [[people]]
@@ -154,6 +169,8 @@ title = "Alumni"
 [[people]]
   name = "Ulfar Erlingsson"
   grad_year = "2004"
+  www = "https://ai.google/research/people/ulfar"
+  org = "Google"
 
 
 [[people]]
@@ -179,16 +196,21 @@ title = "Alumni"
 [[people]]
   name = "Daniel Grossman"
   grad_year = "2003"
+  www = "https://homes.cs.washington.edu/~djg"
+  org = "University of Washington"
 
 
 [[people]]
   name = "Stephan Zdancewic"
   grad_year = "2002"
+  www = "http://www.cis.upenn.edu/~stevez"
+  org = "Penn"
 
 
 [[people]]
   name = "Yaron Minsky"
   grad_year = "2002"
+  org = "Jane Street"
 
 
 [[people]]
@@ -199,6 +221,8 @@ title = "Alumni"
 [[people]]
   name = "Stephanie Weirich"
   grad_year = "2002"
+  www = "https://www.cis.upenn.edu/~sweirich"
+  org = "Penn"
 
 
 [[people]]
@@ -229,6 +253,8 @@ title = "Alumni"
 [[people]]
   name = "David Patrick Walker"
   grad_year = "2000"
+  www = "http://www.cs.princeton.edu/~dpw"
+  org = "Princeton"
 
 
 [[people]]
@@ -274,6 +300,8 @@ title = "Alumni"
 [[people]]
   name = "Karl Crary"
   grad_year = "1998"
+  www = "http://www.cs.cmu.edu/~crary"
+  org = "Carnegie Mellon"
 
 
 [[people]]
@@ -394,6 +422,8 @@ title = "Alumni"
 [[people]]
   name = "John Reppy"
   grad_year = "1992"
+  www = "http://people.cs.uchicago.edu/~jhr"
+  org = "University of Chicago"
 
 
 [[people]]
@@ -514,6 +544,8 @@ title = "Alumni"
 [[people]]
   name = "Alexander Aiken"
   grad_year = "1988"
+  www = "http://theory.stanford.edu/~aiken"
+  org = "Stanford"
 
 
 [[people]]
@@ -554,6 +586,8 @@ title = "Alumni"
 [[people]]
   name = "Jennifer Widom"
   grad_year = "1987"
+  www = "https://cs.stanford.edu/people/widom"
+  org = "Stanford"
 
 
 [[people]]
@@ -609,6 +643,8 @@ title = "Alumni"
 [[people]]
   name = "Robert Harper"
   grad_year = "1985"
+  www = "http://www.cs.cmu.edu/~rwh"
+  org = "Carnegie Mellon"
 
 
 [[people]]
@@ -617,13 +653,17 @@ title = "Alumni"
 
 
 [[people]]
-  name = "Susan Horowtiz"
+  name = "Susan Horwitz"
   grad_year = "1985"
+  www = "http://pages.cs.wisc.edu/~horwitz"
+  org = "University of Wisconsin"
 
 
 [[people]]
   name = "Hans-Juerge Boehm"
   grad_year = "1984"
+  www = "https://www.hboehm.info"
+  org = "Google"
 
 
 [[people]]
@@ -724,6 +764,8 @@ title = "Alumni"
 [[people]]
   name = "Edmund Clarke"
   grad_year = "1976"
+  www = "https://www.cs.cmu.edu/~emc"
+  org = "Carnegie Mellon"
 
 
 [[people]]
