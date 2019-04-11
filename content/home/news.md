@@ -2,16 +2,17 @@
 active = false
 
 # Recent News
-[[news]]
-  date = "May 2019"
-  content = "I will be a research intern at [Facebook Reality Labs](https://www.facebook.com/careers/areas-of-work/facebookrealitylabs/?teams[0]=Facebook%20Reality%20Labs<Paste>) this summer"
-[[news]]
-  date = "Mar 2019"
-  content = "I volunteered for the PLDI 2019 [Artifact Evaluation Committee](https://pldi19.sigplan.org/committee/pldi-2019-pldi-research-artifacts-artifact-evaluation-committee)"
+# There are three kinds of news items: 'paper', 'award', and 'any'.
+# The first two are customized by `layout/partial/news.html` to make it easier
+# to quickly add news items. Use 'any' for other news items like students
+# graduating. See examples below.
 
 [[news]]
-  date = "Nov 2018"
-  content = "I am a student volunteer at [OOPSLA 2018](https://conf.researchr.org/track/splash-2018/splash-2018-OOPSLA)"
+  kind = "award"
+  date = "April 2019"
+  who = "Eric Campbell"
+  award_name = "NSF GRFP"
+  award_link = "https://www.nsfgrfp.org/"
 
 [[news]]
   date = "May 2018"

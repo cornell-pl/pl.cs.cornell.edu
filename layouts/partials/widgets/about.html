@@ -15,12 +15,7 @@
     {{ $page.Content }}
 
     {{ with $.GetPage "/home/news.md" }}
-      <h3>News</h3>
-      <ul class="ul-interests">
-        {{ range .Params.news }}
-          <li><i>{{ .date | markdownify }}</i> - {{ .content | markdownify }}</li>
-        {{ end }}
-      </ul>
+      {{ partial "news" . }}
     {{ end }}
   </div>
 </div>
