@@ -684,6 +684,8 @@ title = "Alumni"
 [[people]]
   name = "Thomas Reps"
   grad_year = "1982"
+  www = "http://pages.cs.wisc.edu/~reps"
+  org = "University of Wisconsin / Grammatech"
 
 
 [[people]]

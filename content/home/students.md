@@ -31,6 +31,7 @@ title = "Students"
 [[people]]
   name = "Jonathan DiLorenzo"
   www = "https://www.cs.cornell.edu/~dilorenzo/"
+  img = "jd753.jpg"
 
 [[people]]
   name = "Ryan Doenges"
@@ -51,10 +52,12 @@ title = "Students"
 [[people]]
   name = "Andrew Hirsch"
   www = "http://www.cs.cornell.edu/~akhirsch/"
+  img = "akh95.jpg"
 
 [[people]]
   name = "Praveen Kumar"
   www = "https://www.cs.cornell.edu/~praveenk/"
+  img = "pk467.png"
 
 [[people]]
   name = "Xiang Long"
@@ -69,6 +72,7 @@ title = "Students"
 [[people]]
   name = "Matthew Milano"
   www = "http://www.cs.cornell.edu/~milano/"
+  img = "mpm288.jpg"
 
 [[people]]
   name = "Fabian Muehlboeck"
