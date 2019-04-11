@@ -9,6 +9,12 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Shrutarshi Basu"
+  www = "https://basus.me/"
+  grad_year = "2018"
+  org = "Harvard"
+
+[[people]]
   name = "Owen Arden"
   www = "https://users.soe.ucsc.edu/~owen/"
   grad_year = "2017"
