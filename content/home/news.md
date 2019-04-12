@@ -9,12 +9,34 @@ active = false
 
 [[news]]
   kind = "award"
-  date = "April 2019"
+  date = "Apr 2019"
   who = "Eric Campbell"
   award_name = "NSF GRFP"
   award_link = "https://www.nsfgrfp.org/"
 
 [[news]]
-  date = "May 2018"
-  content = "[Stopify](https://www.stopify.org/) will appear at [PLDI 2018](https://conf.researchr.org/home/pldi-2018)"
+  kind = "paper"
+  date = "Apr 2019"
+  who = "Eric Campbell, Nate Foster, and Matthias Eichholz"
+  paper_name = "SafeP4"
+  paper_link = ""
+  conf_name = "ECOOP 2019"
+  conf_link = "https://conf.researchr.org/home/ecoop-2019"
+
+[[news]]
+  kind = "paper"
+  date = "Feb 2019"
+  who = "Steffen Smolka, Praveen Kumar, Nate Foster, Justin Hsu, Dexter Kozen, and Alexandra Silva"
+  paper_name = "Scalable Verification of Probabilistic Network Programs"
+  paper_link = ""
+  conf_name = "PLDI 2019"
+  conf_link = "https://conf.researchr.org/home/pldi-2019"
+
+[[news]]
+  kind = "award"
+  date = "Aug 2018"
+  who = "Nate Foster"
+  award_name = "SIGCOMM Rising Star"
+  award_link = "https://www.sigcomm.org/awards/sigcomm-rising-stars"
+
 +++
