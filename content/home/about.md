@@ -29,7 +29,3 @@ the [Frenetic](http://www.frenetic-lang.org) family of network programming
 languages,
 and [unsoundness of Java and Scala's type system](http://io.livecode.ch/learn/namin/unsound).
 
-We seek to study theoretical foundations and to build practical applications for
-programming languages.
-
-
