@@ -1,1 +1,1 @@
-deploy: onbuild make build
+deploy: onbuild make deploy
