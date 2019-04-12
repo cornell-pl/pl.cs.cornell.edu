@@ -11,6 +11,10 @@ title = "Affiliated Members"
 
 # Affiliated
 [[people]]
+  name = "Liron Cohen"
+  www = "https://www.cs.cornell.edu/~lironcohen"
+
+[[people]]
   name = "Michael George"
   www = "http://www.cs.cornell.edu/~mdgeorge/"
 
@@ -18,12 +22,14 @@ title = "Affiliated Members"
   name = "Ed Kiefer"
 
 [[people]]
-  name = "Elizavet Kozyri"
+  name = "Elisavet Kozyri"
   www = "http://www.cs.cornell.edu/~ekozyri/"
+  img = "ek439.png"
 
 [[people]]
   name = "Kristina Sojakova"
   www = "http://www.cs.cornell.edu/~ks858/"
+  img = "ks858.jpg"
 
 [[people]]
   name = "Hardik Soni"

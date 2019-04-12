@@ -50,7 +50,7 @@ title = "Alumni"
 
 
 [[people]]
-  name = "Mon Liu"
+  name = "Jed Liu"
   grad_year = "2012"
   www = "https://jedliu.net"
   org = "Barefoot Networks"
@@ -59,6 +59,8 @@ title = "Alumni"
 [[people]]
   name = "Kevin Walsh"
   grad_year = "2012"
+  www = "http://mathcs.holycross.edu/~kwalsh"
+  org = "Holy Cross"
 
 
 [[people]]
