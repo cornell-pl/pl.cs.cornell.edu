@@ -104,6 +104,8 @@ title = "Alumni"
 [[people]]
   name = "Milind Kulkarni"
   grad_year = "2008"
+  www = "https://engineering.purdue.edu/~milind/"
+  org = "Purdue"
 
 [[people]]
   name = "Yin Wang"
