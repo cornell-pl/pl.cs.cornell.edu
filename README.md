@@ -18,8 +18,6 @@ The website is generate by the [Hugo][hugo] website generator and uses the
 
 3. Run `hugo server -w` to generate the website locally.
 
-4. Run the `./deploy.sh` script to commit all changes to the `docs/` folder.
-
 [hugo]: https://gohugo.io/
 [go]: https://golang.org/
 [academic]: https://github.com/gcushen/hugo-academic
@@ -50,19 +48,5 @@ and add your changes.
 
 ## Deployment
 
-The test website is deployed using GitHub pages.
-
-1. In the repository top level, clone the `master` branch in `public/`
-```
-git clone --branch master https://github.com/cornell-pl/cornell-pl.github.io.git public/
-```
-
-2. Run the following to generate a website with *committed* changes:
-```
-git stash && hugo && git stash pop
-```
-
-3. Deploy by pushing to `master` from the `public/` directory:
-```
-cd public/ && git push
-```
+The website is automatically deployed by [Hooknook](https://github.com/sampsyo/hooknook/).
+Contact Adrian or Rachit if there are issues.
