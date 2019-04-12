@@ -214,7 +214,7 @@ title = "Alumni"
   name = "Stephan Zdancewic"
   grad_year = "2002"
   www = "http://www.cis.upenn.edu/~stevez"
-  org = "Penn"
+  org = "UPenn"
 
 
 [[people]]
@@ -232,7 +232,7 @@ title = "Alumni"
   name = "Stephanie Weirich"
   grad_year = "2002"
   www = "https://www.cis.upenn.edu/~sweirich"
-  org = "Penn"
+  org = "UPenn"
 
 
 [[people]]
@@ -577,11 +577,11 @@ title = "Alumni"
   name = "Paul Mendler"
   grad_year = "1988"
 
-
 [[people]]
   name = "William Pugh"
   grad_year = "1988"
-
+  www = "http://www.cs.umd.edu/~pugh/"
+  org = "UMD"
 
 [[people]]
   name = "Richard Palmer"
