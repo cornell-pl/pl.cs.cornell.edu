@@ -1,0 +1,36 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- Blog Posts widget -->
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+
+  </div>
+  <div class="col-xs-12 col-md-8">
+
+    <div class="row">
+    <ul class="list-split">
+    {{ with $page.Params }}
+      {{ range .people }}
+        <li itemprop="name">
+        {{/* Link to website */}}
+        {{ if isset . "www" }}
+          <a href="{{ .www }}">{{ .name }}</a>
+        {{ else }}
+          {{ .name }}
+        {{ end }}
+        <span class="institution">{{ .grad_year }}</span>
+        {{ if isset . "org" }}
+        <br />
+        ↳ <span class="institution">{{ .org }}</span>
+        {{ end }}
+        </li>
+      {{ end }}
+    {{ end }}
+    </ul>
+    </div>
+
+  </div>
+</div>

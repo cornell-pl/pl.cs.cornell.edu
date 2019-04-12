@@ -1,0 +1,21 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<!-- About widget -->
+<div class="row" itemprop="author">
+  <div class="col-xs-12 col-md-4">
+    <div id="profile">
+      <img class="logo" src="{{ (printf "/img/%s" $.Site.Params.avatar) | relURL }}">
+      <meta itemprop="image"
+            content="{{ (printf "img/%s" $.Site.Params.avatar) | absURL }}">
+    </div>
+  </div>
+
+  <div class="col-xs-12 col-md-8" itemprop="description">
+    {{ $page.Content }}
+
+    {{ with $.GetPage "/home/news.md" }}
+      {{ partial "news" . }}
+    {{ end }}
+  </div>
+</div>
