@@ -2,7 +2,7 @@
 <ul class="ul-interests">
   {{ range .Params.news }}
   <li>
-    (<i>{{ .date | markdownify }}</i>)
+    <i>{{ .date | markdownify }}</i> -
     {{ if (eq .kind "paper") }}
       {{/* Styling for 'paper' news items */}}
       <a href=".paper_link">{{ .paper_name | markdownify }}</a> was accepted at <a href="{{ .conf_link }}">{{ .conf_name }}</a>. Congratulations {{ .who }}!
