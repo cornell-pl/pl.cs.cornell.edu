@@ -1,0 +1,9 @@
+{
+    "icons": [{
+      "src": "img/dusk-asterisk.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }],
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest"
+}
