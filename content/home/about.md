@@ -12,4 +12,24 @@ weight = 1
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> I would found a research group where any programming language can be
+> thoroughly studied
+
+Cornell has been at the center of research on programming languages for more
+than 50 years. We are a diverse group of researchers whose work intersects a
+wide array of domains within computer science.
+
+Notable works from Cornell include:
+the [PL/C](https://en.wikipedia.org/wiki/PL/C) programming language,
+the [NuPRL](http://www.nuprl.org) proof assistant,
+[typed assembly language](https://www.cs.cornell.edu/talc),
+the [Cyclone](https://cyclone.thelanguage.org) programming language,
+the [Jif](http://www.cs.cornell.edu/jif) programming language,
+the [Frenetic](http://www.frenetic-lang.org) family of network programming
+languages,
+and [unsoundness of Java and Scala's type system](http://io.livecode.ch/learn/namin/unsound).
+
+We seek to study theoretical foundations and to build practical applications for
+programming languages.
+
+

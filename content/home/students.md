@@ -110,7 +110,7 @@ title = "Students"
   name = "Michael Roberts"
 
 [[people]]
-  name = "Isaac Scheff"
+  name = "Isaac Sheff"
   www = "https://www.cs.cornell.edu/~isheff"
   img = "ics24.png"
 

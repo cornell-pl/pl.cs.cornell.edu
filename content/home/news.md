@@ -11,7 +11,7 @@ active = false
   kind = "award"
   date = "Apr 2019"
   who = "Eric Campbell"
-  award_name = "NSF GRFP"
+  award_name = "NSF Fellowship"
   award_link = "https://www.nsfgrfp.org/"
 
 [[news]]
@@ -22,6 +22,13 @@ active = false
   paper_link = ""
   conf_name = "ECOOP 2019"
   conf_link = "https://conf.researchr.org/home/ecoop-2019"
+
+[[news]]
+  kind = "award"
+  date = "Mar 2019"
+  who = "Adrian Sampson"
+  award_name = "NSF CAREER"
+  award_link = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1845952"
 
 [[news]]
   kind = "paper"
