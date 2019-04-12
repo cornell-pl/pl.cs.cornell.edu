@@ -1,6 +1,10 @@
 .PHONY: public deploy clean
 
-build:
+themes/academic/README.md:
+	git submodule init
+	git submodule update --recursive
+
+build: themes/academic/README.md
 	hugo
 
 clean:
