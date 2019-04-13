@@ -15,10 +15,22 @@ title = "Alumni"
   org = "Harvard"
 
 [[people]]
+  name = "Eleanor Birrell"
+  www = "http://www.cs.pomona.edu/~ebirrell"
+  grad_year = "2018"
+  org = "Pomona"
+
+[[people]]
   name = "Owen Arden"
   www = "https://users.soe.ucsc.edu/~owen/"
   grad_year = "2017"
   org = "UC Santa Cruz"
+
+[[people]]
+  name = "Chinawat Isradisaikul"
+  www = "https://chinawat.github.io"
+  grad_year = "2017"
+  org = "Chiang Mai University"
 
 [[people]]
   name = "Mark Reitblatt"

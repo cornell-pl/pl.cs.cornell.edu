@@ -13,7 +13,7 @@ title = "PL @ Cornell"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; TODO"
+copyright = "&copy; 2019 by various Cornell PL students. Last updated 04/13/2019"
 
 theme = "academic"
 enableEmoji = false
