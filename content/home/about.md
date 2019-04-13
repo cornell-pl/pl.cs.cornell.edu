@@ -23,8 +23,8 @@ Notable works from Cornell include:
 [PL/C](https://en.wikipedia.org/wiki/PL/C),
 [NuPRL](http://www.nuprl.org),
 [Typed Assembly Language](https://www.cs.cornell.edu/talc),
+[Kleene Algebra with Tests](https://www.cs.cornell.edu/~kozen/Papers/kat.pdf),
 [Cyclone](https://cyclone.thelanguage.org),
 [Jif](http://www.cs.cornell.edu/jif),
 [Frenetic](http://www.frenetic-lang.org),
 and discovering the [unsoundness of Java and Scala's type system](http://io.livecode.ch/learn/namin/unsound).
-
