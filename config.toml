@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://cornell-pl.github.io/"
+baseurl = "http://pl.cs.cornell.edu/"
 
 relativeurls = true
 canonifyurls = true
@@ -13,7 +13,7 @@ title = "PL @ Cornell"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 by various Cornell PL students. Last updated 04/13/2019"
+copyright = "&copy; Cornell University 2019. Last updated 04/13/2019"
 
 theme = "academic"
 enableEmoji = false
@@ -43,6 +43,9 @@ enableGitInfo = false
   noreferrerLinks = true
 
 [params]
+  # Location of the source code for the website
+  gh_src = "https://github.com/cornell-pl/pl.cs.cornell.edu"
+
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
   color_theme = "cornell"
@@ -53,7 +56,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Cornell PL"
-  canonical_url = "https://cornell-pl.github.io/"
+  canonical_url = "http://pl.cs.cornell.edu/"
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "pl-logo.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

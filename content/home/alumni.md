@@ -249,8 +249,10 @@ title = "Alumni"
   org = "Hughes Research"
 
 [[people]]
-  name = "Li-Dong Zhou"
+  name = "Lidong Zhou"
   grad_year = "2001"
+  www = "https://www.microsoft.com/en-us/research/people/lidongz/"
+  org = "Microsoft Research"
 
 
 [[people]]
