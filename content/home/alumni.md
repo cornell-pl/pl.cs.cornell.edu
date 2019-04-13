@@ -132,6 +132,7 @@ title = "Alumni"
 [[people]]
   name = "Grigory Bronevetsky"
   grad_year = "2007"
+  org = "Google"
 
 [[people]]
   name = "Alexa Sharp"
@@ -147,7 +148,7 @@ title = "Alumni"
 [[people]]
   name = "Kevin Hamlen"
   grad_year = "2006"
-
+  org = "UT Dallas"
 
 [[people]]
   name = "Rohit Fernandes"
@@ -170,11 +171,9 @@ title = "Alumni"
   www = "http://barzilay.org"
   org = "Northeastern"
 
-
 [[people]]
   name = "Hubert Chen"
   grad_year = "2004"
-
 
 [[people]]
   name = "Ulfar Erlingsson"
@@ -186,25 +185,23 @@ title = "Alumni"
 [[people]]
   name = "James Cheney"
   grad_year = "2004"
-
+  org = "University of Edinburgh"
+  www = "http://homepages.inf.ed.ac.uk/jcheney/"
 
 [[people]]
   name = "James Ezick"
   grad_year = "2004"
 
-
 [[people]]
   name = "Amanda Holland-Minkley"
   grad_year = "2004"
-
 
 [[people]]
   name = "Alexei Kopylov"
   grad_year = "2004"
 
-
 [[people]]
-  name = "Daniel Grossman"
+  name = "Dan Grossman"
   grad_year = "2003"
   www = "https://homes.cs.washington.edu/~djg"
   org = "University of Washington"
@@ -226,7 +223,7 @@ title = "Alumni"
 [[people]]
   name = "Frederick Smith"
   grad_year = "2002"
-
+  org = "Mathworks"
 
 [[people]]
   name = "Stephanie Weirich"
@@ -234,11 +231,10 @@ title = "Alumni"
   www = "https://www.cis.upenn.edu/~sweirich"
   org = "UPenn"
 
-
 [[people]]
   name = "Aleksey Nogin"
   grad_year = "2002"
-
+  org = "Hughes Research"
 
 [[people]]
   name = "Li-Dong Zhou"
@@ -280,12 +276,12 @@ title = "Alumni"
 [[people]]
   name = "Jason J Hickey"
   grad_year = "2000"
-
+  org = "Google"
 
 [[people]]
   name = "Arthur Neal Glew"
   grad_year = "1999"
-
+  org = "Google"
 
 [[people]]
   name = "Takako Hickey"
@@ -303,9 +299,10 @@ title = "Alumni"
 
 
 [[people]]
-  name = "James Caldwell"
+  name = "Jim Caldwell"
   grad_year = "1998"
-
+  www = "http://www.uwyo.edu/cosc/cosc-directory/jlc/index.html"
+  org = "U. of Wyoming"
 
 [[people]]
   name = "Karl Crary"
@@ -327,7 +324,7 @@ title = "Alumni"
 [[people]]
   name = "Scott Stoller"
   grad_year = "1997"
-
+  org = "Stony Brook"
 
 [[people]]
   name = "Paul Stodghill"
@@ -449,7 +446,7 @@ title = "Alumni"
 [[people]]
   name = "John Field"
   grad_year = "1991"
-
+  org = "Google"
 
 [[people]]
   name = "Pavel Curtis"
@@ -459,7 +456,8 @@ title = "Alumni"
 [[people]]
   name = "Laurie Hendren"
   grad_year = "1990"
-
+  org = "McGill University"
+  www = "http://www.sable.mcgill.ca/~hendren/"
 
 [[people]]
   name = "Jacob Aizikowitz"
@@ -474,32 +472,28 @@ title = "Alumni"
 [[people]]
   name = "Anne Rogers"
   grad_year = "1990"
-
+  org = "University of Chicago"
+  www = "https://www.cs.uchicago.edu/people/profile/anne-rogers/www.cs.uchicago.edu/~amr/"
 
 [[people]]
   name = "Charles Elkan"
   grad_year = "1990"
 
-
 [[people]]
   name = "James Russell"
   grad_year = "1990"
-
 
 [[people]]
   name = "Vasant Shanbhogue"
   grad_year = "1990"
 
-
 [[people]]
   name = "Kimberly Taylor"
   grad_year = "1990"
 
-
 [[people]]
   name = "Mark Novick"
   grad_year = "1990"
-
 
 [[people]]
   name = "David Basin"
@@ -509,27 +503,25 @@ title = "Alumni"
 [[people]]
   name = "Chetan Murthy"
   grad_year = "1990"
-
+  org = "IBM"
 
 [[people]]
   name = "Alan Zaring"
   grad_year = "1990"
 
-
 [[people]]
   name = "Matthew Dickerson"
   grad_year = "1989"
-
 
 [[people]]
   name = "Douglas Ierardi"
   grad_year = "1989"
 
-
 [[people]]
   name = "Timothy Griffin"
   grad_year = "1989"
-
+  org = "University of Cambridge"
+  www = "https://www.cl.cam.ac.uk/~tgg22/"
 
 [[people]]
   name = "Scott Smith"
@@ -547,9 +539,9 @@ title = "Alumni"
 
 
 [[people]]
-  name = "James Hook"
+  name = "Jim Hook"
   grad_year = "1988"
-
+  org = "Portland State"
 
 [[people]]
   name = "Alexander Aiken"
@@ -581,7 +573,7 @@ title = "Alumni"
   name = "William Pugh"
   grad_year = "1988"
   www = "http://www.cs.umd.edu/~pugh/"
-  org = "UMD"
+  org = "University of Maryland"
 
 [[people]]
   name = "Richard Palmer"
@@ -618,7 +610,8 @@ title = "Alumni"
 [[people]]
   name = "Walter Cleaveland"
   grad_year = "1987"
-
+  org = "University of Maryland"
+  www = "https://www.cs.umd.edu/~rance/"
 
 [[people]]
   name = "Douglas Howe"
@@ -711,7 +704,7 @@ title = "Alumni"
 [[people]]
   name = "Dean Kraftt"
   grad_year = "1981"
-
+  org = "Cornell (retired)"
 
 [[people]]
   name = "John Holm"
