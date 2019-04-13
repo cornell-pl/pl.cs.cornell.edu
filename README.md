@@ -12,7 +12,7 @@ The website is generate by the [Hugo][hugo] website generator and uses the
 
 1. Recursively clone the repository:
    ```
-   git clone --recurse-submodules https://github.com/cornell-pl/www.git
+   git clone --recurse-submodules https://github.com/cornell-pl/pl.cs.cornell.edu.git
    ```
 2. Install [Go][go] (ver >= 0.49.2) and [Hugo][hugo] (ver >= 1.11).
 
