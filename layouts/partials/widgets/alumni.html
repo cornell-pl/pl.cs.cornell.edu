@@ -16,15 +16,15 @@
       {{ range .people }}
         <li itemprop="name">
         {{/* Link to website */}}
-        {{ if isset . "www" }}
+        {{ if .www }}
           <a href="{{ .www }}">{{ .name }}</a>
         {{ else }}
           {{ .name }}
         {{ end }}
         <span class="institution">{{ .grad_year }}</span>
-        {{ if isset . "org" }}
+        {{ with .org }}
         <br />
-        ↳ <span class="institution">{{ .org }}</span>
+        ↳ <span class="institution">{{ . }}</span>
         {{ end }}
         </li>
       {{ end }}
