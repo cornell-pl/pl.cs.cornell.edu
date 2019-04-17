@@ -8,11 +8,11 @@ active = false
 # graduating. See examples below.
 
 [[news]]
-  kind = “award”
-  date = “Apr ‘19”
-  who = “Drew Zagieboylo”
-  award_name = “NDSEG Fellowship”
-  award_link = “https://ndseg.asee.org”
+  kind = "award"
+  date = "Apr ‘19"
+  who = "Drew Zagieboylo"
+  award_name = "NDSEG Fellowship"
+  award_link = "https://ndseg.asee.org"
 
 [[news]]
   kind = "award"
