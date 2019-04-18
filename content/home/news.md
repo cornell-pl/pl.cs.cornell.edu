@@ -9,6 +9,13 @@ active = false
 
 [[news]]
   kind = "award"
+  date = "Apr ‘19"
+  who = "Drew Zagieboylo"
+  award_name = "NDSEG Fellowship"
+  award_link = "https://ndseg.asee.org"
+
+[[news]]
+  kind = "award"
   date = "Apr '19"
   who = "Eric Campbell"
   award_name = "NSF Fellowship"
