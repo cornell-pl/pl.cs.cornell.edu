@@ -8,8 +8,17 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  kind = "paper"
+  date = "Apr '19"
+  who = "Drew Zagieboylo, G. Edward Suh, and Andrew C. Myers"
+  paper_name = "Using Information Flow to Design an ISA That Controls Timing Channels"
+  paper_link = ""
+  conf_name = "CSF '19"
+  conf_link = "https://web.stevens.edu/csf2019/cfp.html"
+
+[[news]]
   kind = "award"
-  date = "Apr ‘19"
+  date = "Apr '19"
   who = "Drew Zagieboylo"
   award_name = "NDSEG Fellowship"
   award_link = "https://ndseg.asee.org"
