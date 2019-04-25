@@ -20,6 +20,10 @@ title = "Affiliated Members"
   www = "http://www.cs.cornell.edu/~mdgeorge/"
 
 [[people]]
+  name = "Ariel Kellison"
+  img = "ak2485.jpg"
+
+[[people]]
   name = "Ed Kiefer"
 
 [[people]]
