@@ -10,6 +10,15 @@ active = false
 [[news]]
   kind = "paper"
   date = "Apr '19"
+  who = "Elisavet Kozyri, Fred B. Schneider, Andrew Bedford, Josée Desharnais, and Nadia Tawbi"
+  paper_name = "Beyond Labels: Permissiveness for Dynamic Information Flow Enforcement"
+  paper_link = ""
+  conf_name = "CSF '19"
+  conf_link = "https://web.stevens.edu/csf2019/cfp.html"
+
+[[news]]
+  kind = "paper"
+  date = "Apr '19"
   who = "Drew Zagieboylo, G. Edward Suh, and Andrew C. Myers"
   paper_name = "Using Information Flow to Design an ISA That Controls Timing Channels"
   paper_link = ""
