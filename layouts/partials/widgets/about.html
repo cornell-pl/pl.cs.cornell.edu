@@ -14,8 +14,17 @@
   <div class="col-xs-12 col-md-8" itemprop="description">
     {{ $page.Content }}
 
+    <h3>News</h3>
+    <ul class='ul-interests'>
     {{ with $.GetPage "/home/news.md" }}
-      {{ partial "news" . }}
+      {{ range first 6 .Params.news }}
+        {{ partial "news_style.html" . }}
+      {{ end }}
     {{ end }}
+    </ul>
+
+    <a href="{{ ($.Site.GetPage "section" "news").Permalink }}">
+    All News >>
+    </a>
   </div>
 </div>

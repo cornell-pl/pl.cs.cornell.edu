@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ partial "header_image.html" . }}
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-2">
+    <h1>{{ .Title }}</h1>
+    {{ with .Site.GetPage "/home/news.md" }}
+    <ul class='ul-interests'>
+      {{ range .Params.news }}
+        {{ partial "news_style.html" . }}
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</div>
