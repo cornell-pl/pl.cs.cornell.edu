@@ -29,6 +29,11 @@ title = "Faculty"
   img = "dck10.jpg"
 
 [[people]]
+  name = "Owolabi Legunsen"
+  www = "http://mir.cs.illinois.edu/legunsen/"
+  img = "owo.jpg"
+
+[[people]]
   name = "Greg Morrisett"
   www = "https://www.cs.cornell.edu/~jgm/"
   img = "jgm19.jpg"

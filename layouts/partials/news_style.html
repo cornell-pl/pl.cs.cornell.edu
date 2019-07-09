@@ -1,5 +1,7 @@
 <li>
+  {{ if .date }}
   <i>{{ .date | markdownify }}</i> -
+  {{ end }}
   {{ if (eq .kind "paper") }}
     {{/* Styling for 'paper' news items */}}
     <a href="{{ .paper_link }}">{{ .paper_name | markdownify }}</a> was accepted at <a href="{{ .conf_link }}">{{ .conf_name }}</a>. Congratulations, {{ .who }}!
