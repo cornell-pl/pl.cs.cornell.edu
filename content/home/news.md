@@ -11,6 +11,14 @@ active = false
   content = "Owolabi Legunsen will be joining the group in Fall 2020!"
 
 [[news]]
+  date = "Jul 19"
+  content = "Isaac Sheff defended! Congratulations, Isaac!"
+
+[[news]]
+  date = "Jul 19"
+  content = "Andrew Hirsch defended! Congratulations, Andrew!"
+
+[[news]]
   date = "May 19"
   content = "Tom Magrino defended! Congratulations, Tom!"
 
