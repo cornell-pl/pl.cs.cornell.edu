@@ -52,13 +52,11 @@ title = "Alumni"
   www = "http://www.cse.psu.edu/~dbz5017"
   org = "Penn State"
 
-
 [[people]]
   name = "Konstantinos Mamouras"
   grad_year = "2015"
   www = "https://mamouras.web.rice.edu"
   org = "Rice University"
-
 
 [[people]]
   name = "Jean-Baptiste Jeannin"
@@ -66,13 +64,11 @@ title = "Alumni"
   www = "https://aero.engin.umich.edu/people/jean-baptiste-jeannin"
   org = "University of Michigan"
 
-
 [[people]]
   name = "Jed Liu"
   grad_year = "2012"
   www = "https://jedliu.net"
   org = "Barefoot Networks"
-
 
 [[people]]
   name = "Kevin Walsh"
@@ -80,18 +76,17 @@ title = "Alumni"
   www = "http://mathcs.holycross.edu/~kwalsh"
   org = "Holy Cross"
 
-
 [[people]]
   name = "Nikolaos Karampatziakis"
   grad_year = "2012"
-
+  org = "Microsoft"
+  www = "http://lowrank.net/nikos/index.html"
 
 [[people]]
   name = "Michael Clarkson"
   grad_year = "2010"
   www = "http://www.cs.cornell.edu/~clarkson"
   org = "Cornell"
-
 
 [[people]]
   name = "Xin Qi"
@@ -102,6 +97,8 @@ title = "Alumni"
 [[people]]
   name = "Thomas Roeder"
   grad_year = "2010"
+  www = "https://1.37e2.net/"
+  org = "Google"
 
 [[people]]
   name = "Stephen Chong"
@@ -122,6 +119,8 @@ title = "Alumni"
 [[people]]
   name = "Yin Wang"
   grad_year = "2008"
+  www = "https://cn.linkedin.com/in/yinwang"
+  org = "Intel"
 
 [[people]]
   name = "Nathaniel Nystrom"
@@ -155,7 +154,8 @@ title = "Alumni"
 [[people]]
   name = "Wojciech Moczydlowski"
   grad_year = "2007"
-
+  org = "Google"
+  www = "http://wojtek.moczydlowski.net/"
 
 [[people]]
   name = "Kevin Hamlen"
@@ -165,17 +165,16 @@ title = "Alumni"
 [[people]]
   name = "Rohit Fernandes"
   grad_year = "2006"
-
+  www = "https://in.linkedin.com/in/rohit-fernandes-a4651b38"
+  org = "Google"
 
 [[people]]
   name = "Daniel Marques"
   grad_year = "2006"
 
-
 [[people]]
   name = "Kamen Yotov"
   grad_year = "2006"
-
 
 [[people]]
   name = "Eliyahu Barzilay"
@@ -193,7 +192,6 @@ title = "Alumni"
   www = "https://ai.google/research/people/ulfar"
   org = "Google"
 
-
 [[people]]
   name = "James Cheney"
   grad_year = "2004"
@@ -203,10 +201,14 @@ title = "Alumni"
 [[people]]
   name = "James Ezick"
   grad_year = "2004"
+  www = "https://www.linkedin.com/in/jamesezick"
+  org = "Reservoir Labs"
 
 [[people]]
   name = "Amanda Holland-Minkley"
   grad_year = "2004"
+  org = "Washington & Jefferson College"
+  www = "http://www2.washjeff.edu/users/ahollandminkley/"
 
 [[people]]
   name = "Alexei Kopylov"
@@ -263,12 +265,14 @@ title = "Alumni"
 [[people]]
   name = "Ozan Hafizogullari"
   grad_year = "2001"
-
+  www = "https://www.linkedin.com/in/ohafizogullari"
+  org = "Google"
 
 [[people]]
   name = "Eric Aaron"
   grad_year = "2000"
-
+  org = "Colby College"
+  www = "http://cs.colby.edu/eaaron/"
 
 [[people]]
   name = "David Patrick Walker"
@@ -276,11 +280,9 @@ title = "Alumni"
   www = "http://www.cs.princeton.edu/~dpw"
   org = "Princeton"
 
-
 [[people]]
   name = "Nawaaz Ahmed"
   grad_year = "2000"
-
 
 [[people]]
   name = "Vijay S Menon"
@@ -301,16 +303,15 @@ title = "Alumni"
   name = "Takako Hickey"
   grad_year = "1998"
 
-
 [[people]]
   name = "Induprakas Kodukula"
   grad_year = "1998"
 
-
 [[people]]
   name = "Vladimir Kotlyar"
   grad_year = "1998"
-
+  www = "https://www.linkedin.com/in/vladimir-kotlyar-5b08123"
+  org = "Goldman Sachs"
 
 [[people]]
   name = "Jim Caldwell"
@@ -324,76 +325,79 @@ title = "Alumni"
   www = "http://www.cs.cmu.edu/~crary"
   org = "Carnegie Mellon"
 
-
 [[people]]
   name = "Pavel Naumov"
   grad_year = "1998"
-
+  org = "Claremont McKenna College"
+  www = "https://pavelnaumov.com/biography"
 
 [[people]]
   name = "Aswin van den Berg"
   grad_year = "1998"
 
-
 [[people]]
   name = "Scott Stoller"
   grad_year = "1997"
   org = "Stony Brook"
+  www = "https://www3.cs.stonybrook.edu/~stoller/"
 
 [[people]]
   name = "Paul Stodghill"
   grad_year = "1997"
-
+  org = "Agricultural Research Service, USDA"
 
 [[people]]
   name = "Roderick Moten"
   grad_year = "1997"
-
+  www = "https://www.linkedin.com/in/rodmoten"
+  org = "JPMorgan Chase & Co."
 
 [[people]]
   name = "Ashvin Dsourza"
   grad_year = "1996"
-
+  org = "Synopsys"
 
 [[people]]
   name = "Thomas Bressoud"
   grad_year = "1996"
-
+  www = "http://personal.denison.edu/~bressoud/"
+  org = "Denison University"
 
 [[people]]
   name = "Peter Kopke"
   grad_year = "1996"
 
-
 [[people]]
   name = "Samuel Weber"
   grad_year = "1995"
 
-
 [[people]]
   name = "Paul Jackson"
   grad_year = "1995"
-
+  www = "http://homepages.inf.ed.ac.uk/pbj/"
+  org = "University of Edinburgh"
 
 [[people]]
   name = "Kjartan Stefansson"
   grad_year = "1995"
 
-
 [[people]]
   name = "Yanhong Liu"
   grad_year = "1995"
-
+  www = "https://www3.cs.stonybrook.edu/~liu/"
+  org = "Stony Brook University"
 
 [[people]]
   name = "Pei-Hsin Ho"
   grad_year = "1995"
-
+  www = "https://www.linkedin.com/in/hopeihsin"
+  org = "Synopsys"
 
 [[people]]
   name = "Sofoklis Efremidis"
   grad_year = "1994"
-
+  www = "https://gr.linkedin.com/in/sofoklis-efremidis"
+  org = "Athens Information Technology"
 
 [[people]]
   name = "Richard Johnson"
@@ -826,11 +830,5 @@ title = "Alumni"
   name = "John Cherniavsky"
   grad_year = "1972"
   org = "National Science Foundation"
-  
-[[people]]
-  name = "Susan L. Graham"
-  grad_year = "1971"
-  www = "http://people.eecs.berkeley.edu/~graham/"
-  org = "UC Berkeley"
   
 +++
