@@ -695,12 +695,12 @@ title = "Alumni"
 [[people]]
   name = "Richard Schlichting"
   grad_year = "1982"
-
+  org = "AT&T"
+  www = "https://www.linkedin.com/in/rick-schlichting-6519487a"
 
 [[people]]
   name = "Robert Hood"
   grad_year = "1982"
-
 
 [[people]]
   name = "Thomas Reps"
@@ -708,16 +708,13 @@ title = "Alumni"
   www = "http://pages.cs.wisc.edu/~reps"
   org = "University of Wisconsin / Grammatech"
 
-
 [[people]]
   name = "Robert Melville"
   grad_year = "1981"
 
-
 [[people]]
   name = "Scott Johnson"
   grad_year = "1981"
-
 
 [[people]]
   name = "Dean Kraftt"
@@ -728,36 +725,29 @@ title = "Alumni"
   name = "John Holm"
   grad_year = "1980"
 
-
 [[people]]
   name = "Gary Levin"
   grad_year = "1980"
-
 
 [[people]]
   name = "Peter Vanderbilt"
   grad_year = "1980"
 
-
 [[people]]
   name = "Tat-Hung Chan"
   grad_year = "1980"
-
 
 [[people]]
   name = "Carl Hauser"
   grad_year = "1980"
 
-
 [[people]]
   name = "Joseph Bates"
   grad_year = "1979"
 
-
 [[people]]
   name = "Lishing Liu"
   grad_year = "1979"
-
 
 [[people]]
   name = "Richard Reitman"
