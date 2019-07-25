@@ -825,5 +825,12 @@ title = "Alumni"
 [[people]]
   name = "John Cherniavsky"
   grad_year = "1972"
-
+  org = "National Science Foundation"
+  
+[[people]]
+  name = "Susan L. Graham"
+  grad_year = "1971"
+  www = "http://people.eecs.berkeley.edu/~graham/"
+  org = "UC Berkeley"
+  
 +++
