@@ -12,15 +12,19 @@ active = false
 
 [[news]]
   date = "Jul 19"
-  content = "Isaac Sheff defended! Congratulations, Isaac!"
+  content = "Yizhou Zhang passed his B exam! Congratulations, Yizhou!"
 
 [[news]]
   date = "Jul 19"
-  content = "Andrew Hirsch defended! Congratulations, Andrew!"
+  content = "Isaac Sheff passed his B exam! Congratulations, Isaac!"
+
+[[news]]
+  date = "Jul 19"
+  content = "Andrew Hirsch passed his B exam! Congratulations, Andrew!"
 
 [[news]]
   date = "May 19"
-  content = "Tom Magrino defended! Congratulations, Tom!"
+  content = "Tom Magrino passed his B exam! Congratulations, Tom!"
 
 [[news]]
   kind = "paper"
