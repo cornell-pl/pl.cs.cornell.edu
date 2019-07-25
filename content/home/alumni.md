@@ -412,37 +412,42 @@ title = "Alumni"
 [[people]]
   name = "Ze-Wei Chen"
   grad_year = "1994"
-
+  org = "Akamai"
+  www = "https://www.linkedin.com/in/zewei-chen-3a999a4"
 
 [[people]]
   name = "Judith Underwood"
   grad_year = "1994"
-
+  www = "https://uk.linkedin.com/in/judithlunderwood"
+  org = "Healthcare Gateway"
 
 [[people]]
   name = "Clifford Krumvieda"
   grad_year = "1993"
-
+  org = "HPE SimpliVity"
 
 [[people]]
   name = "Wei Li"
   grad_year = "1993"
-
+  www = "https://www.linkedin.com/in/wei-li-a4a611"
+  org = "Intel"
 
 [[people]]
   name = "Eugene Ressler"
   grad_year = "1993"
-
+  org = "Google"
 
 [[people]]
   name = "Devdatt Dubhashi"
   grad_year = "1992"
-
+  org = "U of Gothenburg, Chalmers"
+  www = "https://www.chalmers.se/en/staff/Pages/dubhashi.aspx"
 
 [[people]]
   name = "Micah Beck"
   grad_year = "1992"
-
+  www = "http://web.eecs.utk.edu/~mbeck/"
+  org = "University of Tennessee"
 
 [[people]]
   name = "John Reppy"
@@ -450,16 +455,17 @@ title = "Alumni"
   www = "http://people.cs.uchicago.edu/~jhr"
   org = "University of Chicago"
 
-
 [[people]]
   name = "Geoffrey Smith"
   grad_year = "1991"
-
+  org = "Florida International University"
+  www = "https://www.cis.fiu.edu/faculty-staff/smith-geoffrey/"
 
 [[people]]
   name = "Radhakrishnan Jagadeesan"
   grad_year = "1991"
-
+  www = "http://fpl.cs.depaul.edu/rjagadeesan/"
+  org = "DePaul Univsersity"
 
 [[people]]
   name = "John Field"
@@ -469,7 +475,8 @@ title = "Alumni"
 [[people]]
   name = "Pavel Curtis"
   grad_year = "1990"
-
+  org = "Microsoft"
+  www = "https://www.linkedin.com/in/pavelcurtis"
 
 [[people]]
   name = "Laurie Hendren"
@@ -480,12 +487,13 @@ title = "Alumni"
 [[people]]
   name = "Jacob Aizikowitz"
   grad_year = "1990"
-
+  org = "XMPie"
 
 [[people]]
   name = "Nils Klarlund"
   grad_year = "1990"
-
+  org = "Clairgrove LLC"
+  www = "http://www.clairgrove.com/index.html"
 
 [[people]]
   name = "Anne Rogers"
@@ -496,6 +504,8 @@ title = "Alumni"
 [[people]]
   name = "Charles Elkan"
   grad_year = "1990"
+  www = "https://www.linkedin.com/in/celkan"
+  org = "Goldman Sachs"
 
 [[people]]
   name = "James Russell"
@@ -504,6 +514,8 @@ title = "Alumni"
 [[people]]
   name = "Vasant Shanbhogue"
   grad_year = "1990"
+  org = "RBS Greenwich Capital"
+  www = "https://www.linkedin.com/in/vasant-shanbhogue-9238774"
 
 [[people]]
   name = "Kimberly Taylor"
@@ -516,7 +528,8 @@ title = "Alumni"
 [[people]]
   name = "David Basin"
   grad_year = "1990"
-
+  www = "https://inf.ethz.ch/personal/basin/"
+  org = "ETH Zurich"
 
 [[people]]
   name = "Chetan Murthy"
@@ -526,14 +539,20 @@ title = "Alumni"
 [[people]]
   name = "Alan Zaring"
   grad_year = "1990"
+  www = "https://www.owu.edu/academics/departments-programs/department-of-mathematics-and-computer-science/faculty-staff/alan-zaring/"
+  org = "Ohio Wesleyan"
 
 [[people]]
   name = "Matthew Dickerson"
   grad_year = "1989"
+  org = "Middlebury College"
+  www = "http://www.middlebury.edu/academics/cs/faculty/node/23361"
 
 [[people]]
   name = "Douglas Ierardi"
   grad_year = "1989"
+  www = "https://www.deshawresearch.com/people_compsci_ierardi.html"
+  org = "D.E. Shaw Research"
 
 [[people]]
   name = "Timothy Griffin"
@@ -545,16 +564,17 @@ title = "Alumni"
   name = "Scott Smith"
   grad_year = "1989"
 
-
 [[people]]
   name = "Bradley Vander Zanden"
   grad_year = "1989"
-
+  org = "University of Tennessee"
+  www = "http://web.eecs.utk.edu/~bvz/"
 
 [[people]]
   name = "Stephen Peckham"
   grad_year = "1989"
-
+  www = "https://www.linkedin.com/in/steve-peckham-69163410"
+  org = "IBM"
 
 [[people]]
   name = "Jim Hook"
@@ -567,21 +587,17 @@ title = "Alumni"
   www = "http://theory.stanford.edu/~aiken"
   org = "Stanford"
 
-
 [[people]]
   name = "Ernest McCurley"
   grad_year = "1988"
-
 
 [[people]]
   name = "Anne Neirnyck"
   grad_year = "1988"
 
-
 [[people]]
   name = "Todd Knoblock"
   grad_year = "1988"
-
 
 [[people]]
   name = "Paul Mendler"
@@ -597,11 +613,11 @@ title = "Alumni"
   name = "Richard Palmer"
   grad_year = "1987"
 
-
 [[people]]
   name = "Jan Prins"
   grad_year = "1987"
-
+  www = "http://www.cs.unc.edu/~prins/"
+  org = "University of North Calorina"
 
 [[people]]
   name = "Jennifer Widom"
@@ -609,21 +625,20 @@ title = "Alumni"
   www = "https://cs.stanford.edu/people/widom"
   org = "Stanford"
 
-
 [[people]]
   name = "Ralph Johnson"
   grad_year = "1987"
-
+  org = "University of Illinois at Urbana-Champaign"
 
 [[people]]
   name = "Michael Schwartzbach"
   grad_year = "1987"
-
+  www = "http://cs.au.dk/~amoeller/mis/"
+  org = "Aarhus University"
 
 [[people]]
   name = "Stuart Allen"
   grad_year = "1987"
-
 
 [[people]]
   name = "Walter Cleaveland"
@@ -634,32 +649,32 @@ title = "Alumni"
 [[people]]
   name = "Douglas Howe"
   grad_year = "1987"
-
+  www = "https://people.scs.carleton.ca/~howe/"
+  org = "Carleton University"
 
 [[people]]
   name = "Roger Hoover"
   grad_year = "1987"
 
-
 [[people]]
   name = "Bowen Alpern"
   grad_year = "1986"
-
+  www = "http://comet.lehman.cuny.edu/alpern/"
+  org = "Lehman College, CUNY"
 
 [[people]]
   name = "James Sasaki"
   grad_year = "1986"
-
+  www = "http://www.cs.iit.edu/~sasaki/"
+  org = "Illinois Institute of Technology"
 
 [[people]]
   name = "Dean Jacobs"
   grad_year = "1985"
 
-
 [[people]]
   name = "Van Nguyen"
   grad_year = "1985"
-
 
 [[people]]
   name = "Robert Harper"
@@ -667,11 +682,11 @@ title = "Alumni"
   www = "http://www.cs.cmu.edu/~rwh"
   org = "Carnegie Mellon"
 
-
 [[people]]
   name = "Ryan Stansifer"
   grad_year = "1985"
-
+  www = "https://cs.fit.edu/~ryan/"
+  org = "Florida Institute of Technology"
 
 [[people]]
   name = "Susan Horwitz"
@@ -679,18 +694,15 @@ title = "Alumni"
   www = "http://pages.cs.wisc.edu/~horwitz"
   org = "University of Wisconsin"
 
-
 [[people]]
   name = "Hans-Juerge Boehm"
   grad_year = "1984"
   www = "https://www.hboehm.info"
   org = "Google"
 
-
 [[people]]
   name = "Thomas Murtagh"
   grad_year = "1983"
-
 
 [[people]]
   name = "Richard Schlichting"
