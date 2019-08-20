@@ -9,6 +9,18 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Andrew Hirsch"
+  www = "http://www.cs.cornell.edu/~akhirsch/"
+  grad_year = "2019"
+  org = "Max Planck Institute"
+
+[[people]]
+  name = "Tom Magrino"
+  www = "https://tommagrino.com/"
+  grad_year = "2019"
+  org = "Google"
+
+[[people]]
   name = "Shrutarshi Basu"
   www = "https://basus.me/"
   grad_year = "2018"
@@ -832,5 +844,5 @@ title = "Alumni"
   name = "John Cherniavsky"
   grad_year = "1972"
   org = "National Science Foundation"
-  
+
 +++

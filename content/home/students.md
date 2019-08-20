@@ -50,11 +50,6 @@ title = "Students"
   name = "Dietrich Geisler"
 
 [[people]]
-  name = "Andrew Hirsch"
-  www = "http://www.cs.cornell.edu/~akhirsch/"
-  img = "akh95.jpg"
-
-[[people]]
   name = "Praveen Kumar"
   www = "https://www.cs.cornell.edu/~praveenk/"
   img = "pk467.png"
@@ -63,11 +58,6 @@ title = "Students"
   name = "Xiang Long"
   www = "http://www.cs.cornell.edu/~xiang"
   img = "xl483.jpg"
-
-[[people]]
-  name = "Tom Magrino"
-  www = "http://www.cs.cornell.edu/~tmagrino"
-  img = "trm67.jpg"
 
 [[people]]
   name = "Matthew Milano"
