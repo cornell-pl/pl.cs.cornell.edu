@@ -8,6 +8,10 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  date = "Aug 19"
+  content = "Fabian Muehlboeck passed his B exam! Congratulations, Fabian!"
+
+[[news]]
   content = "Owolabi Legunsen will be joining the group in Fall 2020!"
 
 [[news]]
