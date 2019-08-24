@@ -65,11 +65,6 @@ title = "Students"
   img = "mpm288.jpg"
 
 [[people]]
-  name = "Fabian Muehlboeck"
-  www = "https://www.cs.cornell.edu/~fabianm"
-  img = "fm359.jpg"
-
-[[people]]
   name = "Haobin Ni"
   www = "http://haobin.cx"
   img = "hn332.jpg"
@@ -100,11 +95,6 @@ title = "Students"
   name = "Michael Roberts"
 
 [[people]]
-  name = "Isaac Sheff"
-  www = "https://www.cs.cornell.edu/~isheff"
-  img = "ics24.png"
-
-[[people]]
   name = "Steffen Smolka"
   www = "https://www.cs.cornell.edu/~smolka"
   img = "sjs429.jpg"
@@ -123,10 +113,5 @@ title = "Students"
   name = "Drew Zagieboylo"
   www = "https://www.cs.cornell.edu/~dzag"
   img = "dz333.jpg"
-
-[[people]]
-  name = "Yizhou Zhang"
-  www = "http://www.cs.cornell.edu/~yizhou"
-  img = "yz657.jpg"
 
 +++

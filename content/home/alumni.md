@@ -9,8 +9,26 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Fabian Muehlboeck"
+  www = "https://www.cs.cornell.edu/~fabianm"
+  grad_year = "2019"
+  org = "IST Austria"
+
+[[people]]
+  name = "Yizhou Zhang"
+  www = "http://www.cs.cornell.edu/~yizhou"
+  grad_year = "2019"
+  org = "NYU, Harvard"
+
+[[people]]
   name = "Andrew Hirsch"
   www = "http://www.cs.cornell.edu/~akhirsch/"
+  grad_year = "2019"
+  org = "Max Planck Institute"
+
+[[people]]
+  name = "Isaac Sheff"
+  www = "https://www.cs.cornell.edu/~isheff"
   grad_year = "2019"
   org = "Max Planck Institute"
 
