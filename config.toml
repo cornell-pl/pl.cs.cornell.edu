@@ -151,6 +151,11 @@ enableGitInfo = false
   url = "#alumni"
   weight = 10
 
+[[menu.main]]
+  name = "Retreat"
+  url = "/retreat"
+  weight = 10
+
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
