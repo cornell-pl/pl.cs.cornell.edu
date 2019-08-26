@@ -27,3 +27,4 @@ The retreat will be followed by an evening activity (**TBD**).
 ## Archive
 
 - [PL Retreat 2018](https://www.cs.cornell.edu/courses/cs7190/2018fa/pl-retreat-2018.html)
+- [PL Retreat 2017](https://www.cs.cornell.edu/~fabianm/plr17/)
