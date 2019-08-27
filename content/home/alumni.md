@@ -9,6 +9,12 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Steffen Smolka"
+  www = "https://www.cs.cornell.edu/~smolka"
+  grad_year = "2019"
+  org = "Google Cloud"
+
+[[people]]
   name = "Fabian Muehlboeck"
   www = "https://www.cs.cornell.edu/~fabianm"
   grad_year = "2019"

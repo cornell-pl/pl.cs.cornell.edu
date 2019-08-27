@@ -95,11 +95,6 @@ title = "Students"
   name = "Michael Roberts"
 
 [[people]]
-  name = "Steffen Smolka"
-  www = "https://www.cs.cornell.edu/~smolka"
-  img = "sjs429.jpg"
-
-[[people]]
   name = "Alexa VanHattum"
   www = "https://www.cs.cornell.edu/~avh"
   img = "amv94.jpg"
