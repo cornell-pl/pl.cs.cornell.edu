@@ -17,7 +17,8 @@ The retreat will be followed by an evening activity (**TBD**).
 | 9:15 - 10:15am  | Keynote        | Benjamin Pierce |
 | 10:15 - 10:30am | Break          |
 | 10:30 - 11:30am | Student Talks  |
-| 11:30 - 12:00pm | Lunch          |
+| 11:30 - 12:00pm | Lightning Talks          |
+| 12:00 - 1:00pm  | Lunch          |
 | 1:00 - 2:00pm   | Student Talks  |
 | 2:00 - 3:00pm   | **TBD**            |
 | 3:00 - 3:15pm   | Break          |
