@@ -45,6 +45,7 @@ title = "Students"
 [[people]]
   name = "Josh Gancher"
   img = "jrg358.png"
+  www = "https://gancher.dev/"
 
 [[people]]
   name = "Dietrich Geisler"
