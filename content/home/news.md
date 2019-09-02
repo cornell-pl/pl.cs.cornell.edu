@@ -9,6 +9,10 @@ active = false
 
 [[news]]
   date = "Aug 19"
+  content = "Nate Foster and Praveen Kumar received the SIGCOMM best paper award. Congratulations, Nate and Praveen!"
+
+[[news]]
+  date = "Aug 19"
   content = "Steffen Smolka passed his B exam! Congratulations, Steffen!"
 
 [[news]]
