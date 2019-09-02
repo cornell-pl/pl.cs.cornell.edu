@@ -11,21 +11,31 @@ the [Ten-Eyck Room](https://cornellbotanicgardens.org/visit/rent-our-spaces-2/ed
 
 The retreat will be followed by evening activity at [Atlas Bowling](https://atlasbowl.com/locations/atlas-bowl/).
 
-| Time          | Activity       | Presenter |
-|---------------|----------------|-----------|
-| 8:30 - 9:00am   | Breakfast      |         |
-| 9:00 - 10:00am  | Keynote        | Benjamin Pierce |
-| 10:00 - 10:15am | Break          |
-| 10:15 - 11:35am | Student Talks  |
-| 11:35 - 11:40am | Short Break    |
-| 11:40 - 12:00pm | Lightning Talks|
-| 12:00 - 1:00pm  | Lunch          |
-| 1:00 - 2:00pm   | Student Talks  |
-| 2:00 - 2:05am   | Short Break    |
-| 2:05 - 3:05pm   | Student Talks  |
-| 3:05 - 3:20pm   | Break          |
-| 3:20 - 4:20pm   | Breakout group |
-| 4:20 - 5:05pm   | Faculty Talk   |
+| Time            | Presenter       | Topic |
+|-----------------|----------------|-----------|
+| 8:30 - 9:00   | Breakfast      |           |
+| 9:00 - 10:00  | **Benjamin Pierce**| Adventures in Property-Based Testing |
+| 10:00 - 10:15 | Break          |
+| 10:15 - 11:35 | Student Talks  |
+|               | **Siqiu Yao**      | Vyperflow: Information Flow for Blockchain Smart Contract |
+|               | **Jonathan DiLorenzo** | Transactional Forest: A DSL for Concurrent Filestore |
+|               | **Eric Campbell** | Type-Safe Data Plane Progrming with SafeP4 |
+|               | **Drew Zagiebolo** | Designing Secure Speculative Hardware |
+| 11:35 - 11:40 | Short Break    |
+| 11:40 - 12:00 | Lightning Talks|
+| 12:00 - 1:00  | Lunch          |
+| 1:00 - 2:00   | Student Talks  |
+|               | **Rolph Recto**    | Viaduct: An Extensible, Optimizing Compiler for Mixed-mode Multiparty Computations |
+                | **Matthew Milano** | Gallifrey: A language for Geodistributed programming |
+|               | **Dietrich Geisler** | Polymorphic types for Vector-Oriented programming |
+| 2:00 - 2:05   | Short Break    |
+| 2:05 - 3:05   | Student Talks  |
+|               | **Rachit Nigam**  | Dahlia: Time-sensitive affine types for Predictable Hardware Design
+|               | **Pedro Henrique Azevedo de Amorim**  | Denotational Semantics for probabilistic graphical models
+|               | **Ryan Doenges**  | Petr4: Formal Semantics for the P4 programming language
+| 3:05 - 3:20   | Break          |
+| 3:20 - 4:20   | Breakout group |
+| 4:20 - 5:05   | **Ross Tate** & **Adrian Sampson** | The Past, Present, and Future of WebAssembly
 
 ## Archive
 
