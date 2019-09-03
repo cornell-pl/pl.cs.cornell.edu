@@ -24,7 +24,7 @@ title = "Alumni"
   name = "Yizhou Zhang"
   www = "http://www.cs.cornell.edu/~yizhou"
   grad_year = "2019"
-  org = "NYU, Harvard"
+  org = "Harvard, Waterloo"
 
 [[people]]
   name = "Andrew Hirsch"
