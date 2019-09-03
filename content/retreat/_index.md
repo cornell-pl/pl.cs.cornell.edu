@@ -20,7 +20,7 @@ The retreat will be followed by evening activity at [Atlas Bowling](https://atla
 |               | **Siqiu Yao**      | Vyperflow: Information Flow for Blockchain Smart Contract |
 |               | **Jonathan DiLorenzo** | Transactional Forest: A DSL for Concurrent Filestore |
 |               | **Eric Campbell** | Type-Safe Data Plane Progrming with SafeP4 |
-|               | **Drew Zagiebolo** | Designing Secure Speculative Hardware |
+|               | **Drew Zagieboylo** | Designing Secure Speculative Hardware |
 | 11:35 - 11:40 | Short Break    |
 | 11:40 - 12:00 | Lightning Talks|
 | 12:00 - 1:00  | Lunch          |
