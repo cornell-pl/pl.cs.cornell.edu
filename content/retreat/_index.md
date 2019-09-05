@@ -6,6 +6,10 @@ highlight = false
 
 +++
 
+#### Organizers: Rachit Nigam and Adrian Sampson
+
+-----
+
 The programming languages retreat will take place on Monday, September 9 in
 the [Ten-Eyck Room](https://cornellbotanicgardens.org/visit/rent-our-spaces-2/edward-a-ten-eyck-room/) at the Cornell Botanic Gardens.
 
@@ -19,7 +23,7 @@ The retreat will be followed by evening activity at [Atlas Bowling](https://atla
 | 10:15 - 11:35 | Student Talks  |
 |               | **Siqiu Yao**      | Vyperflow: Information Flow for Blockchain Smart Contract |
 |               | **Jonathan DiLorenzo** | Transactional Forest: A DSL for Concurrent Filestore |
-|               | **Eric Campbell** | Type-Safe Data Plane Progrming with SafeP4 |
+|               | **Pedro Henrique Azevedo de Amorim**  | Denotational Semantics for probabilistic graphical models
 |               | **Drew Zagieboylo** | Designing Secure Speculative Hardware |
 | 11:35 - 11:40 | Short Break    |
 | 11:40 - 12:00 | Lightning Talks|
@@ -31,8 +35,8 @@ The retreat will be followed by evening activity at [Atlas Bowling](https://atla
 | 2:00 - 2:05   | Short Break    |
 | 2:05 - 3:05   | Student Talks  |
 |               | **Rachit Nigam**  | Dahlia: Time-sensitive affine types for Predictable Hardware Design
-|               | **Pedro Henrique Azevedo de Amorim**  | Denotational Semantics for probabilistic graphical models
-|               | **Ryan Doenges**  | Petr4: Formal Semantics for the P4 programming language
+|               | **Ryan Doenges**  | Petr4: Formal Foundations for P4
+|               | **Eric Campbell** | Type-Safe Data Plane Progrming with SafeP4 |
 | 3:05 - 3:20   | Break          |
 | 3:20 - 4:20   | Breakout group |
 | 4:20 - 5:05   | **Ross Tate** & **Adrian Sampson** | The Past, Present, and Future of WebAssembly
