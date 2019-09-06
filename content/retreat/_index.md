@@ -34,9 +34,9 @@ The retreat will be followed by evening activity at [Atlas Bowling](https://atla
 |               | **Dietrich Geisler** | Polymorphic types for Vector-Oriented programming |
 | 2:00 - 2:05   | Short Break    |
 | 2:05 - 3:05   | Student Talks  |
-|               | **Rachit Nigam**  | Dahlia: Time-sensitive affine types for Predictable Hardware Design
-|               | **Ryan Doenges**  | Petr4: Formal Foundations for P4
-|               | **Eric Campbell** | Type-Safe Data Plane Progrming with SafeP4 |
+|               | **Rachit Nigam**  | Dahlia: Time-sensitive affine types for Predictable Hardware Design |
+|               | **Eric Campbell** | Type-Safe Data Plane Programming with SafeP4 |
+|               | **Ryan Doenges**  | Petr4: Formal Foundations for P4 |
 | 3:05 - 3:20   | Break          |
 | 3:20 - 4:20   | Breakout group |
 | 4:20 - 5:05   | **Ross Tate** & **Adrian Sampson** | The Past, Present, and Future of WebAssembly
