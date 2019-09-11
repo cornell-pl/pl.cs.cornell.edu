@@ -22,6 +22,19 @@ The website is generate by the [Hugo][hugo] website generator and uses the
 [go]: https://golang.org/
 [academic]: https://github.com/gcushen/hugo-academic
 
+## PLDG
+
+To create a new PLDG page type:
+
+```
+hugo new pldg/<semester>.md
+```
+
+where `<semester>` is of the form `2019fa`.
+
+Next, edit the file generated in `content/pldg/<semester>.md` and update the
+link in `config.toml` for `pldg` to point to the latest webpage.
+
 
 ## Content Mangement
 

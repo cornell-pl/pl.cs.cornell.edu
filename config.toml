@@ -75,7 +75,7 @@ enableGitInfo = false
 
   date_format = "Jan 2, 2006"
   time_format = "3:04 PM"
-  reading_time = true
+  reading_time = false
   comment_count = false
   section_pager = false
   math = false
@@ -132,6 +132,11 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "PLDG"
+  url = "/pldg/2019fa/"
+  weight = 2
+
+[[menu.main]]
   name = "Faculty"
   url = "#faculty"
   weight = 5
@@ -150,6 +155,7 @@ enableGitInfo = false
   name = "Alumni"
   url = "#alumni"
   weight = 10
+
 
 [[menu.main]]
   name = "Retreat"
