@@ -8,8 +8,12 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  date = "Dec 16"
+  content = "Steffen Smolka, Nate Foster, Justin Hsu, Tobias Kappé, Dexter Kozen, and Alexandra Silva received a disinguished paper award at POPL. Congratulations!"
+
+[[news]]
   date = "Aug 19"
-  content = "Nate Foster and Praveen Kumar received the SIGCOMM best paper award. Congratulations, Nate and Praveen!"
+  content = "Nate Foster and Praveen Kumar received the SIGCOMM best student paper award. Congratulations, Nate and Praveen!"
 
 [[news]]
   date = "Aug 19"
