@@ -12,7 +12,7 @@
 
       {{ range .Data.Pages }}
         {{ $params := dict "pldg" . }}
-          {{ partial "post_li_simple" $params }}
+          {{ partial "pldg_archive" $params }}
       {{ end }}
   </div>
 </div>
