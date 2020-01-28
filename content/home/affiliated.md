@@ -27,11 +27,6 @@ title = "Affiliated Members"
   name = "Ed Kiefer"
 
 [[people]]
-  name = "Elisavet Kozyri"
-  www = "http://www.cs.cornell.edu/~ekozyri/"
-  img = "ek439.png"
-
-[[people]]
   name = "Kristina Sojakova"
   www = "http://www.cs.cornell.edu/~ks858/"
   img = "ks858.jpg"

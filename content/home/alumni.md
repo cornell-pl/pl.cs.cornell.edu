@@ -9,6 +9,12 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Elisavet Kozyri"
+  www = "http://ekozyri.com/"
+  grad_year = "2019"
+  org = "Harvard"
+
+[[people]]
   name = "Steffen Smolka"
   www = "https://www.cs.cornell.edu/~smolka"
   grad_year = "2019"
