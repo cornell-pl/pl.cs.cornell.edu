@@ -12,6 +12,16 @@ active = false
   content = "Steffen Smolka, Nate Foster, Justin Hsu, Tobias Kappé, Dexter Kozen, and Alexandra Silva received a disinguished paper award at POPL. Congratulations!"
 
 [[news]]
+  kind = "paper"
+  date = "Dec 13"
+  who = "Andrew Hirsch, Pedro Amorim, Ethan Cecchetti, Ross Tate and Owen Arden"
+  paper_name = "First-Order Logic for Flow-Limited Authorization"
+  paper_link = ""
+  conf_name = "CSF '20"
+  conf_link = "https://www.ieee-security.org/TC/CSF2020/"
+
+
+[[news]]
   date = "Aug 19"
   content = "Nate Foster and Praveen Kumar received the SIGCOMM best student paper award. Congratulations, Nate and Praveen!"
 
