@@ -13,7 +13,7 @@ active = false
 
 [[news]]
   kind = "paper"
-  date = "Dec 13"
+  date = "Dec 19"
   who = "Andrew Hirsch, Pedro Amorim, Ethan Cecchetti, Ross Tate and Owen Arden"
   paper_name = "First-Order Logic for Flow-Limited Authorization"
   paper_link = ""
