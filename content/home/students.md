@@ -19,6 +19,14 @@ title = "Students"
   img = "pa395.jpg"
 
 [[people]]
+  name = "Kushal Babel"
+
+[[people]]
+  name = "Griffin Berlstein"
+  www = "https://griffinberlste.in/"
+  img = "griffin.jpg"
+
+[[people]]
   name = "Eric Campbell"
   www = "https://ericthewry.github.io"
   img = "ehc86.jpg"
@@ -49,6 +57,8 @@ title = "Students"
 
 [[people]]
   name = "Dietrich Geisler"
+  www = "https://www.cs.cornell.edu/~dgeisler/"
+  img = "dag368.jpg"
 
 [[people]]
   name = "Praveen Kumar"
