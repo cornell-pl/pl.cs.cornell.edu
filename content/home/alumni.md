@@ -9,6 +9,12 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Liron Cohen"
+  www = "https://www.cs.cornell.edu/~lironcohen"
+  grad_year = "2019"
+  org = "Ben-Gurion University"
+
+[[people]]
   name = "Elisavet Kozyri"
   www = "http://ekozyri.com/"
   grad_year = "2019"
