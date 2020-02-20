@@ -20,6 +20,7 @@ title = "Students"
 
 [[people]]
   name = "Kushal Babel"
+  www = "https://www.cs.cornell.edu/~babel/"
 
 [[people]]
   name = "Griffin Berlstein"
