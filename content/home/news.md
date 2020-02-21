@@ -8,6 +8,15 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  kind = "paper"
+  date = "Feb 20"
+  who = "Rachit Nigam, Sachille Atapattu, Samuel Thomas, Zhijing Li, Ted Bauer, Yuwei Yi, Apurva Koti, Adrian Sampson, Zhiru Zhang"
+  paper_name = "Predictable Accelerator Design with Time-Sensitive Affine Types"
+  paper_link = "https://rachitnigam.com/files/pubs/dahlia.pdf"
+  conf_name = "PLDI '20"
+  conf_link = "https://pldi20.sigplan.org/"
+
+[[news]]
   date = "Dec 19"
   content = "Steffen Smolka, Nate Foster, Justin Hsu, Tobias Kappé, Dexter Kozen, and Alexandra Silva received a disinguished paper award at POPL. Congratulations!"
 
