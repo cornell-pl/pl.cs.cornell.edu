@@ -3,6 +3,11 @@ Cornell PL WWW
 
 Website for the Cornell Programming Languages group.
 
+The website is automatically deployed on each commit by [Hooknook](https://github.com/sampsyo/hooknook/).
+Contact [Rachit][] or [Adrian][] if there are issues.
+
+[adrian]: http://adriansampson.net
+[rachit]: https://rachitnigam.com
 
 ## Pre-requisites
 
@@ -21,6 +26,15 @@ The website is generate by the [Hugo][hugo] website generator and uses the
 [hugo]: https://gohugo.io/
 [go]: https://golang.org/
 [academic]: https://github.com/gcushen/hugo-academic
+
+## Adding news items
+
+In two easy steps!
+
+1. Edit the [news file][news] using one of the formats.
+2. If you don't have write access, create a pull request and tag @rachitnigam. If you do, just merge! The website automatically rebuilds and redeploys on each push.
+
+[news]: https://github.com/cornell-pl/pl.cs.cornell.edu/edit/master/content/home/news.md
 
 ## PLDG
 
@@ -58,8 +72,3 @@ of the same name (and directory structure) in `layout/`.
 For example, if you want to override the styling in
 `theme/academic/layout/foo/bar.html`, simply copy it to `layout/foo/bar.html`
 and add your changes.
-
-## Deployment
-
-The website is automatically deployed by [Hooknook](https://github.com/sampsyo/hooknook/).
-Contact Adrian or Rachit if there are issues.

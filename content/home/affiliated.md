@@ -11,11 +11,6 @@ title = "Affiliated Members"
 
 # Affiliated
 [[people]]
-  name = "Liron Cohen"
-  img = "lc864.jpg"
-  www = "https://www.cs.cornell.edu/~lironcohen"
-
-[[people]]
   name = "Michael George"
   www = "http://www.cs.cornell.edu/~mdgeorge/"
 
