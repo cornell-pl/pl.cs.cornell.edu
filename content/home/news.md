@@ -8,6 +8,14 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  date = "Mar 20"
+  content = "Rachit Nigam and Alexa VanHattum were selected as finalists for the Qualcomm Fellowship. Congratulations, Rachit and Alexa!"
+
+[[news]]
+  date = "Mar 20"
+  content = "Alexa VanHattum won the NSF GRFP. Congratulations, Alexa!"
+
+[[news]]
   kind = "paper"
   date = "Feb 20"
   who = "Rachit Nigam, Sachille Atapattu, Samuel Thomas, Zhijing Li, Ted Bauer, Yuwei Yi, Apurva Koti, Adrian Sampson, Zhiru Zhang"
