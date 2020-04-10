@@ -6,9 +6,14 @@ highlight = false
 
 +++
 
-#### Organizers: Rachit Nigam and Adrian Sampson
+#### Organizers: [Rachit Nigam](https://rachitnigam.com) and [Adrian Sampson](http://adriansampson.net)
+
+
+![](/img/retreat-2019.jpeg)
+
 
 -----
+
 
 The programming languages retreat will take place on Monday, September 9 in
 the [Ten-Eyck Room](https://cornellbotanicgardens.org/visit/rent-our-spaces-2/edward-a-ten-eyck-room/) at the Cornell Botanic Gardens.
