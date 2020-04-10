@@ -1,0 +1,4 @@
+AuthName          CORNELL
+AuthType          all
+require           valid-user
+CUWAproxyAllow    direct
