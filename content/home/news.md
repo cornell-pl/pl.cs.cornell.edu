@@ -8,6 +8,15 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  kind = "paper"
+  date = "May 15"
+  who = "Hardik Soni, Myriana Rifai, Ryan Doenges, Praveen Kumar, Nate Foster"
+  paper_name = "Composing programs with μP4"
+  paper_link = ""
+  conf_name = "SIGCOMM '20"
+  conf_link = "https://conferences.sigcomm.org/sigcomm/2020/"
+
+[[news]]
   date = "Mar 20"
   content = "Rachit Nigam and Alexa VanHattum were selected as finalists for the Qualcomm Fellowship. Congratulations, Rachit and Alexa!"
 
