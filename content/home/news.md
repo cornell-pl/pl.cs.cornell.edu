@@ -8,6 +8,10 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  date = "July 20"
+  content = "Matthew Milano defended his thesis! Congratulations, Matthew!"
+
+[[news]]
   kind = "paper"
   date = "May 15"
   who = "Hardik Soni, Myriana Rifai, Ryan Doenges, Praveen Kumar, Nate Foster"
@@ -15,6 +19,10 @@ active = false
   paper_link = ""
   conf_name = "SIGCOMM '20"
   conf_link = "https://conferences.sigcomm.org/sigcomm/2020/"
+
+[[news]]
+  date = "April 20"
+  content = "Micheal Roberts passed his A exam and became a PhD candidate! Congratulations, Micheal!"
 
 [[news]]
   date = "Mar 20"
@@ -53,30 +61,30 @@ active = false
 
 [[news]]
   date = "Aug 19"
-  content = "Steffen Smolka passed his B exam! Congratulations, Steffen!"
+  content = "Steffen Smolka defended his thesis! Congratulations, Steffen!"
 
 [[news]]
   date = "Aug 19"
-  content = "Fabian Muehlboeck passed his B exam! Congratulations, Fabian!"
+  content = "Fabian Muehlboeck defended his thesis! Congratulations, Fabian!"
 
 [[news]]
   content = "Owolabi Legunsen will be joining the group in Fall 2020!"
 
 [[news]]
   date = "Jul 19"
-  content = "Yizhou Zhang passed his B exam! Congratulations, Yizhou!"
+  content = "Yizhou Zhang defended his thesis! Congratulations, Yizhou!"
 
 [[news]]
   date = "Jul 19"
-  content = "Isaac Sheff passed his B exam! Congratulations, Isaac!"
+  content = "Isaac Sheff defended his thesis! Congratulations, Isaac!"
 
 [[news]]
   date = "Jul 19"
-  content = "Andrew Hirsch passed his B exam! Congratulations, Andrew!"
+  content = "Andrew Hirsch defended his thesis! Congratulations, Andrew!"
 
 [[news]]
   date = "May 19"
-  content = "Tom Magrino passed his B exam! Congratulations, Tom!"
+  content = "Tom Magrino defended his thesis! Congratulations, Tom!"
 
 [[news]]
   kind = "paper"
