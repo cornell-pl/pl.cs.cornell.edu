@@ -47,11 +47,6 @@ title = "Students"
   www = "http://ryandoeng.es/"
 
 [[people]]
-  name = "Molly Feldman"
-  www = "http://www.cs.cornell.edu/~molly"
-  img = "mqf3.jpg"
-
-[[people]]
   name = "Josh Gancher"
   img = "jrg358.png"
   www = "https://gancher.dev/"
@@ -70,11 +65,6 @@ title = "Students"
   name = "Xiang Long"
   www = "http://www.cs.cornell.edu/~xiang"
   img = "xl483.jpg"
-
-[[people]]
-  name = "Matthew Milano"
-  www = "http://www.cs.cornell.edu/~milano/"
-  img = "mpm288.jpg"
 
 [[people]]
   name = "Haobin Ni"

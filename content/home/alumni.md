@@ -9,6 +9,18 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Molly Feldman"
+  www = "http://www.cs.cornell.edu/~molly"
+  grad_year = "2020"
+  org = "Williams College"
+
+[[people]]
+  name = "Matthew Milano"
+  www = "http://www.cs.cornell.edu/~milano/"
+  grad_year = "2020"
+  org = "UC Berkeley"
+
+[[people]]
   name = "Liron Cohen"
   www = "https://www.cs.cornell.edu/~lironcohen"
   grad_year = "2019"
