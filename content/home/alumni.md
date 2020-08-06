@@ -21,6 +21,12 @@ title = "Alumni"
   org = "UC Berkeley"
 
 [[people]]
+  name = "Yuqian Zhang"
+  www = "https://sites.google.com/view/yuqianzhang"
+  grad_year = "2019"
+  org = "Rutgers University"
+
+[[people]]
   name = "Liron Cohen"
   www = "https://www.cs.cornell.edu/~lironcohen"
   grad_year = "2019"

@@ -11,15 +11,8 @@ title = "Affiliated Members"
 
 # Affiliated
 [[people]]
-  name = "Michael George"
-  www = "http://www.cs.cornell.edu/~mdgeorge/"
-
-[[people]]
   name = "Ariel Kellison"
   img = "ak2485.jpg"
-
-[[people]]
-  name = "Ed Kiefer"
 
 [[people]]
   name = "Kristina Sojakova"
@@ -31,7 +24,11 @@ title = "Affiliated Members"
   www = "http://www.linkedin.com/in/sonihardik"
 
 [[people]]
-  name = "Yuqian Zhang"
-  www = "https://yuqian-zhang.github.io/"
+  name = "Ross Tate"
+  www = "https://www.cs.cornell.edu/~ross/"
+  img = "ret87.jpg"
 
+[[people]]
+  name = "John Sarracino"
+  www = "http://goto.ucsd.edu/~john/"
 +++

@@ -53,9 +53,4 @@ title = "Faculty"
   www = "https://www.cs.cornell.edu/fbs/"
   img = "fbs2.jpg"
 
-[[people]]
-  name = "Ross Tate"
-  www = "https://www.cs.cornell.edu/~ross/"
-  img = "ret87.jpg"
-
 +++
