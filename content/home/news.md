@@ -9,6 +9,10 @@ active = false
 
 [[news]]
   date = "July 20"
+  content = "Drew Zagieboylo passes his A exam! Congratulations, Drew!"
+
+[[news]]
+  date = "July 20"
   content = "Molly Feldman defended her thesis! Congratulations, Molly!"
 
 [[news]]
@@ -26,7 +30,7 @@ active = false
 
 [[news]]
   date = "April 20"
-  content = "Micheal Roberts passed his A exam and became a PhD candidate! Congratulations, Micheal!"
+  content = "Micheal Roberts passed his A exam! Congratulations, Micheal!"
 
 [[news]]
   date = "Mar 20"
