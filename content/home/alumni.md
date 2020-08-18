@@ -769,6 +769,8 @@ title = "Alumni"
 [[people]]
   name = "Thomas Murtagh"
   grad_year = "1983"
+  www = "http://dept.cs.williams.edu/~tom/"
+  org = "Williams College"
 
 [[people]]
   name = "Richard Schlichting"
