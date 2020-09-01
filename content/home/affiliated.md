@@ -30,5 +30,6 @@ title = "Affiliated Members"
 
 [[people]]
   name = "John Sarracino"
-  www = "http://goto.ucsd.edu/~john/"
+  www = "https://www.cs.cornell.edu/~jsarracino/"
+  img = "john.jpg"
 +++
