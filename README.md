@@ -19,7 +19,7 @@ The website is generate by the [Hugo][hugo] website generator and uses the
    ```
    git clone --recurse-submodules https://github.com/cornell-pl/pl.cs.cornell.edu.git
    ```
-2. Install [Go][go] (ver >= 0.49.2) and [Hugo][hugo] (ver >= 1.11).
+2. Install [Go][go] (ver >= 0.49.2) and [Hugo][hugo] (ver >= 1.11 && ver <= 49.2). **Note**: The website will not build with newer versions of Hugo.
 
 3. Run `hugo server -w` to generate the website locally.
 
