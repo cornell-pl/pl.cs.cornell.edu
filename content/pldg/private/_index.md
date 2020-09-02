@@ -6,4 +6,4 @@ math = false
 
 #### Zoom
 
-<https://cornell.zoom.us/j/231639869>
+<https://cornell.zoom.us/j/231639869?pwd=UHNVcnY3ZXVydk5pcTRyQk5ncEhJZz09>
