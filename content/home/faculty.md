@@ -30,7 +30,7 @@ title = "Faculty"
 
 [[people]]
   name = "Owolabi Legunsen"
-  www = "http://mir.cs.illinois.edu/legunsen/"
+  www = "https://www.cs.cornell.edu/~legunsen/"
   img = "owo.jpg"
 
 [[people]]
