@@ -77,10 +77,6 @@ title = "Students"
   img = "rn359.jpg"
 
 [[people]]
-  name = "Brittany Nkounkou"
-  www = "http://www.cs.cornell.edu/~nkounkou/"
-
-[[people]]
   name = "Edwin Peguero"
 
 [[people]]
