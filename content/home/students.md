@@ -103,6 +103,10 @@ title = "Students"
   img = "sy657.jpg"
 
 [[people]]
+  name = "Ayaka Yorihiro"
+  img = "ay436.jpg"
+
+[[people]]
   name = "Drew Zagieboylo"
   www = "https://www.cs.cornell.edu/~dzag"
   img = "dz333.jpg"
