@@ -21,7 +21,7 @@ title = "Affiliated Members"
 
 [[people]]
   name = "Hardik Soni"
-  www = "http://www.linkedin.com/in/sonihardik"
+  www = "https://hksoni.github.io/"
 
 [[people]]
   name = "Ross Tate"
