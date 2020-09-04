@@ -104,6 +104,7 @@ title = "Students"
 
 [[people]]
   name = "Ayaka Yorihiro"
+  www = "https://ayakayorihiro.github.io"
   img = "ay436.jpg"
 
 [[people]]
