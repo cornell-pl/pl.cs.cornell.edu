@@ -67,6 +67,10 @@ title = "Students"
   img = "xl483.jpg"
 
 [[people]]
+  name = "Anshuman Mohan"
+  img = "am3327.jpg"  
+
+[[people]]
   name = "Haobin Ni"
   www = "http://haobin.cx"
   img = "hn332.jpg"
