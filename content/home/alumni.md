@@ -15,6 +15,11 @@ title = "Alumni"
   org = "Williams College"
 
 [[people]]
+  name = "Brittany Nkounkou"
+  www = "http://www.cs.cornell.edu/~nkounkou/"
+  grad_year = "2020"
+
+[[people]]
   name = "Matthew Milano"
   www = "http://www.cs.cornell.edu/~milano/"
   grad_year = "2020"

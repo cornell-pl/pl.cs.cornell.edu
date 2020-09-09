@@ -77,10 +77,6 @@ title = "Students"
   img = "rn359.jpg"
 
 [[people]]
-  name = "Brittany Nkounkou"
-  www = "http://www.cs.cornell.edu/~nkounkou/"
-
-[[people]]
   name = "Edwin Peguero"
 
 [[people]]
@@ -105,6 +101,11 @@ title = "Students"
   name = "Siqiu Yao"
   www = "http://www.cs.cornell.edu/~yaosiqiu"
   img = "sy657.jpg"
+
+[[people]]
+  name = "Ayaka Yorihiro"
+  www = "https://ayakayorihiro.github.io"
+  img = "ay436.jpg"
 
 [[people]]
   name = "Drew Zagieboylo"
