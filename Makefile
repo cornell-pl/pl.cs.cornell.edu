@@ -7,6 +7,9 @@ themes/academic/README.md:
 build: themes/academic/README.md
 	hugo
 
+local:
+	hugo server -w
+
 clean:
 	rm -rf public
 
