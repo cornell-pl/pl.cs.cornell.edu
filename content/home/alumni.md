@@ -634,6 +634,8 @@ title = "Alumni"
 [[people]]
   name = "Scott Smith"
   grad_year = "1989"
+  org = "Johns Hopkins University"
+  www = "https://www.cs.jhu.edu/~scott/"
 
 [[people]]
   name = "Bradley Vander Zanden"
