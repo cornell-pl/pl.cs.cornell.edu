@@ -11,8 +11,8 @@
       {{ end }}
 
       {{ range .Data.Pages }}
-        {{ $params := dict "pldg" . }}
-          {{ partial "pldg_archive" $params }}
+        {{ $params := dict "page" . }}
+          {{ partial "archive" $params }}
       {{ end }}
   </div>
 </div>

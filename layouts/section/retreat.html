@@ -9,6 +9,11 @@
       {{ with .Content }}
       <div class="article-style" itemprop="articleBody">{{ . }}</div>
       {{ end }}
+
+      {{ range .Data.Pages }}
+        {{ $params := dict "page" . }}
+          {{ partial "archive" $params }}
+      {{ end }}
   </div>
 </div>
 
