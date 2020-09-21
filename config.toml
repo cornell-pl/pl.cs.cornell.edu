@@ -159,7 +159,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Retreat"
-  url = "/retreat"
+  url = "/retreat/2020/"
   weight = 10
 
 # Configure the English version of the website.
