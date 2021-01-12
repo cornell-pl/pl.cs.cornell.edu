@@ -38,11 +38,6 @@ title = "Students"
   img = "ebc65.png"
 
 [[people]]
-  name = "Jonathan DiLorenzo"
-  www = "https://www.cs.cornell.edu/~dilorenzo/"
-  img = "jd753.jpg"
-
-[[people]]
   name = "Ryan Doenges"
   www = "http://ryandoeng.es/"
 

@@ -9,6 +9,11 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Jonathan DiLorenzo"
+  www = "https://www.cs.cornell.edu/~dilorenzo/"
+  grad_year = "2020"
+
+[[people]]
   name = "Molly Feldman"
   www = "http://www.cs.cornell.edu/~molly"
   grad_year = "2020"
