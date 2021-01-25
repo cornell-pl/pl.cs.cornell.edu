@@ -137,6 +137,11 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
+  name = "Great Works"
+  url = "/great-works/2021sp/"
+  weight = 3
+
+[[menu.main]]
   name = "Faculty"
   url = "#faculty"
   weight = 5
