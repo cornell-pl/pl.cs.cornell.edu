@@ -117,20 +117,24 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
-a,
-a:hover.article-title * {
-  color: {{ .Get "primary" }};
+a, a:hover, a:focus {
+  color: rgb(0, 0, 0, 0.8);
   text-decoration: none;
-  transition: color 0.2s ease;
+  border-bottom: #bbb 0.08em dotted;
+}
+
+a:hover, a:focus {
+    background: #fbf3f3;
+    transition-property: background;
+    transition-duration: 0.2s;
+}
+
+.navbar a {
+  border-bottom: none;
 }
 
 .article-body {
   font-size: 0.85rem;
-}
-
-a:hover,
-a:focus {
-  color: {{ .Get "primary" }};
 }
 
 img,
@@ -180,8 +184,8 @@ figcaption h4 {
 pre,
 code {
   font-family: '{{ .Get "mono_font" }}', monospace;
-  color: #c7254e;
-  background-color: #f9f2f4;
+  color: black;
+  background-color: #fbfbfb;
 }
 
 pre {
@@ -213,6 +217,8 @@ blockquote p {
   -ms-hyphens: none;
   -webkit-hyphens: none;
   hyphens: none;
+  text-align: left;
+  font-style: italic;
 }
 
 blockquote p:last-child {
@@ -400,6 +406,7 @@ small,
 
 .hero-overlay a {
   color: #fff;
+  border-bottom: none;
 }
 
 .hero-overlay .hero-lead a {
@@ -1411,12 +1418,6 @@ table table {
 table > tbody > tr:nth-child(odd) > td,
 table > tbody > tr:nth-child(odd) > th {
   background-color: #f9f9f9;
-}
-
-/* Table Hover */
-table > tbody > tr:hover > td,
-table > tbody > tr:hover > th {
-  background-color: #e5e5e5;
 }
 
 /*************************************************

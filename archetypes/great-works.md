@@ -1,5 +1,5 @@
 +++
-title = "Great Works in Programming Languages (FILL IN)"
+title = "Great Works (FILL IN)"
 date = {{ .Date }}
 math = false
 
