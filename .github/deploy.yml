@@ -1,0 +1,45 @@
+name: Deploy
+
+on: [push]
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.49.2'
+
+      - name: Build website
+        run: hugo
+
+      - name: rsync
+        #if: ${{github.event_name=='push' && github.ref=='refs/heads/master'}}
+        env:
+          DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
+          DEPLOY_PORT: ${{ secrets.DEPLOY_PORT }}
+          DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+          DEPLOY_KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
+          DEPLOY_SRC: ./public/
+          DEPLOY_DEST: sync/pl-www
+          DEPLOY_2_HOST: courses.cit.cornell.edu
+          DEPLOY_2_DEST: /research/pl
+        run: |
+          echo "$DEPLOY_KEY" > pk
+          echo "$DEPLOY_KNOWN_HOSTS" > kh
+          chmod 600 pk
+          rsync --compress --recursive --checksum --itemize-changes --delete \
+            -e "ssh -p \"$DEPLOY_PORT\" -i pk -o 'UserKnownHostsFile kh'" \
+            $DEPLOY_SRC $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DEST
+          ssh -p $DEPLOY_PORT -i pk -o 'UserKnownHostsFile kh' \
+            $DEPLOY_USER@$DEPLOY_HOST \
+            rsync --compress --recursive --checksum --itemize-changes \
+            --delete -e ssh --perms --chmod=Du=rwx,Dgo=rx,Fu=rw,Fog=r \
+            $DEPLOY_DEST/ $DEPLOY_2_HOST:$DEPLOY_2_DEST
