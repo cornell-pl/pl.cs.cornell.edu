@@ -133,7 +133,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "PLDG"
-  url = "/pldg/2020fa/"
+  url = "/pldg/2021sp/"
   weight = 2
 
 [[menu.main]]
