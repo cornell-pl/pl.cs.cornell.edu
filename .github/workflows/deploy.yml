@@ -40,7 +40,7 @@ jobs:
             -e "ssh -p \"$DEPLOY_PORT\" -i pk -o 'UserKnownHostsFile kh'" \
             $DEPLOY_SRC $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DEST
           echo "========STAGE 2 SYNC: CSLINUX==========="
-          ssh -p $DEPLOY_PORT -i pk -o 'UserKnownHostsFile kh' -vv \
+          ssh -p $DEPLOY_PORT -i pk -o 'UserKnownHostsFile kh' \
             $DEPLOY_USER@$DEPLOY_HOST \
             rsync --compress --recursive --checksum --itemize-changes \
             --delete -e ssh --perms --chmod=Du=rwx,Dgo=rx,Fu=rw,Fog=r \
