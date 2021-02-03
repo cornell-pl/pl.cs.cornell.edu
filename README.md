@@ -3,7 +3,7 @@ Cornell PL WWW
 
 Website for the Cornell Programming Languages group.
 
-The website is automatically deployed on each commit by [Hooknook](https://github.com/sampsyo/hooknook/).
+The website is automatically deployed using Github actions.
 Contact [Rachit][] or [Adrian][] if there are issues.
 
 [adrian]: http://adriansampson.net
