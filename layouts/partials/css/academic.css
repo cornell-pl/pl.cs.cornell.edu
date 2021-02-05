@@ -87,6 +87,7 @@ ul, ol, dl {
 td > ul {
   margin: 0;
   padding-left: 1rem;
+  list-style-type: circle;
 }
 
 /* Navigation bar text */
