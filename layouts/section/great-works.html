@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ partial "header_image.html" . }}
+
+<div class="row">
+  <div class="col-md-7 col-xs-8 col-xs-offset-2">
+    <h1>{{ .Title }}</h1>
+      {{ with .Content }}
+      <div class="article-style" itemprop="articleBody">{{ . }}</div>
+      {{ end }}
+
+      {{ range .Data.Pages }}
+        {{ $params := dict "page" . }}
+          {{ partial "archive" $params }}
+      {{ end }}
+  </div>
+</div>
+
+{{ partial "footer_container.html" }}
+{{ partial "footer.html" }}

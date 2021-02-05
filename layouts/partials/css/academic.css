@@ -8,6 +8,9 @@
  *  Core
  **************************************************/
 
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif&display=swap');
+
 *,
 *::after,
 *::before {
@@ -21,11 +24,11 @@
 }
 
 html {
-  font-family: '{{ .Get "body_font" }}', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
   font-size: {{ .Get "font_size_small" }}px;
   color: rgba(0,0,0,0.8);
-  line-height: 1.65;
 }
+
 @media screen and (min-width: 58em) {
   html {
     font-size: {{ .Get "font_size" }}px;
@@ -35,7 +38,7 @@ html {
 body {
   font-family: inherit;
   font-size: 1rem;
-  line-height: inherit;
+  line-height: 1.45;
   color: inherit;
   text-rendering: optimizeLegibility;
   background-color: {{ .Get "background" }};
@@ -81,6 +84,11 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+td > ul {
+  margin: 0;
+  padding-left: 1rem;
+}
+
 /* Navigation bar text */
 .navbar-default {
   font-family: '{{ .Get "nav_font" }}', sans-serif;
@@ -120,7 +128,7 @@ h4, h5, h6 {
 a, a:hover, a:focus {
   color: rgb(0, 0, 0, 0.8);
   text-decoration: none;
-  border-bottom: #bbb 0.08em dotted;
+  border-bottom: #bbb 0.1em dotted;
 }
 
 a:hover, a:focus {
@@ -1380,16 +1388,19 @@ table {
   font-size: 0.93rem;
 }
 
-table > thead > tr > th,
-table > tbody > tr > th,
-table > tfoot > tr > th,
-table > thead > tr > td,
-table > tbody > tr > td,
-table > tfoot > tr > td {
+td {
+  border: 1px solid #ddd;
   padding: 8px;
-  line-height: 1.43;
-  vertical-align: top;
+}
+
+thead {
   border-top: 1px solid #ddd;
+}
+
+thead > tr > th {
+  border-right: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  padding-left: 8px;
 }
 
 table > thead > tr > th {
