@@ -34,7 +34,7 @@ active = false
 
 [[news]]
   date = "April 20"
-  content = "Micheal Roberts passed his A exam! Congratulations, Micheal!"
+  content = "Michael Roberts passed his A exam! Congratulations, Michael!"
 
 [[news]]
   date = "Mar 20"
