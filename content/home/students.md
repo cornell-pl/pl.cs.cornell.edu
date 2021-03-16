@@ -19,8 +19,8 @@ title = "Students"
   img = "pa395.jpg"
 
 [[people]]
-  name = "Kushal Babel"
-  www = "https://www.cs.cornell.edu/~babel/"
+  name = "Luke Bernick"
+  www = "https://meritpages.com/Luke-Bernick/3531503"
 
 [[people]]
   name = "Griffin Berlstein"
@@ -57,6 +57,10 @@ title = "Students"
   img = "pk467.png"
 
 [[people]]
+  name = "Yunhe Liu"
+  www = "https://about.yunhe-liu.com/"
+
+[[people]]
   name = "Xiang Long"
   www = "http://www.cs.cornell.edu/~xiang"
   img = "xl483.jpg"
@@ -64,7 +68,10 @@ title = "Students"
 [[people]]
   name = "Anshuman Mohan"
   www = "https://anshumanmohan.github.io/"
-  img = "am3327.jpg"  
+  img = "am3327.jpg"
+
+[[people]]
+  name = "Mark Moeller"
 
 [[people]]
   name = "Haobin Ni"
