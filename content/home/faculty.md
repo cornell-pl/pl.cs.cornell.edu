@@ -24,6 +24,11 @@ title = "Faculty"
   img = "jnf27.jpg"
 
 [[people]]
+  name = "Justin Hsu"
+  www = "https://justinh.su/"
+  img = "justin.png"
+
+[[people]]
   name = "Dexter Kozen"
   www = "https://www.cs.cornell.edu/~kozen/"
   img = "dck10.jpg"
@@ -42,6 +47,11 @@ title = "Faculty"
   name = "Adrian Sampson"
   www = "https://www.cs.cornell.edu/~asampson/"
   img = "als485.jpg"
+
+[[people]]
+  name = "Alexandra Silva"
+  www = "https://alexandrasilva.org/"
+  img = "alexandra.jpeg"
 
 [[people]]
   name = "Fred Schneider"
