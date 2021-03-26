@@ -12,12 +12,13 @@ title = "Alumni"
   name = "Jonathan DiLorenzo"
   www = "https://www.cs.cornell.edu/~dilorenzo/"
   grad_year = "2020"
+  org = "Google"
 
 [[people]]
   name = "Molly Feldman"
   www = "http://www.cs.cornell.edu/~molly"
   grad_year = "2020"
-  org = "Williams College"
+  org = "Oberlin College"
 
 [[people]]
   name = "Brittany Nkounkou"
