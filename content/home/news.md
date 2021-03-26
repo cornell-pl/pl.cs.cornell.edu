@@ -12,7 +12,7 @@ active = false
   content = "Jonathan DiLorenzo defended his thesis! Congratulations, Jonathan!"
 
 [[news]]
-  date = "August 20"
+  date = "Aug 20"
   content = "Molly Feldman defended her thesis! Congratulations, Molly!"
 
 [[news]]
