@@ -8,6 +8,10 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  date = "Apr 21"
+  content = "Rolph Recto passed his A exam! Congratulations, Rolph!"
+
+[[news]]
   date = "Dec 20"
   content = "Jonathan DiLorenzo defended his thesis! Congratulations, Jonathan!"
 
