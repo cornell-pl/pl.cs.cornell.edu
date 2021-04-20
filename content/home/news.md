@@ -29,7 +29,7 @@ active = false
 
 [[news]]
   kind = "paper"
-  date = "May 15"
+  date = "May 20"
   who = "Hardik Soni, Myriana Rifai, Ryan Doenges, Praveen Kumar, Nate Foster"
   paper_name = "Composing programs with μP4"
   paper_link = ""
