@@ -8,6 +8,15 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  kind = "paper"
+  date = "Apr 21"
+  who = "Anshuman Mohan, Leow Wei Xiang, Aquinas Hobor"
+  paper_name = "Functional Correctness of C Implementations of Dijkstra's, Kruskal's, and Prim's Algorithms"
+  paper_link = ""
+  conf_name = "CAV '21"
+  conf_link = "http://i-cav.org/2021/"
+
+[[news]]
   date = "Apr 21"
   content = "Rolph Recto passed his A exam! Congratulations, Rolph!"
 
@@ -20,11 +29,11 @@ active = false
   content = "Molly Feldman defended her thesis! Congratulations, Molly!"
 
 [[news]]
-  date = "July 20"
+  date = "Jul 20"
   content = "Drew Zagieboylo passed his A exam! Congratulations, Drew!"
 
 [[news]]
-  date = "July 20"
+  date = "Jul 20"
   content = "Matthew Milano defended his thesis! Congratulations, Matthew!"
 
 [[news]]
@@ -37,7 +46,7 @@ active = false
   conf_link = "https://conferences.sigcomm.org/sigcomm/2020/"
 
 [[news]]
-  date = "April 20"
+  date = "Apr 20"
   content = "Michael Roberts passed his A exam! Congratulations, Michael!"
 
 [[news]]
