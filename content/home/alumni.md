@@ -113,6 +113,7 @@ title = "Alumni"
   name = "Mark Reitblatt"
   grad_year = "2017"
   www = "http://reitblatt.com.s3-website-us-west-1.amazonaws.com"
+  org = "Facebook Research"
 
 [[people]]
   name = "Abhishek Anand"
