@@ -10,8 +10,8 @@ active = false
 [[news]]
   kind = "paper"
   date = "Apr 21"
-  who = "Pedro H Azevedo de Amorim, Dexter Kozen, Radu Mardare, Prakash Panangaden and Michael Roberts"
-  paper_name = "Universal Semantics for theStochastic Lambda-Calculus"
+  who = "Pedro H. Azevedo de Amorim, Dexter Kozen, Radu Mardare, Prakash Panangaden and Michael Roberts"
+  paper_name = "Universal Semantics for the Stochastic Lambda-Calculus"
   paper_link = "https://arxiv.org/pdf/2011.13171.pdf"
   conf_name = "LICS '21"
   conf_link = "http://easyconferences.eu/lics2021/"
