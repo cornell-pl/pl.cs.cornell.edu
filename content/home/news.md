@@ -9,7 +9,17 @@ active = false
 
 [[news]]
   kind = "paper"
-  date = "Apr 22"
+  date = "Apr 21"
+  who = "Pedro H Azevedo de Amorim, Dexter Kozen, Radu Mardare, Prakash Panangaden and Michael Roberts"
+  paper_name = "Universal Semantics for theStochastic Lambda-Calculus"
+  paper_link = "https://arxiv.org/pdf/2011.13171.pdf"
+  conf_name = "LICS '21"
+  conf_link = "http://easyconferences.eu/lics2021/"
+
+
+[[news]]
+  kind = "paper"
+  date = "Apr 21"
   who = "Todd Schmid, Tobias Kappé, Dexter Kozen, Alexandra Silva"
   paper_name = "Guarded Kleene Algebra with Tests: Coequations, Coinduction, and Completeness"
   paper_link = "https://arxiv.org/abs/2102.08286"
