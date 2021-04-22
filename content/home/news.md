@@ -9,6 +9,15 @@ active = false
 
 [[news]]
   kind = "paper"
+  date = "Apr 22"
+  who = "Todd Schmid, Tobias Kappé, Dexter Kozen, Alexandra Silva"
+  paper_name = "Guarded Kleene Algebra with Tests: Coequations, Coinduction, and Completeness"
+  paper_link = "https://arxiv.org/abs/2102.08286"
+  conf_name = "ICALP '21"
+  conf_link = "http://easyconferences.eu/icalp2021/"
+
+[[news]]
+  kind = "paper"
   date = "Apr 21"
   who = "Anshuman Mohan, Leow Wei Xiang, Aquinas Hobor"
   paper_name = "Functional Correctness of C Implementations of Dijkstra's, Kruskal's, and Prim's Algorithms"
