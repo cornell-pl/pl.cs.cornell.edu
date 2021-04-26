@@ -8,6 +8,10 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  date = "Apr 21"
+  content = "Ryan Doenges passed his A exam! Congratulations, Ryan!"
+
+[[news]]
   kind = "paper"
   date = "Apr 21"
   who = "Jialu Bao, Simon Docherty, Justin Hsu and Alexandra Silva"
