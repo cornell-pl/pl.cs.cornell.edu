@@ -11,22 +11,9 @@ title = "Affiliated Members"
 
 # Affiliated
 [[people]]
-  name = "Ariel Kellison"
-  img = "ak2485.jpg"
-
-[[people]]
   name = "Owolabi Legunsen"
   www = "https://www.cs.cornell.edu/~legunsen/"
   img = "owo.jpg"
-
-[[people]]
-  name = "Kristina Sojakova"
-  www = "http://www.cs.cornell.edu/~ks858/"
-  img = "ks858.jpg"
-
-[[people]]
-  name = "Hardik Soni"
-  www = "https://hksoni.github.io/"
 
 [[people]]
   name = "Ross Tate"
