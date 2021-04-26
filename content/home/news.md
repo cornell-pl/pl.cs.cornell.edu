@@ -9,6 +9,10 @@ active = false
 
 [[news]]
   date = "Apr 21"
+  content = "Xiang Long defended his thesis! Congratulations, Xiang!"
+
+[[news]]
+  date = "Apr 21"
   content = "Ryan Doenges passed his A exam! Congratulations, Ryan!"
 
 [[news]]
