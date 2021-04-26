@@ -9,6 +9,12 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Xiang Long"
+  grad_year = "2021"
+  www = "http://www.cs.cornell.edu/~xiang"
+  org = "Google"
+
+[[people]]
   name = "Jonathan DiLorenzo"
   www = "https://www.cs.cornell.edu/~dilorenzo/"
   grad_year = "2020"

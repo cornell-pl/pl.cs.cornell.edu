@@ -61,11 +61,6 @@ title = "Students"
   www = "https://about.yunhe-liu.com/"
 
 [[people]]
-  name = "Xiang Long"
-  www = "http://www.cs.cornell.edu/~xiang"
-  img = "xl483.jpg"
-
-[[people]]
   name = "Anshuman Mohan"
   www = "https://anshumanmohan.github.io/"
   img = "am3327.jpg"
