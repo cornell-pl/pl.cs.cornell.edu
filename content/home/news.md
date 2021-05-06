@@ -9,6 +9,22 @@ active = false
 
 [[news]]
   date = "Apr 21"
+  content = "Rachit Nigam passed his A exam! Congratulations, Rachit!"
+
+[[news]]
+  date = "Apr 21"
+  content = "Dietrich Geisler passed his A exam! Congratulations, Dietrich!"
+
+[[news]]
+  date = "Apr 21"
+  content = "Edwin Peguero passed his A exam! Congratulations, Edwin!"
+
+[[news]]
+  date = "Apr 21"
+  content = "Cosku Acay passed his A exam! Congratulations, Cosku!"
+
+[[news]]
+  date = "Apr 21"
   content = "Xiang Long defended his thesis! Congratulations, Xiang!"
 
 [[news]]
