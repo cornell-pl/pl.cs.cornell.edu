@@ -33,11 +33,6 @@ title = "Students"
   img = "ehc86.jpg"
 
 [[people]]
-  name = "Ethan Cecchetti"
-  www = "https://www.cs.cornell.edu/~ethan"
-  img = "ebc65.png"
-
-[[people]]
   name = "Ryan Doenges"
   www = "http://ryandoeng.es/"
 
@@ -77,9 +72,6 @@ title = "Students"
   name = "Rachit Nigam"
   www = "https://rachitnigam.com/"
   img = "rn359.jpg"
-
-[[people]]
-  name = "Edwin Peguero"
 
 [[people]]
   name = "Rolph Recto"

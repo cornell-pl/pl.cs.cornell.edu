@@ -9,6 +9,16 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Edwin Peguero"
+  grad_year = "2021"
+
+[[people]]
+  name = "Ethan Cecchetti"
+  grad_year = "2021"
+  www = "https://www.cs.cornell.edu/~ethan"
+  org = "University of Maryland"
+
+[[people]]
   name = "Xiang Long"
   grad_year = "2021"
   www = "http://www.cs.cornell.edu/~xiang"
