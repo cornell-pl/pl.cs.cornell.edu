@@ -232,8 +232,8 @@ title = "Alumni"
 [[people]]
   name = "Alexa Sharp"
   grad_year = "2007"
-  www = "https://www.cs.oberlin.edu/~asharp"
-  org = "Oberlin"
+  www = "https://carleton.ca/scs/people/alexa-sharp/"
+  org = "Carleton University"
 
 [[people]]
   name = "Wojciech Moczydlowski"
