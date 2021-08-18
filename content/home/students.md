@@ -82,6 +82,9 @@ title = "Students"
   name = "Michael Roberts"
 
 [[people]]
+  name = "Goktug Saatcioglu"
+
+[[people]]
   name = "Alexa VanHattum"
   www = "https://www.cs.cornell.edu/~avh"
   img = "amv94.jpg"
