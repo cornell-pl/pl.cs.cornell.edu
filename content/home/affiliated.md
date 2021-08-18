@@ -11,6 +11,11 @@ title = "Affiliated Members"
 
 # Affiliated
 [[people]]
+  name = "Kevin Ellis"
+  www = "https://www.cs.cornell.edu/~ellisk/"
+  img = "ellisk.jpg"
+
+[[people]]
   name = "Owolabi Legunsen"
   www = "https://www.cs.cornell.edu/~legunsen/"
   img = "owo.jpg"
