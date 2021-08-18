@@ -19,6 +19,12 @@ title = "Alumni"
   org = "University of Maryland"
 
 [[people]]
+  name = "Josh Gancher"
+  www = "https://gancher.dev/"
+  org = "Carnegie Mellon University"
+  grad_year = "2021"
+
+[[people]]
   name = "Xiang Long"
   grad_year = "2021"
   www = "http://www.cs.cornell.edu/~xiang"

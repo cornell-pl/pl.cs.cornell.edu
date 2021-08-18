@@ -37,11 +37,6 @@ title = "Students"
   www = "http://ryandoeng.es/"
 
 [[people]]
-  name = "Josh Gancher"
-  img = "jrg358.png"
-  www = "https://gancher.dev/"
-
-[[people]]
   name = "Dietrich Geisler"
   www = "https://www.cs.cornell.edu/~dgeisler/"
   img = "dag368.jpg"
