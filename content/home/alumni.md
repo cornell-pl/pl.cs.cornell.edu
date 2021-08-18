@@ -48,8 +48,8 @@ title = "Alumni"
   grad_year = "2020"
 
 [[people]]
-  name = "Matthew Milano"
-  www = "http://www.cs.cornell.edu/~milano/"
+  name = "Mae Milano"
+  www = "http://www.languagesforsyste.ms/"
   grad_year = "2020"
   org = "UC Berkeley"
 
