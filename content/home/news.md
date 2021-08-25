@@ -8,6 +8,13 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  kind = "award"
+  date = "Aug 25"
+  who = "Nate Foster, Alec Story (alumnus), and Dave Walker (PhD alumnus)"
+  award_name = "ICFP Most Influential Paper Award"
+  award_link = "https://www.sigplan.org/Awards/ICFP/"
+
+[[news]]
   date = "Apr 21"
   content = "Rachit Nigam passed his A exam! Congratulations, Rachit!"
 
