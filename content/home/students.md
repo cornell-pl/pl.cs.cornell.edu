@@ -52,7 +52,7 @@ title = "Students"
 
 [[people]]
   name = "Anshuman Mohan"
-  www = "https://anshumanmohan.github.io/"
+  www = "https://www.cs.cornell.edu/~amohan/"
   img = "am3327.jpg"
 
 [[people]]
