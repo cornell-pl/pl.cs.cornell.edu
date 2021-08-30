@@ -37,9 +37,4 @@ title = "Affiliated Members"
   name = "John Sarracino"
   www = "https://www.cs.cornell.edu/~jsarracino/"
   img = "john.jpg"
-
-[[people]]
-  name = "Tobias Kappé"
-  www = "https://tobias.kap.pe/"
-  img = "tobias.jpg"
 +++
