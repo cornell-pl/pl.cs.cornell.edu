@@ -112,4 +112,9 @@ title = "Students"
   www = "https://www.cs.cornell.edu/~dzag"
   img = "dz333.jpg"
 
+[[people]]
+  name = "Noam Zilberstein"
+  www = "https://www.cs.cornell.edu/~noamz"
+  img = "nz67.jpg"
+
 +++
