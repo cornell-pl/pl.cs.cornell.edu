@@ -9,56 +9,48 @@ active = false
 
 [[news]]
   kind = "award"
-  date = "Aug 25"
+  date = "Aug 2021"
   who = "Nate Foster, Alec Story (alumnus), and Dave Walker (PhD alumnus)"
   award_name = "ICFP Most Influential Paper Award"
   award_link = "https://www.sigplan.org/Awards/ICFP/"
 
 [[news]]
-  date = "Apr 21"
+  date = "Apr 2021"
   content = "Rachit Nigam passed his A exam! Congratulations, Rachit!"
 
 [[news]]
-  date = "Apr 21"
+  date = "Apr 2021"
   content = "Dietrich Geisler passed his A exam! Congratulations, Dietrich!"
 
 [[news]]
-  date = "Apr 21"
+  date = "Apr 2021"
   content = "Edwin Peguero passed his A exam! Congratulations, Edwin!"
 
 [[news]]
-  date = "Apr 21"
+  date = "Apr 2021"
   content = "Cosku Acay passed his A exam! Congratulations, Cosku!"
 
 [[news]]
-  date = "Apr 21"
+  date = "Apr 2021"
   content = "Xiang Long defended his thesis! Congratulations, Xiang!"
 
 [[news]]
-  date = "Apr 21"
+  date = "Apr 2021"
   content = "Ryan Doenges passed his A exam! Congratulations, Ryan!"
 
 [[news]]
   kind = "paper"
-  date = "Apr 21"
+  date = "Apr 2021"
   who = "Jialu Bao, Simon Docherty, Justin Hsu and Alexandra Silva"
   paper_name = "A Bunched Logic for Conditional Independence"
   paper_link = ""
   conf_name = "LICS '21"
   conf_link = "http://easyconferences.eu/lics2021/"
 
-[[news]]
-  kind = "paper"
-  date = "Apr 21"
-  who = "Jialu Bao, Simon Docherty, Justin Hsu and Alexandra Silva"
-  paper_name = "A Bunched Logic for Conditional Independence"
-  paper_link = ""
-  conf_name = "LICS '21"
-  conf_link = "http://easyconferences.eu/lics2021/"
 
 [[news]]
   kind = "paper"
-  date = "Apr 21"
+  date = "Apr 2021"
   who = "Pedro H. Azevedo de Amorim, Dexter Kozen, Radu Mardare, Prakash Panangaden and Michael Roberts"
   paper_name = "Universal Semantics for the Stochastic Lambda-Calculus"
   paper_link = "https://arxiv.org/pdf/2011.13171.pdf"
@@ -68,7 +60,7 @@ active = false
 
 [[news]]
   kind = "paper"
-  date = "Apr 21"
+  date = "Apr 2021"
   who = "Todd Schmid, Tobias Kappé, Dexter Kozen, Alexandra Silva"
   paper_name = "Guarded Kleene Algebra with Tests: Coequations, Coinduction, and Completeness"
   paper_link = "https://arxiv.org/abs/2102.08286"
@@ -77,7 +69,7 @@ active = false
 
 [[news]]
   kind = "paper"
-  date = "Apr 21"
+  date = "Apr 2021"
   who = "Anshuman Mohan, Leow Wei Xiang, Aquinas Hobor"
   paper_name = "Functional Correctness of C Implementations of Dijkstra's, Kruskal's, and Prim's Algorithms"
   paper_link = ""
@@ -89,24 +81,24 @@ active = false
   content = "Rolph Recto passed his A exam! Congratulations, Rolph!"
 
 [[news]]
-  date = "Dec 20"
+  date = "Dec 2020"
   content = "Jonathan DiLorenzo defended his thesis! Congratulations, Jonathan!"
 
 [[news]]
-  date = "Aug 20"
+  date = "Aug 2020"
   content = "Molly Feldman defended her thesis! Congratulations, Molly!"
 
 [[news]]
-  date = "Jul 20"
+  date = "Jul 2020"
   content = "Drew Zagieboylo passed his A exam! Congratulations, Drew!"
 
 [[news]]
-  date = "Jul 20"
+  date = "Jul 2020"
   content = "Matthew Milano defended his thesis! Congratulations, Matthew!"
 
 [[news]]
   kind = "paper"
-  date = "May 20"
+  date = "May 2020"
   who = "Hardik Soni, Myriana Rifai, Ryan Doenges, Praveen Kumar, Nate Foster"
   paper_name = "Composing programs with μP4"
   paper_link = ""
@@ -114,20 +106,20 @@ active = false
   conf_link = "https://conferences.sigcomm.org/sigcomm/2020/"
 
 [[news]]
-  date = "Apr 20"
+  date = "Apr 2020"
   content = "Michael Roberts passed his A exam! Congratulations, Michael!"
 
 [[news]]
-  date = "Mar 20"
+  date = "Mar 2020"
   content = "Rachit Nigam and Alexa VanHattum were selected as finalists for the Qualcomm Fellowship. Congratulations, Rachit and Alexa!"
 
 [[news]]
-  date = "Mar 20"
+  date = "Mar 2020"
   content = "Alexa VanHattum won the NSF GRFP. Congratulations, Alexa!"
 
 [[news]]
   kind = "paper"
-  date = "Feb 20"
+  date = "Feb 2020"
   who = "Rachit Nigam, Sachille Atapattu, Samuel Thomas, Zhijing Li, Ted Bauer, Yuwei Yi, Apurva Koti, Adrian Sampson, Zhiru Zhang"
   paper_name = "Predictable Accelerator Design with Time-Sensitive Affine Types"
   paper_link = "https://rachitnigam.com/files/pubs/dahlia.pdf"
@@ -135,12 +127,12 @@ active = false
   conf_link = "https://pldi20.sigplan.org/"
 
 [[news]]
-  date = "Dec 19"
+  date = "Dec 2019"
   content = "Steffen Smolka, Nate Foster, Justin Hsu, Tobias Kappé, Dexter Kozen, and Alexandra Silva received a disinguished paper award at POPL. Congratulations!"
 
 [[news]]
   kind = "paper"
-  date = "Dec 19"
+  date = "Dec 2019"
   who = "Andrew Hirsch, Pedro Amorim, Ethan Cecchetti, Ross Tate and Owen Arden"
   paper_name = "First-Order Logic for Flow-Limited Authorization"
   paper_link = ""
@@ -149,39 +141,39 @@ active = false
 
 
 [[news]]
-  date = "Aug 19"
+  date = "Aug 2019"
   content = "Nate Foster and Praveen Kumar received the SIGCOMM best student paper award. Congratulations, Nate and Praveen!"
 
 [[news]]
-  date = "Aug 19"
+  date = "Aug 2019"
   content = "Steffen Smolka defended his thesis! Congratulations, Steffen!"
 
 [[news]]
-  date = "Aug 19"
+  date = "Aug 2019"
   content = "Fabian Muehlboeck defended his thesis! Congratulations, Fabian!"
 
 [[news]]
   content = "Owolabi Legunsen will be joining the group in Fall 2020!"
 
 [[news]]
-  date = "Jul 19"
+  date = "Jul 2019"
   content = "Yizhou Zhang defended his thesis! Congratulations, Yizhou!"
 
 [[news]]
-  date = "Jul 19"
+  date = "Jul 2019"
   content = "Isaac Sheff defended his thesis! Congratulations, Isaac!"
 
 [[news]]
-  date = "Jul 19"
+  date = "Jul 2019"
   content = "Andrew Hirsch defended his thesis! Congratulations, Andrew!"
 
 [[news]]
-  date = "May 19"
+  date = "May 2019"
   content = "Tom Magrino defended his thesis! Congratulations, Tom!"
 
 [[news]]
   kind = "paper"
-  date = "Apr 19"
+  date = "Apr 2019"
   who = "Elisavet Kozyri, Fred Schneider, Andrew Bedford, Josée Desharnais, and Nadia Tawbi"
   paper_name = "Beyond Labels: Permissiveness for Dynamic Information Flow Enforcement"
   paper_link = ""
@@ -190,7 +182,7 @@ active = false
 
 [[news]]
   kind = "paper"
-  date = "Apr 19"
+  date = "Apr 2019"
   who = "Drew Zagieboylo, Ed Suh, and Andrew Myers"
   paper_name = "Using Information Flow to Design an ISA That Controls Timing Channels"
   paper_link = ""
@@ -199,21 +191,21 @@ active = false
 
 [[news]]
   kind = "award"
-  date = "Apr 19"
+  date = "Apr 2019"
   who = "Drew Zagieboylo"
   award_name = "NDSEG Fellowship"
   award_link = "https://ndseg.asee.org"
 
 [[news]]
   kind = "award"
-  date = "Apr 19"
+  date = "Apr 2019"
   who = "Eric Campbell"
   award_name = "NSF Fellowship"
   award_link = "https://www.nsfgrfp.org/"
 
 [[news]]
   kind = "paper"
-  date = "Apr 19"
+  date = "Apr 2019"
   who = "Eric Campbell, Nate Foster, and Matthias Eichholz"
   paper_name = "SafeP4"
   paper_link = ""
@@ -222,14 +214,14 @@ active = false
 
 [[news]]
   kind = "award"
-  date = "Mar 19"
+  date = "Mar 2019"
   who = "Adrian Sampson"
   award_name = "NSF CAREER"
   award_link = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1845952"
 
 [[news]]
   kind = "paper"
-  date = "Feb 19"
+  date = "Feb 2019"
   who = "Steffen Smolka, Praveen Kumar, Nate Foster, Justin Hsu, Dexter Kozen, and Alexandra Silva"
   paper_name = "Scalable Verification of Probabilistic Network Programs"
   paper_link = ""
@@ -238,7 +230,7 @@ active = false
 
 [[news]]
   kind = "award"
-  date = "Aug 18"
+  date = "Aug 2018"
   who = "Nate Foster"
   award_name = "SIGCOMM Rising Star"
   award_link = "https://www.sigcomm.org/awards/sigcomm-rising-stars"
