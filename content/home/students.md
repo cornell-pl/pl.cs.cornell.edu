@@ -19,6 +19,10 @@ title = "Students"
   img = "pa395.jpg"
 
 [[people]]
+  name = "Jialu Bao"
+  www = "http://baojia.lu/about"
+
+[[people]]
   name = "Luke Bernick"
   www = "https://meritpages.com/Luke-Bernick/3531503"
 
