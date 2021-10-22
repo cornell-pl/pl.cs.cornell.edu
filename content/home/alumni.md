@@ -15,7 +15,7 @@ title = "Alumni"
 [[people]]
   name = "Ethan Cecchetti"
   grad_year = "2021"
-  www = "https://www.cs.cornell.edu/~ethan"
+  www = "https://ethan.umiacs.io/"
   org = "University of Maryland"
 
 [[people]]
