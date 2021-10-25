@@ -35,6 +35,10 @@ title = "Students"
   name = "Eric Campbell"
   www = "https://ericthewry.github.io"
   img = "ehc86.jpg"
+  
+[[people]]
+  name = "Keri D'Angelo"
+  img = "kd349.jpeg" 
 
 [[people]]
   name = "Ryan Doenges"
