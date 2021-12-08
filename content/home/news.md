@@ -9,7 +9,15 @@ active = false
 
 [[news]]
   date = "Dec 2021"
+  content = "Haobin Ni passed his A exam! Congratulations, Haobin!"
+
+[[news]]
+  date = "Dec 2021"
   content = "Alexa VanHattum passed her A exam! Congratulations, Alexa!"
+
+[[news]]
+  date = "Nov 2021"
+  content = "Pedro H. Azevedo de Amorim passed his A exam! Congratulations, Pedro!"
 
 [[news]]
   kind = "award"
