@@ -36,7 +36,7 @@ In two easy steps!
 
 [news]: https://github.com/cornell-pl/pl.cs.cornell.edu/edit/master/content/home/news.md
 
-## PLDG
+## PLDG/Great Works
 
 To create a new PLDG page type:
 
@@ -48,6 +48,12 @@ where `<semester>` is of the form `2019fa`.
 
 Next, edit the file generated in `content/pldg/<semester>.md` and update the
 link in `config.toml` for `pldg` to point to the latest webpage.
+
+A new great works page can similarly be created using:
+```
+hugo new great-works/<semester>.md
+```
+Again, in order to make the navbar point to the new page, edit `config.toml`.
 
 
 ## Content Mangement
