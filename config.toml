@@ -138,7 +138,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Great Works"
-  url = "/great-works/2021sp/"
+  url = "/great-works/2022sp/"
   weight = 3
 
 [[menu.main]]
