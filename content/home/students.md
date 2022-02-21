@@ -98,6 +98,9 @@ title = "Students"
   img = "amv94.jpg"
 
 [[people]]
+  name = "Leon Witzman"
+
+[[people]]
   name = "Siqiu Yao"
   www = "http://www.cs.cornell.edu/~yaosiqiu"
   img = "sy657.jpg"
