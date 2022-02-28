@@ -7,6 +7,15 @@ active = false
 # to quickly add news items. Use 'any' for other news items like students
 # graduating. See examples below.
 
+[[news]]
+  kind = "paper"
+  date = "Feb 2022"
+  who = "Karuna Grewal, Loris D'Antoni, and Justin Hsu" 
+  paper_name = "P4BID: Information Flow Control in P4"
+  paper_link = ""
+  cond = "true"
+  conf_name = "PLDI '22"
+  conf_link = "https://pldi22.sigplan.org/"
 
 [[news]]
   kind = "paper"
