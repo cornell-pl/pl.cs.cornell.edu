@@ -4,7 +4,7 @@ Cornell PL WWW
 Website for the Cornell Programming Languages group.
 
 The website is automatically deployed using Github actions.
-Contact [Rachit][] or [Adrian][] if there are issues.
+Contact Oliver Daids (Web Czar) or [Adrian][] if there are issues.
 
 [adrian]: http://adriansampson.net
 [rachit]: https://rachitnigam.com
@@ -78,3 +78,7 @@ of the same name (and directory structure) in `layout/`.
 For example, if you want to override the styling in
 `theme/academic/layout/foo/bar.html`, simply copy it to `layout/foo/bar.html`
 and add your changes.
+
+## Former Web Czars
+
+- [Rachit Nigam][rachit]
