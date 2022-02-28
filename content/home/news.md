@@ -8,6 +8,15 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  kind = "paper"
+  date = "Feb 2022"
+  who = "Drew Zagieboylo, Charles Sherk, Ed Suh, and Andrew Myers"
+  paper_name = "PDL: A High-Level Hardware Description Language for Processor Pipelines"
+  paper_link = ""
+  conf_name = "PLDI '22"
+  conf_link = "https://pldi22.sigplan.org/"
+  
+[[news]]
   date = "Dec 2021"
   content = "Haobin Ni passed his A exam! Congratulations, Haobin!"
 
