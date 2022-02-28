@@ -10,6 +10,16 @@ active = false
 [[news]]
   kind = "paper"
   date = "Feb 2022"
+  who = "Mae Milano, Joshua Turcotti, and Andrew Myers"
+  paper_name = "A Flexible Type System for Fearless Concurrency"
+  paper_link = ""
+  cond = "true"
+  conf_name = "PLDI '22"
+  conf_link = "https://pldi22.sigplan.org/"
+
+[[news]]
+  kind = "paper"
+  date = "Feb 2022"
   who = "Karuna Grewal, Loris D'Antoni, and Justin Hsu" 
   paper_name = "P4BID: Information Flow Control in P4"
   paper_link = ""
