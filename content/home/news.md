@@ -7,12 +7,34 @@ active = false
 # to quickly add news items. Use 'any' for other news items like students
 # graduating. See examples below.
 
+
+[[news]]
+  kind = "paper"
+  date = "Feb 2022"
+  who = "Michael Greenberg, Ryan Beckett, and Eric Hayden Campbell"
+  paper_name = "Kleene Algebra Modulo Theories"
+  paper_link = ""
+  cond = "true"
+  conf_name = "PLDI '22"
+  conf_link = "https://pldi22.sigplan.org/"
+
+[[news]]
+  kind = "paper"
+  date = "Feb 2022"
+  who = "Ryan Doenges, Tobias Kappé, John Sarracino, Nate Foster, and Greg Morrisett"
+  paper_name = "Leapfrog: Certified Equivalence for Protocol Parsers"
+  paper_link = ""
+  cond = "true"
+  conf_name = "PLDI '22"
+  conf_link = "https://pldi22.sigplan.org/"
+
 [[news]]
   kind = "paper"
   date = "Feb 2022"
   who = "Drew Zagieboylo, Charles Sherk, Ed Suh, and Andrew Myers"
   paper_name = "PDL: A High-Level Hardware Description Language for Processor Pipelines"
   paper_link = ""
+  cond = "true"
   conf_name = "PLDI '22"
   conf_link = "https://pldi22.sigplan.org/"
   
