@@ -10,6 +10,16 @@ active = false
 [[news]]
   kind = "paper"
   date = "Feb 2022"
+  who = "Nikhil Swamy, Tahina Ramananandro, Aseem Rastogi, Irina Spiridonova, Haobin Ni, Dmitry Malloy, Juan Vazquez, Michael Tang, Omar Cardona, and Arti Gupta"
+  paper_name = "Hardening Attack Surfaces with Formally Proven Binary Format Parsers"
+  paper_link = ""
+  cond = "true"
+  conf_name = "PLDI '22"
+  conf_link = "https://pldi22.sigplan.org/"
+
+[[news]]
+  kind = "paper"
+  date = "Feb 2022"
   who = "Mae Milano, Joshua Turcotti, and Andrew Myers"
   paper_name = "A Flexible Type System for Fearless Concurrency"
   paper_link = ""
