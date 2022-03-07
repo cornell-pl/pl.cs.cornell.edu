@@ -35,10 +35,10 @@ title = "Students"
   name = "Eric Campbell"
   www = "https://ericthewry.github.io"
   img = "ehc86.jpg"
-  
+
 [[people]]
   name = "Keri D'Angelo"
-  img = "kd349.jpeg" 
+  img = "kd349.jpeg"
 
 [[people]]
   name = "Ryan Doenges"
@@ -48,11 +48,6 @@ title = "Students"
   name = "Dietrich Geisler"
   www = "https://www.cs.cornell.edu/~dgeisler/"
   img = "dag368.jpg"
-
-[[people]]
-  name = "Praveen Kumar"
-  www = "https://www.cs.cornell.edu/~praveenk/"
-  img = "pk467.png"
 
 [[people]]
   name = "Yunhe Liu"

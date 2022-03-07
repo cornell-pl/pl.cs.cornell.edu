@@ -9,6 +9,13 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Praveen Kumar"
+  www = "https://www.cs.cornell.edu/~praveenk/"
+  grad_year = "2021"
+  org = "Google"
+
+
+[[people]]
   name = "Edwin Peguero"
   grad_year = "2021"
 
