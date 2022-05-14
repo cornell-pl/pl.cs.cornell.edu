@@ -8,6 +8,78 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  kind = "paper"
+  date = "Feb 2022"
+  who = "Nikhil Swamy, Tahina Ramananandro, Aseem Rastogi, Irina Spiridonova, Haobin Ni, Dmitry Malloy, Juan Vazquez, Michael Tang, Omar Cardona, and Arti Gupta"
+  paper_name = "Hardening Attack Surfaces with Formally Proven Binary Format Parsers"
+  paper_link = ""
+  cond = "true"
+  conf_name = "PLDI '22"
+  conf_link = "https://pldi22.sigplan.org/"
+
+[[news]]
+  kind = "paper"
+  date = "Feb 2022"
+  who = "Mae Milano, Joshua Turcotti, and Andrew Myers"
+  paper_name = "A Flexible Type System for Fearless Concurrency"
+  paper_link = ""
+  cond = "true"
+  conf_name = "PLDI '22"
+  conf_link = "https://pldi22.sigplan.org/"
+
+[[news]]
+  kind = "paper"
+  date = "Feb 2022"
+  who = "Karuna Grewal, Loris D'Antoni, and Justin Hsu" 
+  paper_name = "P4BID: Information Flow Control in P4"
+  paper_link = ""
+  cond = "true"
+  conf_name = "PLDI '22"
+  conf_link = "https://pldi22.sigplan.org/"
+
+[[news]]
+  kind = "paper"
+  date = "Feb 2022"
+  who = "Michael Greenberg, Ryan Beckett, and Eric Hayden Campbell"
+  paper_name = "Kleene Algebra Modulo Theories"
+  paper_link = ""
+  cond = "true"
+  conf_name = "PLDI '22"
+  conf_link = "https://pldi22.sigplan.org/"
+
+[[news]]
+  kind = "paper"
+  date = "Feb 2022"
+  who = "Ryan Doenges, Tobias Kappé, John Sarracino, Nate Foster, and Greg Morrisett"
+  paper_name = "Leapfrog: Certified Equivalence for Protocol Parsers"
+  paper_link = ""
+  cond = "true"
+  conf_name = "PLDI '22"
+  conf_link = "https://pldi22.sigplan.org/"
+
+[[news]]
+  kind = "paper"
+  date = "Feb 2022"
+  who = "Drew Zagieboylo, Charles Sherk, Ed Suh, and Andrew Myers"
+  paper_name = "PDL: A High-Level Hardware Description Language for Processor Pipelines"
+  paper_link = ""
+  cond = "true"
+  conf_name = "PLDI '22"
+  conf_link = "https://pldi22.sigplan.org/"
+  
+[[news]]
+  date = "Dec 2021"
+  content = "Haobin Ni passed his A exam! Congratulations, Haobin!"
+
+[[news]]
+  date = "Dec 2021"
+  content = "Alexa VanHattum passed her A exam! Congratulations, Alexa!"
+
+[[news]]
+  date = "Nov 2021"
+  content = "Pedro H. Azevedo de Amorim passed his A exam! Congratulations, Pedro!"
+
+[[news]]
   kind = "award"
   date = "Aug 2021"
   who = "Nate Foster, Alec Story (alumnus), and Dave Walker (PhD alumnus)"

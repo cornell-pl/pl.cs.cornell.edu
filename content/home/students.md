@@ -37,6 +37,10 @@ title = "Students"
   img = "ehc86.jpg"
 
 [[people]]
+  name = "Keri D'Angelo"
+  img = "kd349.jpeg"
+
+[[people]]
   name = "Ryan Doenges"
   www = "http://ryandoeng.es/"
 
@@ -44,11 +48,6 @@ title = "Students"
   name = "Dietrich Geisler"
   www = "https://www.cs.cornell.edu/~dgeisler/"
   img = "dag368.jpg"
-
-[[people]]
-  name = "Praveen Kumar"
-  www = "https://www.cs.cornell.edu/~praveenk/"
-  img = "pk467.png"
 
 [[people]]
   name = "Yunhe Liu"
@@ -94,6 +93,9 @@ title = "Students"
   img = "amv94.jpg"
 
 [[people]]
+  name = "Leon Witzman"
+
+[[people]]
   name = "Siqiu Yao"
   www = "http://www.cs.cornell.edu/~yaosiqiu"
   img = "sy657.jpg"
@@ -107,5 +109,10 @@ title = "Students"
   name = "Drew Zagieboylo"
   www = "https://www.cs.cornell.edu/~dzag"
   img = "dz333.jpg"
+
+[[people]]
+  name = "Noam Zilberstein"
+  www = "https://www.cs.cornell.edu/~noamz"
+  img = "nz67.jpg"
 
 +++

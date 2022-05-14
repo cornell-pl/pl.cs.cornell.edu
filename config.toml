@@ -133,12 +133,12 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "PLDG"
-  url = "/pldg/2021fa/"
+  url = "/pldg/2022sp/"
   weight = 2
 
 [[menu.main]]
   name = "Great Works"
-  url = "/great-works/2021sp/"
+  url = "/great-works/2022sp/"
   weight = 3
 
 [[menu.main]]
@@ -164,7 +164,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Retreat"
-  url = "/retreat/2020/"
+  url = "/retreat/2021/"
   weight = 10
 
 # Configure the English version of the website.
