@@ -38,6 +38,10 @@ title = "Students"
   img = "ehc86.jpg"
 
 [[people]]
+  name = "Oliver Daids"
+  www = "https://www.cs.cornell.edu/~ojd/"
+
+[[people]]
   name = "Keri D'Angelo"
   img = "kd349.jpeg"
 
