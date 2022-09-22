@@ -8,6 +8,14 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  date = "Aug 2022"
+  content = "Jialu Bao passed her A exam! Congratulations, Jialu!"
+
+[[news]]
+  date = "July 2022"
+  content = "Jialu Bao, Nitesh Trivedi, Drashti Pathak, Justin Hsu, Subhajit Roy received a disinguished paper award for their paper [Data-Driven Invariant Learning for Probabilistic Programs](https://arxiv.org/pdf/2106.05421.pdf) at [CAV '22](http://i-cav.org/2022/). Congratulations!"
+
+[[news]]
   kind = "paper"
   date = "Feb 2022"
   who = "Nikhil Swamy, Tahina Ramananandro, Aseem Rastogi, Irina Spiridonova, Haobin Ni, Dmitry Malloy, Juan Vazquez, Michael Tang, Omar Cardona, and Arti Gupta"
@@ -78,6 +86,16 @@ active = false
 [[news]]
   date = "Nov 2021"
   content = "Pedro H. Azevedo de Amorim passed his A exam! Congratulations, Pedro!"
+
+[[news]]
+  kind = "paper"
+  date = "Sept 2021"
+  who = "Jialu Bao, Marco Gaboardi, Justin Hsu, Joseph Tassarotti"
+  paper_name = A Separation Logic for Negative Dependence"
+  paper_link = "https://arxiv.org/pdf/2111.14917.pdf"
+  conf_name = "POPL '22"
+  conf_link = "https://popl22.sigplan.org/"
+
 
 [[news]]
   kind = "award"
