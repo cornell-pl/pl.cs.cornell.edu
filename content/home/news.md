@@ -13,7 +13,7 @@ active = false
 
 [[news]]
   date = "July 2022"
-  content = "Jialu Bao, Nitesh Trivedi, Drashti Pathak, Justin Hsu, Subhajit Roy received a disinguished paper award for their paper [Data-Driven Invariant Learning for Probabilistic Programs](https://arxiv.org/pdf/2106.05421.pdf) at [CAV '22](http://i-cav.org/2022/). Congratulations!"
+  content = "Jialu Bao, Nitesh Trivedi, Drashti Pathak, Justin Hsu, Subhajit Roy received a disinguished paper award for their paper "Data-Driven Invariant Learning for Probabilistic Programs" at CAV '22. Congratulations!"
 
 [[news]]
   kind = "paper"
