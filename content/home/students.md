@@ -93,6 +93,11 @@ title = "Students"
   name = "Goktug Saatcioglu"
 
 [[people]]
+  name = "Joshua Turcotti"
+  www = "https://www.jturcotti.com"
+  img = "jst232.jpg"
+
+[[people]]
   name = "Alexa VanHattum"
   www = "https://www.cs.cornell.edu/~avh"
   img = "amv94.jpg"
