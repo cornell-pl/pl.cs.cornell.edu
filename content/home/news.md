@@ -8,6 +8,16 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  kind = "paper"
+  date = "Sep 2022"
+  who = "Zachary Susag, Sumit Lahiri, Justin Hsu, and Subhajit Roy"
+  paper_name = "Symbolic Execution for Randomized Programs"
+  paper_link = "https://arxiv.org/abs/2209.08046"
+  cond = ""
+  conf_name = "OOPSLA '22"
+  conf_link = "https://2022.splashcon.org/"
+
+[[news]]
   date = "Aug 2022"
   content = "Jialu Bao passed her A exam! Congratulations, Jialu!"
 
