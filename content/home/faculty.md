@@ -25,7 +25,7 @@ title = "Faculty"
 
 [[people]]
   name = "Justin Hsu"
-  www = "https://justinh.su/"
+  www = "https://www.cs.cornell.edu/~justin/"
   img = "justin.png"
 
 [[people]]
