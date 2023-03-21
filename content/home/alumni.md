@@ -98,15 +98,15 @@ title = "Alumni"
 
 [[people]]
   name = "Andrew Hirsch"
-  www = "http://www.cs.cornell.edu/~akhirsch/"
+  www = "https://akhirsch.science"
   grad_year = "2019"
-  org = "Max Planck Institute"
+  org = "University at Buffalo"
 
 [[people]]
   name = "Isaac Sheff"
-  www = "https://www.cs.cornell.edu/~isheff"
+  www = "https://isaacsheff.com/"
   grad_year = "2019"
-  org = "Max Planck Institute"
+  org = "Heliax"
 
 [[people]]
   name = "Tom Magrino"
