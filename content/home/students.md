@@ -55,6 +55,11 @@ title = "Students"
   img = "dag368.jpg"
 
 [[people]]
+  name = "Karuna Grewal"
+  www = "https://aakp10.github.io/"
+  img = "kg384.jpg"
+
+[[people]]
   name = "Yunhe Liu"
   www = "https://about.yunhe-liu.com/"
 
