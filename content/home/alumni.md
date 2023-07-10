@@ -9,11 +9,16 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Alexa VanHattum"
+  www = "alexavanhattum.com"
+  grad_year = "2023"
+  org = "Wellesley College"
+
+[[people]]
   name = "Praveen Kumar"
   www = "https://www.cs.cornell.edu/~praveenk/"
   grad_year = "2021"
   org = "Google"
-
 
 [[people]]
   name = "Edwin Peguero"

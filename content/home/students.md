@@ -108,11 +108,6 @@ title = "Students"
   img = "jst232.jpg"
 
 [[people]]
-  name = "Alexa VanHattum"
-  www = "https://www.cs.cornell.edu/~avh"
-  img = "amv94.jpg"
-
-[[people]]
   name = "Leon Witzman"
 
 [[people]]
