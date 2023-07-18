@@ -70,6 +70,8 @@ title = "Students"
 
 [[people]]
   name = "Mark Moeller"
+  www = "https://www.cs.cornell.edu/~moeller/"
+  img = "mdm367.jpg"
 
 [[people]]
   name = "Haobin Ni"
