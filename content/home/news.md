@@ -9,6 +9,117 @@ active = false
 
 [[news]]
   kind = "paper"
+  date = "Jul 2023"
+  who = "Drew Zagieboylo, Charles Sherk, Andrew C. Myers, and G. Edward Suh"
+  paper_name = "SpecVerilog: Adapting Information Flow Control for Secure Speculation"
+  paper_link = "http://www.cs.cornell.edu/andru/papers/specverilog"
+  conf_name = "CCS '23"
+  conf_link = "https://www.sigsac.org/ccs/CCS2023/call-for-paper.html"
+
+[[news]]
+  kind = "paper"
+  date = "Jul 2023"
+  who = "Anshuman Mohan, Yunhe Liu, Nate Foster, Tobias Kappé, and Dexter Kozen"
+  paper_name = "Formal Abstractions for Packet Scheduling"
+  paper_link = "https://arxiv.org/pdf/2211.11659.pdf"
+  cond = "true"
+  conf_name = "OOPSLA '23"
+  conf_link = "https://2023.splashcon.org/track/splash-2023-oopsla"
+
+[[news]]
+  kind = "award"
+  date = "Jun 2023"
+  who = "Nate Foster"
+  award_name = "Robin Milner Young Researcher Award"
+  award_link = "https://www.sigplan.org/Awards/Milner/"
+
+[[news]]
+  kind = "paper"
+  date = "Jun 2023"
+  who = "Rachit Nigam, Pedro Henrique Azevedo de Amorim, and Adrian Sampson"
+  paper_name = "Modular Hardware Design with Timeline Types"
+  paper_link = "https://www.cs.cornell.edu/~asampson/media/papers/filament-pldi2023-preprint.pdf"
+  appeared = "true"
+  conf_name = "PLDI '23"
+  conf_link = "https://pldi23.sigplan.org"
+
+[[news]]
+  kind = "paper"
+  date = "Jun 2023"
+  who = "Noah Bertram, Alex Levinson, and Justin Hsu"
+  paper_name = "Cutting the Cake: A Language for Fair Division"
+  paper_link = "https://arxiv.org/pdf/2304.04642.pdf"
+  appeared = "true"
+  conf_name = "PLDI '23"
+  conf_link = "https://pldi23.sigplan.org"
+
+[[news]]
+  date = "Jun 2023"
+  content = "Nate Foster served as Program Chair of [PLDI '23](https://pldi23.sigplan.org). Congratulations, Nate!"
+
+[[news]]
+  date = "May 2023"
+  kind = "award"
+  who = "Alexandra Silva"
+  award_name = "Cornell Bowers CIS Research Excellence Award"
+  award_link = "https://cis.cornell.edu/10-pioneering-faculty-receive-cornell-bowers-cis-excellence-awards"
+
+[[news]]
+  kind = "paper"
+  date = "Jan 2023"
+  appeared = "true"
+  who = "Joshua Gancher, Kristina Sojakova, Xiong Fan, Elaine Shi, and Greg Morrisett"
+  paper_name = "A Core Calculus for Equational Proofs of Cryptographic Protocols"
+  paper_link = "https://inria.hal.science/hal-03917005/file/main.pdf"
+  conf_name = "POPL '23"
+  conf_link = "https://popl23.sigplan.org/"
+
+[[news]]
+  kind = "paper"
+  date = "Jan 2023"
+  appeared = "true"
+  who = "Matthew Bowers, Theo X. Olausson, Lionel Wong, Gabriel Grand, Joshua B. Tenenbaum, Kevin Ellis, and Armando Solar-Lezama"
+  paper_name = "Top-Down Synthesis for Library Learning"
+  paper_link = "https://arxiv.org/abs/2211.16605"
+  conf_name = "POPL '23"
+  conf_link = "https://popl23.sigplan.org/"
+
+[[news]]
+  kind = "paper"
+  date = "Jan 2023"
+  appeared = "true"
+  who = "Rudy Peterson, Eric Hayden Campbell, John Chen, Natalie Isak, Calvin Shyu, Ryan Doenges, Parisa Ataei, and Nate Foster"
+  paper_name = "P4Cub: A Little Language for Big Routers"
+  paper_link = "https://ericthewry.github.io/pdfs/p4cub.pdf"
+  conf_name = "CPP '23"
+  conf_link = "https://popl23.sigplan.org/home/CPP-2023"
+
+[[news]]
+  kind = "paper"
+  date = "Jan 2023"
+  appeared = "true"
+  who = "Haobin Ni, Antoine Delignat-Lavaud, Cédric Fournet, Tahina Ramananandro, and Nikhil Swamy"
+  paper_name = "ASN1\u002A: Provably Correct, Non-malleable Parsing for ASN.1 DER"
+  paper_link = "https://haobin.cx/publications/asn1star.pdf"
+  conf_name = "CPP '23"
+  conf_link = "https://popl23.sigplan.org/home/CPP-2023"
+
+[[news]]
+  date = "Jan 2023"
+  content = "Andrew Myers served as General Chair of [POPL '23](https://popl23.sigplan.org). Congratulations, Andrew!"
+
+[[news]]
+  kind = "paper"
+  date = "Dec 2022"
+  who = "Noam Zilberstein, Derek Dreyer, and Alexandra Silva"
+  paper_name = "Outcome Logic: A Unifying Foundation for Correctness and Incorrectness Reasoning"
+  paper_link = "https://www.cs.cornell.edu/~noamz/files/pubs/outcome.pdf"
+  cond = "true"
+  conf_name = "OOPSLA '23"
+  conf_link = "https://2023.splashcon.org/track/splash-2023-oopsla"
+  
+[[news]]
+  kind = "paper"
   date = "Sep 2022"
   who = "Zachary Susag, Sumit Lahiri, Justin Hsu, and Subhajit Roy"
   paper_name = "Symbolic Execution for Randomized Programs"

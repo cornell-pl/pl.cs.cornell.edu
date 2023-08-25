@@ -46,10 +46,6 @@ title = "Students"
   img = "kd349.jpeg"
 
 [[people]]
-  name = "Ryan Doenges"
-  www = "http://ryandoeng.es/"
-
-[[people]]
   name = "Dietrich Geisler"
   www = "https://www.cs.cornell.edu/~dgeisler/"
   img = "dag368.jpg"

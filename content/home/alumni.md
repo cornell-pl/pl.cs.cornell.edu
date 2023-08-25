@@ -9,6 +9,12 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Ryan Doenges"
+  grad_year = "2023"
+  www = "https://ryandoeng.es"
+  org = "Northeastern University"
+
+[[people]]
   name = "Alexa VanHattum"
   www = "alexavanhattum.com"
   grad_year = "2023"
