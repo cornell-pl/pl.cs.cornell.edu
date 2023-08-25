@@ -12,7 +12,7 @@ title = "Alumni"
   name = "Ryan Doenges"
   grad_year = "2023"
   www = "https://ryandoeng.es"
-  org = "Northeastern University"
+  org = "Northeastern University (postdoc)"
 
 [[people]]
   name = "Alexa VanHattum"
