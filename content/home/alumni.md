@@ -33,8 +33,8 @@ title = "Alumni"
 [[people]]
   name = "Ethan Cecchetti"
   grad_year = "2021"
-  www = "https://ethan.umiacs.io/"
-  org = "University of Maryland"
+  www = "https://cecchetti.sites.cs.wisc.edu/"
+  org = "University of Wisconsin–Madison"
 
 [[people]]
   name = "Josh Gancher"
