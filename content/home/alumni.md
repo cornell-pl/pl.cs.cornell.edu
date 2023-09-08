@@ -87,7 +87,7 @@ title = "Alumni"
   name = "Elisavet Kozyri"
   www = "http://ekozyri.com/"
   grad_year = "2019"
-  org = "Harvard"
+  org = "UiT The Arctic University of Norway"
 
 [[people]]
   name = "Steffen Smolka"
@@ -97,15 +97,15 @@ title = "Alumni"
 
 [[people]]
   name = "Fabian Muehlboeck"
-  www = "https://www.cs.cornell.edu/~fabianm"
+  www = "https://fabian.muehlboeck.name/"
   grad_year = "2019"
-  org = "IST Austria"
+  org = "Australian National University"
 
 [[people]]
   name = "Yizhou Zhang"
-  www = "http://www.cs.cornell.edu/~yizhou"
+  www = "https://cs.uwaterloo.ca/~yizhou/"
   grad_year = "2019"
-  org = "Harvard, Waterloo"
+  org = "University of Waterloo"
 
 [[people]]
   name = "Andrew Hirsch"
@@ -129,7 +129,7 @@ title = "Alumni"
   name = "Shrutarshi Basu"
   www = "https://basus.me/"
   grad_year = "2018"
-  org = "Harvard"
+  org = "Middlebury College"
 
 [[people]]
   name = "Eleanor Birrell"
@@ -186,7 +186,7 @@ title = "Alumni"
   name = "Jed Liu"
   grad_year = "2012"
   www = "https://jedliu.net"
-  org = "Barefoot Networks"
+  org = "Postman"
 
 [[people]]
   name = "Kevin Walsh"
