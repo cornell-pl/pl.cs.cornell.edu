@@ -9,7 +9,7 @@ active = false
 
 [[news]]
   date = "Aug 2023"
-  content = "We are devastated by the sudden loss of [Priya Srikumar](https://priyasrikumar.com). [Griffin](https://griffinberlste.in/blog/2023-09-02-priya), [Rachit](https://rachit.pl/post/priya/), and [UW PLSE](https://uwplse.org/priya) have written touching blog posts in rememberance."
+  content = "We are devastated by the sudden loss of [Priya Srikumar](https://priyasrikumar.com). [Griffin](https://griffinberlste.in/blog/2023-09-02-priya), [Rachit](https://rachit.pl/post/priya/), and [UW PLSE](https://uwplse.org/priya) have written touching blog posts in remembrance."
 
 [[news]]
   kind = "paper"
