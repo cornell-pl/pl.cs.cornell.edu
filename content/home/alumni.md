@@ -9,6 +9,12 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+ name = "Priya Srikumar"
+ grad_year = "2023"
+ www = "https://priyasrikumar.com"
+ org = "In Memoriam"
+
+[[people]]
   name = "Ryan Doenges"
   grad_year = "2023"
   www = "https://ryandoeng.es"
