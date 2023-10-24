@@ -202,24 +202,23 @@ We miss you, Priya.
 
 The most special people use their eyes to make you feel like you're the only thing in the world that matters when they're speaking to you. That was Priya. If someone tried to accumulate all the love that we as a species with millenia of experience knew how to feel, they would fail. But if they saw Priya smile, they would find peace and feel it had already been done. So many of us at Cornell have had Priya's words and smiles reach us. This is no coincidence: Priya saw their own life as most glorious chance ever given to lift everyone else's up and so they did.
 
-We remember so much about what it meant to live in a world with Priya. In a world without Priya, here are some reminders:
+We remember so much about what it meant to live in a world with Priya. In a world without Priya, here are some reminders:  
+The tender touch of a heart that knew how to hurt, but didn't know how to do anything but pour itself into you to seek out and fill your own hurt;  
+the playful style of 23 years of self love learned and practiced with industriousness and inventiveness;  
+the inadqueacy of trying to stop electric current if you sought to lessen their ambition or temper their raging determination.  
+the vision of our world given color through the limitless joy every path, every art, every challenge, every morsel of it could provide;  
+the strength to never fear a new experience that could rattle and reform their soul;  
 
-The tender touch of a heart that knew how to hurt, but didn't know how to do anything but pour itself into you to seek out and fill your own hurt; 
-the playful style of 23 years of self love learned and practiced with industriousness and inventiveness; 
-the inadqueacy of trying to stop electric current if you sought to lessen their ambition or temper their raging determination. 
-the vision of our world given color through the limitless joy every path, every art, every challenge, every morsel of it could provide;
-the strength to never fear a new experience that could rattle and reform their soul;
-
-a laugh that met no resistance as it rocked their body and they made only the most feeble attempt to contain it with a hand raised to their mouth;
-a hug warmer than you knew you could be;
-an energy that forced you to take pause to wonder if you really just witnessed what you did;
-a tear that always came when they saw one of the parts of the world that is just so, so wrong;
-a joy; a hope; a strength; a passion; a life; a river; a fire; a love.
+a laugh that met no resistance as it rocked their body and they made only the most feeble attempt to contain it with a hand raised to their mouth;  
+a hug warmer than you knew you could be;  
+an energy that forced you to take pause to wonder if you really just witnessed what you did;  
+a tear that always came when they saw one of the parts of the world that is just so, so wrong;  
+a joy; a hope; a strength; a passion; a life; a river; a fire; a love.  
 
 One eternity ends in a miracle when a new life is created, and another begins with a tragedy when a life is taken. If we were wise, the weight of all the miracles to come and the weight of all the tragedies we remember would match each other, and we would be at peace. And yet so many of us are human instead of wise, and with a tragedy like this in the past we cannot seed the future with enough miracles to find peace in our present. Because we are human we feel love - in fact we feel love in so many more places than we dare use the word for - we feel love for neighbors, for friends, for teachers, for doors held open, for any who share a warming meal or a blissful moment of play. If you felt love for Priya in any way, you are probably not at peace right now. There is no miracle that can come that will bring the peace we're tempted to seek. 
 
 This beautiful page contains so many words about Priya, but none of them matter. If you're reading them it means you are putting everything on pause to read about a beloved friend that fell victim to a force we have no way to protect ourselves or those we love from. You may be a little more afraid of it than you were before. You may be a little more humble. You may be a little more weak. Whatever you feel, when you are done reading this page, please, let the space you have created for reflection extend a little longer. Listen to your own mind as it grapples with the love it felt for Priya and the horror of their loss. Only you can hear those words, and even those of us that have tried to share them have at most succeeded partially. By listening, you let Priya continue to live in the way that mattered most to them: through love and the rawness of our humanity. 
 
-Priya, we remember you.
+Priya, we love you, we remember you.
 
 ![](via_joshua_turcotti_24.jpeg)
