@@ -222,3 +222,16 @@ This beautiful page contains so many words about Priya, but none of them matter.
 Priya, we love you, we remember you.
 
 ![](via_joshua_turcotti_24.jpeg)
+
+# Fred B. Schneider
+
+Priya was a refreshing student, who often chatted with me about the bigger picture and where she might fit in.  She was quite smart, which made these conversations a welcome break.  And they often prompted me to reflect more broadly.  I shall miss her.
+
+![](via_joshua_turcotti_25.jpeg)
+
+# Anonymous
+
+You will forever be loved and missed by this community
+
+![](via_joshua_turcotti_26.jpeg)
+
