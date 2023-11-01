@@ -8,6 +8,10 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  date = "Oct 2023"
+  content = "[Formal Abstractions for Packet Scheduling](https://dl.acm.org/doi/10.1145/3622845) was recognized as a Distinguished Paper at OOPSLA '23. Congratulations, Anshuman, Yunhe, Nate, Tobias, and Dexter!"
+
+[[news]]
   date = "Aug 2023"
   content = "We are devastated by the sudden loss of [Priya Srikumar](https://priyasrikumar.com). [Griffin](https://griffinberlste.in/blog/2023-09-02-priya), [Rachit](https://rachit.pl/post/priya/), and [UW PLSE](https://uwplse.org/priya) have written touching blog posts in remembrance."
 
@@ -25,7 +29,7 @@ active = false
   date = "Jul 2023"
   who = "Anshuman Mohan, Yunhe Liu, Nate Foster, Tobias Kappé, and Dexter Kozen"
   paper_name = "Formal Abstractions for Packet Scheduling"
-  paper_link = "https://arxiv.org/pdf/2211.11659.pdf"
+  paper_link = "https://dl.acm.org/doi/10.1145/3622845"
   cond = "true"
   conf_name = "OOPSLA '23"
   conf_link = "https://2023.splashcon.org/track/splash-2023-oopsla"
