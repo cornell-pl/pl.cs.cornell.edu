@@ -9,7 +9,7 @@ math = false
 
 Entering as an undergraduate in 2017 and continuing on as a graduate student pursuing a PhD in 2021, Priya Srikumar became an integral part of the Cornell community. Tragically, on August 26th, 2023, we lost them to a car accident during their cross-country trip back to Ithaca.
 
-In their time at Cornell, they worked with Nate Foster, Andrew Meyers, and Adrian Sampson (in chronological order), had several internships at Amazon, and were in the beginnings of a promising internship at AMD.
+In their time at Cornell, they worked with Nate Foster, Andrew Myers, and Adrian Sampson (in chronological order), had several internships at Amazon, and were in the beginnings of a promising internship at AMD.
 
 __Works__
 
