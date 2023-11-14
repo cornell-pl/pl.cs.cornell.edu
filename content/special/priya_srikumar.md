@@ -78,20 +78,6 @@ Priya was a dear friend and I miss them terribly.
 
 ![](via_joshua_turcotti_6.jpeg)
 
-# Ryan Doenges
-
-I am embittered at the death of our friend and colleague Priya Srikumar. I met Priya after a PLDG seminar while they were still an undergraduate. I believe it was a Wednesday afternoon in 2018 or 2019. On my way out they stopped me (of all people?) to ask about PL research. Anyway, they had been reading about programming language theory online and were interested in getting into it. At the time I had a lot of students working with me already and so I directed them to my labmate Eric. As they went on to the PhD I became a shadow advisor---one of many, I think---and tried to look out for my new protégé (not "mentee," how drab!) however I could. They proved highly perceptive, if a little nervous, and all I usually had to do was convince them they were right.
-
-We ended up friends because we had a similar sense of humor, i.e., gay and demented. I remember once we were on MLK between Albany and Geneva, where there's that weird doctor's office and parking lot, and Goktug was supposed to meet us so we could go out. But he was texting to say he wouldn't go out, or something like that, and so we were waiting, and as I got more and more exasperated I started camping it up. "He's being so *fickle*," eyeroll. Boys. Priya was laughing and saying they love it when I "get like that." Yes, I have lost a powerful enabler. I forget if Goktug even showed up. In this vein they also loved the 1997 Gregg Araki cult classic "Nowhere," which I somehow convinced a big group to watch together at Eric's house. I think Priya got a kick out of James Duval's dumb hot guy act, or maybe they just liked when at the end of the movie (spoilers!) a huge talking bug alien explodes out of that kid.
-
-Priya would periodically do stuff that I could not predict, expect, or prepare for in any way. For instance, last spring they asked me to enter the ticket lottery for a Dead & Company concert on their behalf so they'd have a greater chance of winning. For the uninitiated, Dead & Company is a band descended from the Grateful Dead and they were playing at Cornell to commemmorate a fan favorite live recording ("Cornell 5/8/1977"). My dear friend, a Deadhead! Quelle horreur! But I'm very tolerant, as I told them at the time. What had me rolling was how when I mentioned it to others it turned out they had pulled like >10 others into their ticket scheme, which ultimately worked out and got them into the show. They really knew how to work a crowd.
-
-In the last academic year most of the time I spent with Priya was in teaching and research meetings. They were, obviously, so smart. As a head TA, they carried 3110 when I was coteaching it. As an RA, I taught them a lot of Coq, which is a pretty brutal and discouraging process for anyone, and there was a lot of hemming and hawing and pep talks involved as we tried to figure out what to do and how to do it. We were formalizing the Calyx hardware language, so they were learning both Coq and Calyx at the same time. I've continued working on the project, which is mostly okay. What I hate the most about this is when I notice that I need to fix something that Priya implemented following my advice and I can't apologize for how I misled them.
-
-I was so torn up when they died I couldn't write anything. Now I find I can't stop. Priya, rest in peace. We miss you.
-
-![](via_joshua_turcotti_7.jpeg)
-
 # Yulun Yao
 
 Priya has always been an energetic and lovely person. They brought sunshine to the Syslab that will forever be missed.
