@@ -221,3 +221,15 @@ You will forever be loved and missed by this community
 
 ![](via_joshua_turcotti_26.jpeg)
 
+# Shiyuan
+
+I met Priya working as course staff for CS 4120, Cornell’s introductory compilers class. They brought a positive atmosphere to course staff meetings with their presence alone, and could make even discussions regarding carpal tunnel seem exciting. Though they undoubtedly had a lot on their plate as a PhD student, they volunteered to take on extra responsibilities for the course, and went out of their way to make sure students felt supported. Priya, I’ll miss you.
+
+![](via_joshua_turcotti_27.jpeg)
+
+# Dexter
+
+Priya and I shared a love of music. I was Priya's instructor in a couple courses and we had a shared interest in programming languages too, but it was through music that we really connected. Singing together was a great source of joy for both of us.  I will always cherish that memory.
+
+![](via_joshua_turcotti_28.jpeg)
+
