@@ -9,6 +9,39 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Cosku Acay"
+  www = "https://www.coskuacay.com"
+  grad_year = "2023"
+
+[[people]]
+  name = "Drew Zagieboylo"
+  www = "https://www.cs.cornell.edu/~dzag"
+  grad_year = "2023"
+  org = "Northeastern University"
+
+[[people]]
+  name = "Leon Witzman"
+  grad_year = "2023"
+  org = "Nanyang Technological University"
+
+[[people]]
+  name = "Michael Roberts"
+  grad_year = "2023"
+  org = "NVIDIA"
+
+[[people]]
+  name = "Rolph Recto"
+  www = "https://rolph-recto.github.io"
+  grad_year = "2023"
+  org = "Oracle"
+
+[[people]]
+  name = "Pedro Amorim"
+  www = "http://www.cs.cornell.edu/~pamorim"
+  grad_year = "2023"
+  org = "Cambridge University"
+
+[[people]]
  name = "Priya Srikumar"
  grad_year = "2023"
  www = "https://priyasrikumar.com"

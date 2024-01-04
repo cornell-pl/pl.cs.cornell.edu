@@ -9,16 +9,6 @@ weight = 3
 title = "Students"
 
 [[people]]
-  name = "Cosku Acay"
-  www = "https://www.coskuacay.com"
-  img = "ca483.jpg"
-
-[[people]]
-  name = "Pedro Amorim"
-  www = "http://www.cs.cornell.edu/~pamorim"
-  img = "pa395.jpg"
-
-[[people]]
   name = "Jialu Bao"
   www = "http://baojia.lu/about"
 		img = "jb965.jpg"
@@ -80,17 +70,9 @@ title = "Students"
   img = "rn359.jpg"
 
 [[people]]
-  name = "Rolph Recto"
-  www = "https://rolph-recto.github.io"
-  img = "rr729.jpg"
-
-[[people]]
   name = "Oliver Richardson"
   www = "http://www.cs.cornell.edu/~oli"
   img = "oer5.jpg"
-
-[[people]]
-  name = "Michael Roberts"
 
 [[people]]
   name = "Goktug Saatcioglu"
@@ -106,9 +88,6 @@ title = "Students"
   img = "jst232.jpg"
 
 [[people]]
-  name = "Leon Witzman"
-
-[[people]]
   name = "Siqiu Yao"
   www = "http://www.cs.cornell.edu/~yaosiqiu"
   img = "sy657.jpg"
@@ -117,11 +96,6 @@ title = "Students"
   name = "Ayaka Yorihiro"
   www = "https://ayakayorihiro.github.io"
   img = "ay436.jpeg"
-
-[[people]]
-  name = "Drew Zagieboylo"
-  www = "https://www.cs.cornell.edu/~dzag"
-  img = "dz333.jpg"
 
 [[people]]
   name = "Noam Zilberstein"
