@@ -133,12 +133,12 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "PLDG"
-  url = "/pldg/2023fa/"
+  url = "/pldg/2024sp/"
   weight = 2
 
 [[menu.main]]
   name = "Great Works"
-  url = "/great-works/2022sp/"
+  url = "/great-works/2024sp/"
   weight = 3
 
 [[menu.main]]
