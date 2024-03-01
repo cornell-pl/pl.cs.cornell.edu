@@ -102,4 +102,9 @@ title = "Students"
   www = "https://www.cs.cornell.edu/~noamz"
   img = "nz67.jpg"
 
+[[people]]
+  name = "Hongzheng Chen"
+  www = "https://chhzh123.github.io/"
+  img = "hc676.jpg"
+
 +++
