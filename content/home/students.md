@@ -107,4 +107,7 @@ title = "Students"
   www = "https://chhzh123.github.io/"
   img = "hc676.jpg"
 
+[[people]]
+  name = "Yulun Yao"
+
 +++
