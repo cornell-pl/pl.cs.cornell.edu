@@ -14,18 +14,23 @@ title = "Students"
 		img = "jb965.jpg"
 
 [[people]]
-  name = "Luke Bernick"
-  www = "https://meritpages.com/Luke-Bernick/3531503"
-
-[[people]]
   name = "Griffin Berlstein"
   www = "https://griffinberlste.in/"
   img = "griffin.jpg"
 
 [[people]]
+  name = "Luke Bernick"
+  www = "https://meritpages.com/Luke-Bernick/3531503"
+
+[[people]]
   name = "Eric Campbell"
   www = "https://ericthewry.github.io"
   img = "ehc86.jpg"
+
+[[people]]
+  name = "Hongzheng Chen"
+  www = "https://chhzh123.github.io/"
+  img = "hc676.jpg"
 
 [[people]]
   name = "Oliver Daids"
@@ -93,6 +98,9 @@ title = "Students"
   img = "sy657.jpg"
 
 [[people]]
+  name = "Yulun Yao"
+
+[[people]]
   name = "Ayaka Yorihiro"
   www = "https://ayakayorihiro.github.io"
   img = "ay436.jpeg"
@@ -101,13 +109,5 @@ title = "Students"
   name = "Noam Zilberstein"
   www = "https://www.cs.cornell.edu/~noamz"
   img = "nz67.jpg"
-
-[[people]]
-  name = "Hongzheng Chen"
-  www = "https://chhzh123.github.io/"
-  img = "hc676.jpg"
-
-[[people]]
-  name = "Yulun Yao"
 
 +++
