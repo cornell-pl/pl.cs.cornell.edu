@@ -13,7 +13,7 @@ title = "PL @ Cornell"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Cornell University 2019"
+copyright = "&copy; Cornell University 2024"
 
 theme = "academic"
 enableEmoji = false
