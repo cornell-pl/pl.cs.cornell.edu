@@ -1,2 +1,6 @@
+# vim
+*.swp
+*.swo
+
 public/
 .DS_Store
