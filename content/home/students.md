@@ -23,6 +23,11 @@ title = "Students"
   www = "https://meritpages.com/Luke-Bernick/3531503"
 
 [[people]]
+  name = "Noah Bertram"
+  www = "https://www.cs.cornell.edu/~nbertram/"
+  img = "nb454.jpg"
+
+[[people]]
   name = "Eric Campbell"
   www = "https://ericthewry.github.io"
   img = "ehc86.jpg"
