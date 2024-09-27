@@ -46,18 +46,9 @@ title = "Students"
   img = "kd349.jpeg"
 
 [[people]]
-  name = "Dietrich Geisler"
-  www = "https://www.cs.cornell.edu/~dgeisler/"
-  img = "dag368.jpg"
-
-[[people]]
   name = "Karuna Grewal"
   www = "https://aakp10.github.io/"
   img = "kg384.jpg"
-
-[[people]]
-  name = "Yunhe Liu"
-  www = "https://about.yunhe-liu.com/"
 
 [[people]]
   name = "Anshuman Mohan"
@@ -70,19 +61,9 @@ title = "Students"
   img = "mdm367.jpg"
 
 [[people]]
-  name = "Haobin Ni"
-  www = "http://haobin.cx"
-  img = "hn332.jpg"
-
-[[people]]
   name = "Rachit Nigam"
   www = "https://rachitnigam.com/"
   img = "rn359.jpg"
-
-[[people]]
-  name = "Oliver Richardson"
-  www = "http://www.cs.cornell.edu/~oli"
-  img = "oer5.jpg"
 
 [[people]]
   name = "Goktug Saatcioglu"
@@ -91,16 +72,6 @@ title = "Students"
   name = "Zachary Susag"
   www = "https://zacharysusag.net"
   img = "zjs32.jpeg"
-
-[[people]]
-  name = "Joshua Turcotti"
-  www = "https://www.jturcotti.com"
-  img = "jst232.jpg"
-
-[[people]]
-  name = "Siqiu Yao"
-  www = "http://www.cs.cornell.edu/~yaosiqiu"
-  img = "sy657.jpg"
 
 [[people]]
   name = "Yulun Yao"

@@ -9,15 +9,42 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Dietrich Geisler"
+  grad_year = "2024"
+  org = "Northwestern University"
+
+[[people]]
+  name = "Haobin Ni"
+  www = "http://haobin.cx"
+  grad_year = "2024"
+  org = "University of Washington"
+
+[[people]]
+  name = "Oliver Richardson"
+  grad_year = "2024"
+  org = "MILA"
+
+[[people]]
+  name = "Siqiu Yao"
+  grad_year = "2024"
+  org = "Huawei"
+
+[[people]]
   name = "Cosku Acay"
   www = "https://www.coskuacay.com"
   grad_year = "2023"
+  org = "Observe"
 
 [[people]]
   name = "Drew Zagieboylo"
   www = "https://www.cs.cornell.edu/~dzag"
   grad_year = "2023"
   org = "Northeastern University"
+
+[[people]]
+  name = "Yunhe Liu"
+  grad_year = "2023"
+  org = "Equinix"
 
 [[people]]
   name = "Leon Witzman"
@@ -78,7 +105,7 @@ title = "Alumni"
 [[people]]
   name = "Josh Gancher"
   www = "https://gancher.dev/"
-  org = "Carnegie Mellon University"
+  org = "Northeastern University"
   grad_year = "2021"
 
 [[people]]
@@ -108,7 +135,7 @@ title = "Alumni"
   name = "Mae Milano"
   www = "http://www.languagesforsyste.ms/"
   grad_year = "2020"
-  org = "UC Berkeley"
+  org = "Princeton University"
 
 [[people]]
   name = "Yuqian Zhang"
@@ -168,7 +195,6 @@ title = "Alumni"
   name = "Shrutarshi Basu"
   www = "https://basus.me/"
   grad_year = "2018"
-  org = "Middlebury College"
 
 [[people]]
   name = "Eleanor Birrell"
@@ -206,8 +232,8 @@ title = "Alumni"
 [[people]]
   name = "Danfeng Zhang"
   grad_year = "2015"
-  www = "http://www.cse.psu.edu/~dbz5017"
-  org = "Penn State"
+  www = "https://users.cs.duke.edu/~dz132/"
+  org = "Duke University"
 
 [[people]]
   name = "Konstantinos Mamouras"
