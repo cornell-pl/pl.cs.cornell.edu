@@ -3,10 +3,10 @@ name: Hugo deploy
 on: [push]
 
 jobs:
-  docs:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
@@ -19,29 +19,42 @@ jobs:
       - name: Build website
         run: hugo
 
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: site
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: ${{github.event_name=='push' && github.ref=='refs/heads/master'}}
+    steps:
+      - name: Tailscale
+        uses: tailscale/github-action@v2
+        with:
+          oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
+          oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
+          tags: tag:ci
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: site
+          path: public
+      - run: ls -R
       - name: rsync
-        if: ${{github.event_name=='push' && github.ref=='refs/heads/master'}}
         env:
-          DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
-          DEPLOY_PORT: ${{ secrets.DEPLOY_PORT }}
+          DEPLOY_HOST: cslinux.cs.cornell.edu
           DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
           DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
           DEPLOY_KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
           DEPLOY_SRC: ./public/
-          DEPLOY_DEST: sync/pl-www
-          DEPLOY_2_HOST: cslinux.cs.cornell.edu
-          DEPLOY_2_DEST: /research/pl
+          DEPLOY_DEST: /research/pl
         run: |
           echo "$DEPLOY_KEY" > pk
           echo "$DEPLOY_KNOWN_HOSTS" > kh
           chmod 600 pk
-          echo "========STAGE 1 SYNC: CAPRA==========="
           rsync --compress --recursive --checksum --itemize-changes --delete \
-            -e "ssh -p \"$DEPLOY_PORT\" -i pk -o 'UserKnownHostsFile kh'" \
+            --chmod=Du=rwx,Dgo=rx,Fu=rw,Fog=r \
+            -e "ssh -i pk -o 'UserKnownHostsFile kh'" \
             $DEPLOY_SRC $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DEST
-          echo "========STAGE 2 SYNC: CSLINUX==========="
-          ssh -p $DEPLOY_PORT -i pk -o 'UserKnownHostsFile kh' \
-            $DEPLOY_USER@$DEPLOY_HOST \
-            rsync --compress --recursive --checksum --itemize-changes \
-            --delete -e ssh --no-perms \
-            $DEPLOY_DEST/ $DEPLOY_2_HOST:$DEPLOY_2_DEST
