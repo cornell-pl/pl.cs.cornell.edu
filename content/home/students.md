@@ -28,11 +28,6 @@ title = "Students"
   img = "nb454.jpg"
 
 [[people]]
-  name = "Eric Campbell"
-  www = "https://ericthewry.github.io"
-  img = "ehc86.jpg"
-
-[[people]]
   name = "Hongzheng Chen"
   www = "https://chhzh123.github.io/"
   img = "hc676.jpg"

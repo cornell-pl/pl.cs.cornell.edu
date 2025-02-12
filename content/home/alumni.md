@@ -9,6 +9,12 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Eric Campbell"
+  www = "https://ericthewry.github.io"
+  grad_year = "2024"
+  org = "UT Austin"
+
+[[people]]
   name = "Dietrich Geisler"
   grad_year = "2024"
   org = "Northwestern University"
