@@ -15,6 +15,12 @@ title = "Alumni"
   org = "UT Austin"
 
 [[people]]
+  name = "Rachit Nigam"
+  www = "https://rachit.pl/"
+  grad_year = "2024"
+  org = "MIT"
+
+[[people]]
   name = "Dietrich Geisler"
   grad_year = "2024"
   org = "Northwestern University"

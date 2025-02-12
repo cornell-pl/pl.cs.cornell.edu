@@ -56,11 +56,6 @@ title = "Students"
   img = "mdm367.jpg"
 
 [[people]]
-  name = "Rachit Nigam"
-  www = "https://rachitnigam.com/"
-  img = "rn359.jpg"
-
-[[people]]
   name = "Goktug Saatcioglu"
 
 [[people]]
