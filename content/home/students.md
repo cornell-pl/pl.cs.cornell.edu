@@ -56,6 +56,11 @@ title = "Students"
   img = "mdm367.jpg"
 
 [[people]]
+  name = "Ernest Ng"
+  www = "https://ngernest.github.io"
+  img = "eyn5.jpg"  
+
+[[people]]
   name = "Goktug Saatcioglu"
 
 [[people]]
