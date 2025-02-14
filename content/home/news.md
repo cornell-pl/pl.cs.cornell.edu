@@ -8,6 +8,14 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  date = "Jul 2025"
+  content = "Andrew Myers elected as chair of the SIGPLAN Executive Committee."
+
+[[news]]
+  date = "Jul 2024"
+  content = "[Secure synthesis of distributed cryptographic applications](https://www.cs.cornell.edu/andru/papers/viaduct-formal/) accepted to CSF'24. Congratulations to Josh A., Josh G., Rolph, and Andrew."
+
+[[news]]
   date = "Oct 2023"
   content = "[Formal Abstractions for Packet Scheduling](https://dl.acm.org/doi/10.1145/3622845) was recognized as a Distinguished Paper at OOPSLA '23. Congratulations, Anshuman, Yunhe, Nate, Tobias, and Dexter!"
 
