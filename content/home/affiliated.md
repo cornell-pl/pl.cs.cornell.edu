@@ -26,7 +26,7 @@ title = "Affiliated Members"
   img = "ret87.jpg"
 
 [[people]]
-  name = "John Sarracino"
-  www = "https://www.cs.cornell.edu/~jsarracino/"
-  img = "john.jpg"
+  name = "Guy Amir"
+  www = "https://guyam2.github.io/"
+  img = "gda42.png"
 +++
