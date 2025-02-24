@@ -87,6 +87,10 @@ title = "Students"
   img = "ay436.jpeg"
 
 [[people]]
+  name = "Laura Zielinski"
+  img = "lcz8.jpg"
+
+[[people]]
   name = "Noam Zilberstein"
   www = "https://www.cs.cornell.edu/~noamz"
   img = "nz67.jpg"
