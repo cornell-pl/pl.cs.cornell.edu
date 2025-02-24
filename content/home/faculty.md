@@ -49,13 +49,13 @@ title = "Faculty"
   img = "als485.jpg"
 
 [[people]]
-  name = "Alexandra Silva"
-  www = "https://alexandrasilva.org/"
-  img = "alexandra.jpeg"
-
-[[people]]
   name = "Fred Schneider"
   www = "https://www.cs.cornell.edu/fbs/"
   img = "fbs2.jpg"
+
+[[people]]
+  name = "Alexandra Silva"
+  www = "https://alexandrasilva.org/"
+  img = "alexandra.jpeg"
 
 +++

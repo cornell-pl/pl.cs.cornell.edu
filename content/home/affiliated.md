@@ -11,6 +11,11 @@ title = "Affiliated Members"
 
 # Affiliated
 [[people]]
+  name = "Guy Amir"
+  www = "https://guyam2.github.io/"
+  img = "gda42.png"
+
+[[people]]
   name = "Kevin Ellis"
   www = "https://www.cs.cornell.edu/~ellisk/"
   img = "ellisk.jpg"
@@ -24,9 +29,4 @@ title = "Affiliated Members"
   name = "Ross Tate"
   www = "https://www.cs.cornell.edu/~ross/"
   img = "ret87.jpg"
-
-[[people]]
-  name = "Guy Amir"
-  www = "https://guyam2.github.io/"
-  img = "gda42.png"
 +++

@@ -462,6 +462,10 @@ small,
  *  Biography
  **************************************************/
 
+#people-layout > *:nth-child(3n+1) {
+   clear: both;
+}
+
 #profile {
   text-align: center;
   padding: 30px 10px;
