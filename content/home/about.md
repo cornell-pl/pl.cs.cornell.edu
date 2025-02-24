@@ -28,3 +28,5 @@ Notable works from Cornell include:
 [Jif](http://www.cs.cornell.edu/jif),
 [Frenetic](http://www.frenetic-lang.org),
 and discovering the [unsoundness of Java and Scala's type system](http://io.livecode.ch/learn/namin/unsound).
+
+This website is managed under [Github](https://github.com/cornell-pl/pl.cs.cornell.edu). To modify, please submit a pull request!
