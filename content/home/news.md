@@ -84,6 +84,15 @@ active = false
   conf_link = "https://pldi24.sigplan.org/track/pldi-2024-papers"
 
 [[news]]
+  kind = "paper"
+  date = "Jun 2024"
+  who = "Hongzheng Chen, Niansong Zhang, Shaojie Xiang, Zhichen Zeng, Mengjia Dai, Zhiru Zhang"
+  paper_name = "Allo: A Programming Model for Composable Accelerator Design"
+  paper_link = "https://dl.acm.org/doi/10.1145/3656401"
+  conf_name = "PLDI '24"
+  conf_link = "https://pldi24.sigplan.org/track/pldi-2024-papers"
+
+[[news]]
   date = "Oct 2023"
   content = "[Formal Abstractions for Packet Scheduling](https://dl.acm.org/doi/10.1145/3622845) was recognized as a Distinguished Paper at OOPSLA '23. Congratulations, Anshuman, Yunhe, Nate, Tobias, and Dexter!"
 
