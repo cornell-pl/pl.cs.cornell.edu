@@ -12,8 +12,76 @@ active = false
   content = "Andrew Myers elected as chair of the SIGPLAN Executive Committee."
 
 [[news]]
+  kind = "paper"
+  date = "Jan 2025"
+  who = "Noam Zilberstein, Joseph Tassarotti, Alexandra Silva, Dexter Kozen"
+  paper_name = "A Demonic Outcome Logic for Randomized Nondeterminism"
+  paper_link = "https://www.cs.cornell.edu/~noamz/files/pubs/dol.pdf"
+  conf_name = "POPL '25"
+  conf_link = "https://popl25.sigplan.org/track/POPL-2025-popl-research-papers"
+
+[[news]]
+  kind = "paper"
+  date = "Jan 2025"
+  who = "Jialu Bao, Emanuele D’Osualdo, Azadeh Farzan"
+  paper_name = "Bluebell: An Alliance of Relational Lifting and Independence for Probabilistic Reasoning"
+  paper_link = "https://arxiv.org/abs/2401.04131"
+  conf_name = "POPL '25"
+  conf_link = "https://popl25.sigplan.org/track/POPL-2025-popl-research-papers"
+
+[[news]]
+  kind = "paper"
+  date = "Oct 2024"
+  who = "Noam Zilberstein, Angelina Saliling, Alexandra Silva"
+  paper_name = "Outcome Separation Logic: Local Reasoning for Correctness and Incorrectness with Computational Effects"
+  paper_link = "https://www.cs.cornell.edu/~noamz/files/pubs/osl.pdf"
+  conf_name = "OOPSLA '24"
+  conf_link = "https://2024.splashcon.org/track/splash-2024-oopsla"
+
+[[news]]
+  kind = "paper"
+  date = "Oct 2024"
+  who = "Caleb Kim, Pai Li, Anshuman Mohan, Andrew Butt, Adrian Sampson, Rachit Nigam"
+  paper_name = "Unifying Static and Dynamic Intermediate Languages for Accelerator Generators"
+  paper_link = "https://www.cs.cornell.edu/~asampson/media/papers/piezo-oopsla2024-preprint.pdf"
+  conf_name = "OOPSLA '24"
+  conf_link = "https://2024.splashcon.org/track/splash-2024-oopsla"
+
+[[news]]
+  kind = "paper"
+  date = "Oct 2024"
+  who = "Eric Campbell, Hossein Hojjat, Nate Foster"
+  paper_name = "Computing Precise Control Interface Specifications"
+  paper_link = "https://www.cs.cornell.edu/~jnfoster/papers/capisce.pdf"
+  conf_name = "OOPSLA '24"
+  conf_link = "https://2024.splashcon.org/track/splash-2024-oopsla"
+
+[[news]]
+  kind = "paper"
   date = "Jul 2024"
-  content = "[Secure synthesis of distributed cryptographic applications](https://www.cs.cornell.edu/andru/papers/viaduct-formal/) accepted to CSF'24. Congratulations to Josh A., Josh G., Rolph, and Andrew."
+  who = "Josh Acay, Josh Gancher, Rolph Recto, Andrew Myers"
+  paper_name = "Secure synthesis of distributed cryptographic applications"
+  paper_link = "https://www.cs.cornell.edu/andru/papers/viaduct-formal/"
+  conf_name = "CSF '24"
+  conf_link = "https://csf2024.ieee-security.org/cfp.html"
+
+[[news]]
+  kind = "paper"
+  date = "Jun 2024"
+  who = "Mark Moeller, Jules Jacobs, Olivier Savary Belanger, David Darais, Cole Schlesinger, Steffen Smolka, Nate Foster, Alexandra Silva"
+  paper_name = "KATch: A Fast Symbolic Verifier for NetKAT"
+  paper_link = "https://www.cs.cornell.edu/~mdm367/pdf/katch.pdf"
+  conf_name = "PLDI '24"
+  conf_link = "https://pldi24.sigplan.org/track/pldi-2024-papers"  
+
+[[news]]
+  kind = "paper"
+  date = "Jun 2024"
+  who = "Ariel Kellison, Justin Hsu"
+  paper_name = "Numerical Fuzz: A Type System for Rounding Error Analysis"
+  paper_link = "https://arxiv.org/abs/2405.04612"
+  conf_name = "PLDI '24"
+  conf_link = "https://pldi24.sigplan.org/track/pldi-2024-papers"
 
 [[news]]
   date = "Oct 2023"

@@ -4,3 +4,7 @@
 
 public/
 .DS_Store
+
+# emacs
+*~
+\#*\#
