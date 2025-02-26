@@ -95,4 +95,9 @@ title = "Students"
   www = "https://www.cs.cornell.edu/~noamz"
   img = "nz67.jpg"
 
+[[people]]
+  name = "Aditya Senthilnathan"
+  www = "https://www.linkedin.com/in/aditya-senthilnathan/"
+  img = "as3742.jpg"
+
 +++
