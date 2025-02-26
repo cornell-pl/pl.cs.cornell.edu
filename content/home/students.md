@@ -69,6 +69,11 @@ title = "Students"
   name = "Goktug Saatcioglu"
 
 [[people]]
+  name = "Aditya Senthilnathan"
+  www = "https://www.linkedin.com/in/aditya-senthilnathan/"
+  img = "as3742.jpg"
+
+[[people]]
   name = "Emmanuel Suárez Acevedo"
   www = "https://www.emmanuelsuarez.com"
   img = "es2278.png"
