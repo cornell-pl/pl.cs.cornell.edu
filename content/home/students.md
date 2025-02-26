@@ -69,6 +69,11 @@ title = "Students"
   name = "Goktug Saatcioglu"
 
 [[people]]
+  name = "Aditya Senthilnathan"
+  www = "https://www.linkedin.com/in/aditya-senthilnathan/"
+  img = "as3742.jpg"
+
+[[people]]
   name = "Emmanuel Suárez Acevedo"
   www = "https://www.emmanuelsuarez.com"
   img = "es2278.png"
@@ -94,10 +99,5 @@ title = "Students"
   name = "Noam Zilberstein"
   www = "https://www.cs.cornell.edu/~noamz"
   img = "nz67.jpg"
-
-[[people]]
-  name = "Aditya Senthilnathan"
-  www = "https://www.linkedin.com/in/aditya-senthilnathan/"
-  img = "as3742.jpg"
 
 +++
