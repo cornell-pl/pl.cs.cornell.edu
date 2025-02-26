@@ -466,6 +466,16 @@ small,
    clear: both;
 }
 
+@media screen and (max-width: 768px) {
+    #people-layout > *:nth-child(3n+1) {
+	clear: none;
+    }
+    #people-layout > *:nth-child(2n+1) {
+	clear: both;
+    }
+}
+
+
 #profile {
   text-align: center;
   padding: 30px 10px;
