@@ -8,10 +8,6 @@ active = false
 # graduating. See examples below.
 
 [[news]]
-  date = "Jul 2025"
-  content = "Andrew Myers elected as chair of the SIGPLAN Executive Committee."
-
-[[news]]
   kind = "paper"
   date = "Jan 2025"
   who = "Noam Zilberstein, Joseph Tassarotti, Alexandra Silva, Dexter Kozen"
@@ -55,6 +51,14 @@ active = false
   paper_link = "https://www.cs.cornell.edu/~jnfoster/papers/capisce.pdf"
   conf_name = "OOPSLA '24"
   conf_link = "https://2024.splashcon.org/track/splash-2024-oopsla"
+
+[[news]]
+  date = "Jul 2024"
+  content = "Andrew Myers elected as chair of the SIGPLAN Executive Committee."
+
+[[news]]
+  date = "Jul 2024"
+  content = "Alexandra Silva re-elected as member-at-large of the SIGPLAN Executive Committee."
 
 [[news]]
   kind = "paper"
