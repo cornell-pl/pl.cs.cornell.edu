@@ -83,7 +83,7 @@ title = "Alumni"
 [[people]]
  name = "Priya Srikumar"
  grad_year = "2023"
- www = "https://priyasrikumar.com"
+ www = "https://pl.cs.cornell.edu/special/priya_srikumar/"
  org = "In Memoriam"
 
 [[people]]
