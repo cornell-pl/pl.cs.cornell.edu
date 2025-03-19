@@ -61,6 +61,13 @@ active = false
   content = "Oliver Daids passed his A exam! Congratulations, Oliver!"
 
 [[news]]
+  kind = "award"
+  date = "Jul 2024"
+  who = "Justin Hsu"
+  award_name = "EATCS Presburger Award"
+  award_link = "https://www.eatcs.org/index.php/presburger"
+
+[[news]]
   date = "Jul 2024"
   content = "Andrew Myers elected as chair of the SIGPLAN Executive Committee."
 
@@ -103,6 +110,24 @@ active = false
   paper_link = "https://dl.acm.org/doi/10.1145/3656401"
   conf_name = "PLDI '24"
   conf_link = "https://pldi24.sigplan.org/track/pldi-2024-papers"
+
+[[news]]
+  kind = "paper"
+  date = "Apr 2024"
+  who = "Noah Bertram, Tean Lai and Justin Hsu"
+  paper_name = "Verifying Cake Cutting, Faster"
+  paper_link = "https://arxiv.org/abs/2405.14068"
+  conf_name = "CAV '24"
+  conf_link = "https://i-cav.org/2024/call-for-papers/"
+
+[[news]]
+  kind = "paper"
+  date = "Apr 2024"
+  who = "Tao Gu, Jialu Bao, Justin Hsu, Alexandra Silva, and Fabio Zanasi"
+  paper_name = "A Categorical Approach DIBI models"
+  paper_link = "https://arxiv.org/abs/2401.05842"
+  conf_name = "FSCD '24"
+  conf_link = "https://cs.ioc.ee/fscd24/cfp.html"
 
 [[news]]
   date = "Apr 2024"
