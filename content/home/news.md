@@ -26,6 +26,10 @@ active = false
   conf_link = "https://popl25.sigplan.org/track/POPL-2025-popl-research-papers"
 
 [[news]]
+  date = "Oct 2024"
+  content = "Hongzheng Chen passed his A exam! Congratulations, Hongzheng!"
+
+[[news]]
   kind = "paper"
   date = "Oct 2024"
   who = "Noam Zilberstein, Angelina Saliling, Alexandra Silva"
@@ -51,6 +55,10 @@ active = false
   paper_link = "https://www.cs.cornell.edu/~jnfoster/papers/capisce.pdf"
   conf_name = "OOPSLA '24"
   conf_link = "https://2024.splashcon.org/track/splash-2024-oopsla"
+
+[[news]]
+  date = "Aug 2024"
+  content = "Oliver Daids passed his A exam! Congratulations, Oliver!"
 
 [[news]]
   date = "Jul 2024"
@@ -97,8 +105,28 @@ active = false
   conf_link = "https://pldi24.sigplan.org/track/pldi-2024-papers"
 
 [[news]]
+  date = "Apr 2024"
+  content = "Karuna Grewal passed her A exam. Congratulations, Karuna!"
+
+[[news]]
+  date = "Mar 2024"
+  content = "Ayaka Yorihiro passed her A exam. Congratulations, Ayaka!"
+
+[[news]]
+  date = "Dec 2023"
+  content = "Anshuman Mohan passed his A exam. Congratulations, Anshuman!"
+
+[[news]]
+  date = "Dec 2023"
+  content = "Goktug Saatcioglu passed his A exam. Congratulations, Goktug!"
+
+[[news]]
   date = "Oct 2023"
   content = "[Formal Abstractions for Packet Scheduling](https://dl.acm.org/doi/10.1145/3622845) was recognized as a Distinguished Paper at OOPSLA '23. Congratulations, Anshuman, Yunhe, Nate, Tobias, and Dexter!"
+
+[[news]]
+  date = "Sep 2023"
+  content = "Noam Zilberstein passed his A exam. Congratulations, Noam!"
 
 [[news]]
   date = "Aug 2023"
@@ -122,6 +150,10 @@ active = false
   cond = "true"
   conf_name = "OOPSLA '23"
   conf_link = "https://2023.splashcon.org/track/splash-2023-oopsla"
+
+[[news]]
+  date = "Jul 2023"
+  content = "Silei Ren passed his A exam. Congratulations, Silei!"
 
 [[news]]
   kind = "award"
@@ -160,6 +192,22 @@ active = false
   who = "Alexandra Silva"
   award_name = "Cornell Bowers CIS Research Excellence Award"
   award_link = "https://cis.cornell.edu/10-pioneering-faculty-receive-cornell-bowers-cis-excellence-awards"
+
+[[news]]
+  date = "May 2023"
+  content = "Wen-Ding Li passed his A exam. Congratulations, Wen-Ding!"
+
+[[news]]
+  date = "May 2023"
+  content = "Mark Moeller passed his A exam. Congratulations, Mark!"
+
+[[news]]
+  date = "May 2023"
+  content = "Griffin Berlstein passed their A exam. Congratulations, Griffin!"
+
+[[news]]
+  date = "May 2023"
+  content = "Zach Susag passed his A exam. Congratulations, Zach!"
 
 [[news]]
   kind = "paper"
@@ -214,7 +262,11 @@ active = false
   cond = "true"
   conf_name = "OOPSLA '23"
   conf_link = "https://2023.splashcon.org/track/splash-2023-oopsla"
-  
+
+[[news]]
+  date = "Oct 2022"
+  content = "Ariel Kellison passed her A exam. Congratulations, Ariel!"
+
 [[news]]
   kind = "paper"
   date = "Sep 2022"
