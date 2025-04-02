@@ -27,6 +27,10 @@ active = false
 
 [[news]]
   date = "Oct 2024"
+  content = "Noam Zilberstein won the ACM SIGPLAN John Vlissides Award! Congratulations, Noam!"
+
+[[news]]
+  date = "Oct 2024"
   content = "Hongzheng Chen passed his A exam! Congratulations, Hongzheng!"
 
 [[news]]
