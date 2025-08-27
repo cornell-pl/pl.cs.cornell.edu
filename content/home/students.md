@@ -9,11 +9,6 @@ weight = 3
 title = "Students"
 
 [[people]]
-  name = "Jialu Bao"
-  www = "http://baojia.lu/about"
-		img = "jb965.jpg"
-
-[[people]]
   name = "Griffin Berlstein"
   www = "https://griffinberlste.in/"
   img = "griffin.jpg"

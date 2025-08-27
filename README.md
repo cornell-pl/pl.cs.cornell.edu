@@ -4,7 +4,7 @@ Cornell PL WWW
 Website for the Cornell Programming Languages group.
 
 The website is automatically deployed using Github actions.
-Contact Ayaka Yorihiro (Web Czar) or [Adrian][] if there are issues.
+Contact [Ayaka Yorihiro][ayaka] (Web Czar) or [Adrian][] if there are issues.
 
 [adrian]: http://adriansampson.net
 [ayaka]: https://ayakayorihiro.github.io/

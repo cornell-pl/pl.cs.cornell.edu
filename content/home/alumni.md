@@ -9,6 +9,12 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Jialu Bao"
+  www = "http://baojia.lu/about"
+  grad_year = "2025"
+  org = "Northeastern University"
+
+[[people]]
   name = "Eric Campbell"
   www = "https://ericthewry.github.io"
   grad_year = "2024"
@@ -40,6 +46,11 @@ title = "Alumni"
   name = "Siqiu Yao"
   grad_year = "2024"
   org = "Huawei"
+
+[[people]]
+  name = "Julia Turcotti"
+  grad_year = "2024"
+  org = "MIT"
 
 [[people]]
   name = "Cosku Acay"
