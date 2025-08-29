@@ -9,6 +9,33 @@ active = false
 
 [[news]]
   kind = "paper"
+  date = "March 2025"
+  who = "Shawn Ong, Stephanie Ma, and Dexter Kozen."
+  paper_name = "Probabilistic Kleene Algebra with Angelic Nondeterminism"
+  paper_link = "https://www.cs.cornell.edu/~kozen/Papers/PKA.pdf"
+  conf_name = "PLDI '25"
+  conf_link = "https://pldi25.sigplan.org/track/pldi-2025-papers"
+
+[[news]]
+  kind = "paper"
+  date = "March 2025"
+  who = "Mark Moeller, Tiago Ferreira, Thomas Lu, Nate Foster, and Alexandra Silva."
+  paper_name = "Active Learning of Symbolic NetKAT Automata"
+  paper_link = "https://natefoster.org/papers/nklstar.pdf"
+  conf_name = "PLDI '25"
+  conf_link = "https://pldi25.sigplan.org/track/pldi-2025-papers"
+
+[[news]]
+  kind = "paper"
+  date = "March 2025"
+  who = "Jules Jacobs, Nate Foster, Tobias Kappé, Dexter Kozen, Lily Saada, Alexandra Silva, and Jana Wagemaker."
+  paper_name = "StacKAT: Infinite State Network Verification"
+  paper_link = "https://julesjacobs.com/papers/stackat/stackat.pdf"
+  conf_name = "PLDI '25"
+  conf_link = "https://pldi25.sigplan.org/track/pldi-2025-papers"
+
+[[news]]
+  kind = "paper"
   date = "Jan 2025"
   who = "Noam Zilberstein, Joseph Tassarotti, Alexandra Silva, Dexter Kozen"
   paper_name = "A Demonic Outcome Logic for Randomized Nondeterminism"
