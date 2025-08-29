@@ -9,8 +9,26 @@ active = false
 
 [[news]]
   kind = "paper"
+  date = "May 2025"
+  who = "Noam Zilberstein"
+  paper_name = "Outcome Logic: A Unified Approach to the Metatheory of Program Logics with Branching Effects"
+  paper_link = "https://www.cs.cornell.edu/~noamz/files/pubs/toplas25.pdf"
+  conf_name = "TOPLAS '25"
+  conf_link = "https://dl.acm.org/journal/toplas"
+
+[[news]]
+  kind = "paper"
+  date = "May 2025"
+  who = "Noam Zilberstein, Daniele Gorla, Alexandra Silva"
+  paper_name = "Denotational Semantics for Probabilistic and Concurrent Programs"
+  paper_link = "https://www.cs.cornell.edu/~noamz/files/pubs/denot.pdf"
+  conf_name = "CONCUR '25"
+  conf_link = "https://conferences.au.dk/confest2025/concur"
+
+[[news]]
+  kind = "paper"
   date = "March 2025"
-  who = "Shawn Ong, Stephanie Ma, and Dexter Kozen."
+  who = "Shawn Ong, Stephanie Ma, and Dexter Kozen"
   paper_name = "Probabilistic Kleene Algebra with Angelic Nondeterminism"
   paper_link = "https://www.cs.cornell.edu/~kozen/Papers/PKA.pdf"
   conf_name = "PLDI '25"
@@ -19,7 +37,7 @@ active = false
 [[news]]
   kind = "paper"
   date = "March 2025"
-  who = "Mark Moeller, Tiago Ferreira, Thomas Lu, Nate Foster, and Alexandra Silva."
+  who = "Mark Moeller, Tiago Ferreira, Thomas Lu, Nate Foster, and Alexandra Silva"
   paper_name = "Active Learning of Symbolic NetKAT Automata"
   paper_link = "https://natefoster.org/papers/nklstar.pdf"
   conf_name = "PLDI '25"
@@ -28,7 +46,7 @@ active = false
 [[news]]
   kind = "paper"
   date = "March 2025"
-  who = "Jules Jacobs, Nate Foster, Tobias Kappé, Dexter Kozen, Lily Saada, Alexandra Silva, and Jana Wagemaker."
+  who = "Jules Jacobs, Nate Foster, Tobias Kappé, Dexter Kozen, Lily Saada, Alexandra Silva, and Jana Wagemaker"
   paper_name = "StacKAT: Infinite State Network Verification"
   paper_link = "https://julesjacobs.com/papers/stackat/stackat.pdf"
   conf_name = "PLDI '25"
