@@ -79,6 +79,11 @@ title = "Students"
   img = "zjs32.jpeg"
 
 [[people]]
+  name = "Katherine Wu"
+  www = "https://katherinewu312.github.io"
+  img = "kaw324.jpg"
+
+[[people]]
   name = "Yulun Yao"
 
 [[people]]
