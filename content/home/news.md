@@ -9,6 +9,14 @@ active = false
 
 [[news]]
   kind = "paper"
+  date = "Aug 2025"
+  who = "Karuna Grewal, P. Brighten Godfrey, Justin Hsu"
+  paper_name = "SafeTree: Expressive Tree Policies for Microservices"
+  paper_link = "https://arxiv.org/abs/2508.16746"
+  conf_name = "OOPSLA '25"
+  conf_link = "https://2025.splashcon.org/track/OOPSLA"
+[[news]]
+  kind = "paper"
   date = "May 2025"
   who = "Noam Zilberstein"
   paper_name = "Outcome Logic: A Unified Approach to the Metatheory of Program Logics with Branching Effects"
