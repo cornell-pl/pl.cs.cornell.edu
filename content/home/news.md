@@ -10,11 +10,39 @@ active = false
 [[news]]
   kind = "paper"
   date = "Aug 2025"
+  who = "Vaibhav Mehta and Justin Hsu"
+  paper_name = "A Hoare Logic for Symmetry Properties"
+  paper_link = "https://arxiv.org/abs/2509.00587"
+  conf_name = "OOPSLA '25"
+  conf_link = "https://2025.splashcon.org/track/OOPSLA"
+
+[[news]]
+  kind = "paper"
+  date = "Aug 2025"
+  who = "Kevin Guan, Marcelo d'Amorim, and Owolabi Legunsen"
+  paper_name = "Faster Explicit-Trace Monitoring-Oriented Programming for Runtime Verification of Software Tests"
+  paper_link = "https://gkevin.com/pdf/GuanETALLazyMOPOOPSLA25.pdf"
+  conf_name = "OOPSLA '25"
+  conf_link = "https://2025.splashcon.org/track/OOPSLA"
+
+[[news]]
+  kind = "paper"
+  date = "Aug 2025"
   who = "Karuna Grewal, P. Brighten Godfrey, Justin Hsu"
   paper_name = "SafeTree: Expressive Tree Policies for Microservices"
   paper_link = "https://arxiv.org/abs/2508.16746"
   conf_name = "OOPSLA '25"
   conf_link = "https://2025.splashcon.org/track/OOPSLA"
+
+[[news]]
+  kind = "paper"
+  date = "Aug 2025"
+  who = "Cosmo Viola, Max Fan, Talia Ringer"
+  paper_name = "Proof Repair across Quotient Type Equivalences"
+  paper_link = "https://arxiv.org/abs/2310.06959"
+  conf_name = "OOPSLA '25"
+  conf_link = "https://2025.splashcon.org/track/OOPSLA"  
+
 [[news]]
   kind = "paper"
   date = "May 2025"
