@@ -34,6 +34,11 @@ title = "Faculty"
   img = "dck10.jpg"
 
 [[people]]
+  name = "Sorin Lerner"
+  www = "https://www.cs.cornell.edu/~lerner/"
+  img = "sll246.jpg"
+
+[[people]]
   name = "Greg Morrisett"
   www = "https://www.cs.cornell.edu/~jgm/"
   img = "jgm19.jpg"
