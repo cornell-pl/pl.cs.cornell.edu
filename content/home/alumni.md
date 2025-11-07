@@ -87,9 +87,9 @@ title = "Alumni"
 
 [[people]]
   name = "Pedro Amorim"
-  www = "http://www.cs.cornell.edu/~pamorim"
+  www = "https://pedrohaa.github.io/"
   grad_year = "2023"
-  org = "Cambridge University"
+  org = "University of Bath"
 
 [[people]]
  name = "Priya Srikumar"
