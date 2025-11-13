@@ -9,6 +9,15 @@ active = false
 
 [[news]]
   kind = "paper"
+  date = "Nov 2025"
+  who = "Noam Zilberstein, Alexandra Silva, and Joseph Tassarotti"
+  paper_name = "Probabilistic Concurrent Reasoning in Outcome Logic: Independence, Conditioning, and Invariants"
+  paper_link = "https://www.cs.cornell.edu/~noamz/files/pubs/pcol.pdf"
+  conf_name = "POPL '26"
+  conf_link = "https://popl26.sigplan.org/track/POPL-2026-popl-research-papers#Accepted-Papers"
+
+[[news]]
+  kind = "paper"
   date = "Aug 2025"
   who = "Vaibhav Mehta and Justin Hsu"
   paper_name = "A Hoare Logic for Symmetry Properties"
