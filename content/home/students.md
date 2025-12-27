@@ -98,6 +98,7 @@ title = "Students"
 
 [[people]]
   name = "Laura Zielinski"
+  www = "https://laurazielinski.net"
   img = "lcz8.jpg"
 
 [[people]]
