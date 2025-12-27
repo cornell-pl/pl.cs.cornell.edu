@@ -21,7 +21,7 @@ wide array of domains within computer science.
 
 Notable works from Cornell include:
 [PL/C](https://en.wikipedia.org/wiki/PL/C),
-[NuPRL](http://www.nuprl.org),
+[NuPRL](https://nuprl-web.cs.cornell.edu/),
 [Typed Assembly Language](https://www.cs.cornell.edu/talc),
 [Kleene Algebra with Tests](https://www.cs.cornell.edu/~kozen/Papers/kat.pdf),
 [Cyclone](https://cyclone.thelanguage.org),
