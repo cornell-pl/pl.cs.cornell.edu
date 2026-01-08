@@ -9,6 +9,12 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Shawn Ong"
+  www = "https://www.grinnell.edu/user/ongshawn"
+  grad_year = "2025"
+  org = "Grinnell College"
+
+[[people]]
   name = "Jialu Bao"
   www = "http://baojia.lu/about"
   grad_year = "2025"
