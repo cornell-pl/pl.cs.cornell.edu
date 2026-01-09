@@ -8,6 +8,10 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  date = "Jan 2026"
+  content = "[Probabilistic Concurrent Reasoning in Outcome Logic: Independence, Conditioning, and Invariants"](https://doi.org/10.1145/3776651) won a Distinguished Paper Award at POPL '26. Congratulations, Noam, Joe, and Alexandra!"
+
+[[news]]
   kind = "paper"
   date = "Nov 2025"
   who = "Noam Zilberstein, Alexandra Silva, and Joseph Tassarotti"
