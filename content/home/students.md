@@ -56,6 +56,7 @@ title = "Students"
 [[people]]
   name = "Suraaj Kanniwadi"
   www = "https://www.cs.cornell.edu/~suraaj/"
+  img = "suraaj.jpg"
 
 [[people]]
   name = "Anshuman Mohan"
@@ -96,6 +97,7 @@ title = "Students"
 
 [[people]]
   name = "Spencer Van Koevering"
+  img = "spencer.jpg"
 
 [[people]]
   name = "Katherine Wu"
