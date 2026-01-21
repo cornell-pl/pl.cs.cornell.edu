@@ -9,6 +9,9 @@ weight = 3
 title = "Students"
 
 [[people]]
+  name = "Mark Barbone"
+
+[[people]]
   name = "Griffin Berlstein"
   www = "https://griffinberlste.in/"
   img = "griffin.jpg"
@@ -51,6 +54,10 @@ title = "Students"
   img = "kg384.jpg"
 
 [[people]]
+  name = "Suraaj Kanniwadi"
+  www = "https://www.cs.cornell.edu/~suraaj/"
+
+[[people]]
   name = "Anshuman Mohan"
   www = "https://www.cs.cornell.edu/~amohan/"
   img = "am3327.jpg"
@@ -64,6 +71,10 @@ title = "Students"
   name = "Ernest Ng"
   www = "https://ngernest.github.io"
   img = "eyn5.jpg"  
+
+[[people]]
+  name = "Silei Ren"
+  www = "https://www.sileiren.com/"
 
 [[people]]
   name = "Goktug Saatcioglu"
@@ -82,6 +93,9 @@ title = "Students"
   name = "Zachary Susag"
   www = "https://zacharysusag.net"
   img = "zjs32.jpeg"
+
+[[people]]
+  name = "Spencer Van Koevering"
 
 [[people]]
   name = "Katherine Wu"
