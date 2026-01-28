@@ -13,7 +13,7 @@ title = "Affiliated Members"
 [[people]]
   name = "Andrew Appel"
   www = "https://www.cs.princeton.edu/~appel/"
-  img = "andrew_appel.jpg"
+  img = "andrew_appel.png"
 
 [[people]]
   name = "Guy Amir"
