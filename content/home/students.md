@@ -26,6 +26,9 @@ title = "Students"
   img = "nb454.jpg"
 
 [[people]]
+  name = "Benjamin Carleton"
+
+[[people]]
   name = "Hanxi (Gary) Chen"
   www = "https://www.hanxic.com"
   img = "hc2296.jpg"
