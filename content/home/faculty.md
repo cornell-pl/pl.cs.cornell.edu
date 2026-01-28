@@ -14,16 +14,6 @@ title = "Faculty"
   img = "mrc26.jpg"
 
 [[people]]
-  name = "Robert Constable"
-  www = "https://www.cs.cornell.edu/home/rc/"
-  img = "rc.jpg"
-
-[[people]]
-  name = "Nate Foster"
-  www = "https://www.cs.cornell.edu/~jnfoster/"
-  img = "jnf27.jpg"
-
-[[people]]
   name = "Justin Hsu"
   www = "https://www.cs.cornell.edu/~justin/"
   img = "justin.png"
