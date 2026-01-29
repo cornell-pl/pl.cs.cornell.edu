@@ -32,7 +32,7 @@ title = "Affiliated Members"
 
 [[people]]
   name = "Nate Foster"
-  www = "https://www.cs.cornell.edu/~jnfoster/"
+  www = "https://natefoster.org/"
   img = "jnf27.jpg"
 
 [[people]]
