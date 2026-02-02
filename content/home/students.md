@@ -27,6 +27,8 @@ title = "Students"
 
 [[people]]
   name = "Benjamin Carleton"
+  www = "https://www.cs.cornell.edu/~carleton/"
+  img = "bc534.jpg"
 
 [[people]]
   name = "Hanxi (Gary) Chen"
