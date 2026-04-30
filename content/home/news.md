@@ -84,6 +84,15 @@ active = false
 
 [[news]]
   kind = "paper"
+  date = "June 2025"
+  who = "Rachit Nigam, Edmund Lam, Ethan Gabizon, Carolyn Zech, Jonathan Balkind, and Adrian Sampson"
+  paper_name = "Parameterized Hardware Design with Latency-Abstract Interfaces"
+  paper_link = "https://people.csail.mit.edu/rachit/files/pubs/lilac.pdf"
+  conf_name = "ASPLOS '26"
+  conf_link = "https://www.asplos-conference.org/asplos2026"
+
+[[news]]
+  kind = "paper"
   date = "May 2025"
   who = "Noam Zilberstein"
   paper_name = "Outcome Logic: A Unified Approach to the Metatheory of Program Logics with Branching Effects"
