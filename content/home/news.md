@@ -8,6 +8,23 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  kind = "paper"
+  date = "March 2026"
+  who = "Emmanuel Suárez Acevedo, Tiago Ferreira, Kevin Batz, Oliver Emil Bøving, Nate Foster, and Alexandra Silva"
+  paper_name = "Weighted NetKAT: A Programming Language For Quantitative Network Verification"
+  conf_name = "PLDI '26"
+  conf_link = "https://pldi26.sigplan.org/track/pldi-2026-papers"
+
+[[news]]
+  kind = "paper"
+  date = "March 2026"
+  who = "Laura Zielinski and Justin Hsu"
+  paper_name = "Synthesizing Backward Error Bounds, Backward"
+  paper_link = "https://arxiv.org/abs/2604.15633"
+  conf_name = "PLDI '26"
+  conf_link = "https://pldi26.sigplan.org/track/pldi-2026-papers"
+
+[[news]]
   date = "Jan 2026"
   content = "[Probabilistic Concurrent Reasoning in Outcome Logic: Independence, Conditioning, and Invariants](https://doi.org/10.1145/3776651) won a Distinguished Paper Award at POPL '26. Congratulations, Noam, Joe, and Alexandra!"
 
@@ -55,6 +72,15 @@ active = false
   paper_link = "https://arxiv.org/abs/2310.06959"
   conf_name = "OOPSLA '25"
   conf_link = "https://2025.splashcon.org/track/OOPSLA"  
+
+[[news]]
+  kind = "paper"
+  date = "June 2025"
+  who = "Yulun Yao, Drew Zagieboylo, Andrew Myers, and G. Edward Suh"
+  paper_name = "Sequential Specification for Precise Hardware Exceptions"
+  paper_link = "https://www.cs.cornell.edu/andru/papers/pdl/xpdl-asplos26.pdf"
+  conf_name = "ASPLOS '26"
+  conf_link = "https://www.asplos-conference.org/asplos2026"
 
 [[news]]
   kind = "paper"
