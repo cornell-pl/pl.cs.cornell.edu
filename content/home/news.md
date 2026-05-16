@@ -16,6 +16,10 @@ active = false
   content = "Vaibhav Mehta passed his A exam! Congratulations, Vaibhav!"
 
 [[news]]
+  date = "May 2026"
+  content = "Dr. Griffin Berlstein defended their thesis! Congratulations, Griffin!"
+
+[[news]]
   kind = "paper"
   date = "April 2026"
   who = "Tiago Ferreira, Kevin Batz, Alexandra Silva"
