@@ -28,6 +28,10 @@ active = false
   conf_link = "https://conferences.i-cav.org/2026/accepted/"
 
 [[news]]
+  date = "Mar 2026"
+  content = "Ernest Ng and Ayaka Yorihiro were selected as finalists for the Qualcomm Innovation Fellowship. Congratulations, Ernest and Ayaka!"
+
+[[news]]
   kind = "paper"
   date = "March 2026"
   who = "Emmanuel Suárez Acevedo, Tiago Ferreira, Kevin Batz, Oliver Emil Bøving, Nate Foster, and Alexandra Silva"
