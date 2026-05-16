@@ -17,7 +17,7 @@ active = false
 
 [[news]]
   date = "May 2026"
-  content = "Dr. Griffin Berlstein defended their thesis! Congratulations, Griffin!"
+  content = "Griffin Berlstein defended their thesis! Congratulations, Dr. Griffin!"
 
 [[news]]
   kind = "paper"
