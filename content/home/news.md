@@ -8,6 +8,22 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  date = "May 2026"
+  content = "Spencer Van Koevering passed his A exam! Congratulations, Spencer!"
+
+[[news]]
+  date = "May 2026"
+  content = "Vaibhav Mehta passed his A exam! Congratulations, Vaibhav!"
+
+[[news]]
+  kind = "paper"
+  date = "April 2026"
+  who = "Tiago Ferreira, Kevin Batz, Alexandra Silva"
+  paper_name = "SMT-Based Active Learning of Weighted Automata"
+  conf_name = "CAV '26"
+  conf_link = "https://conferences.i-cav.org/2026/accepted/"
+
+[[news]]
   kind = "paper"
   date = "March 2026"
   who = "Emmanuel Suárez Acevedo, Tiago Ferreira, Kevin Batz, Oliver Emil Bøving, Nate Foster, and Alexandra Silva"
