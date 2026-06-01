@@ -6,6 +6,9 @@ active = false
 # The first two are customized by `layout/partial/news.html` to make it easier
 # to quickly add news items. Use 'any' for other news items like students
 # graduating. See examples below.
+[[news]]
+  date = "May 2026"
+  content = "Karuna has been awarded the LinkedIn Ph.D. Fellowship 2026-2027! Congratulations, Karuna!"
 
 [[news]]
   date = "May 2026"
