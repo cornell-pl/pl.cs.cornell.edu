@@ -23,6 +23,10 @@ active = false
   conf_link = "https://2026.splashcon.org/track/OOPSLA"
 
 [[news]]
+  date = "Oct 2026"
+  content = "Verifying ε-Differential Privacy Bit by Bit will appear at SAS 2026. Congratulations, Zachary Susag and Justin Hsu!"
+
+[[news]]
   kind = "paper"
   date = "Aug 2026"
   who = "Vaibhav Mehta, Arjun Devraj, Bill Owen, Justin Hsu, and Rachee Singh"
