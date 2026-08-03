@@ -7,6 +7,42 @@ active = false
 # to quickly add news items. Use 'any' for other news items like students
 # graduating. See examples below.
 [[news]]
+  kind = "paper"
+  date = "July 2026"
+  who = "Zachary Susag and Justin Hsu"
+  paper_name = "Verifying ε-Differential Privacy Bit by Bit"
+  conf_name = "SAS 2026"
+  conf_link = "https://conf.researchr.org/home/splash-issta-2026/sas-2026"
+
+[[news]]
+  kind = "paper"
+  date = "June 2026"
+  who = "Katherine Wu, Jules Jacobs, Kevin Batz, and Alexandra Silva"
+  paper_name = "Type-Directed Discretization of Probabilistic Programs"
+  conf_name = "OOPSLA '26"
+  conf_link = "https://2026.splashcon.org/track/OOPSLA"
+
+[[news]]
+  kind = "paper"
+  date = "June 2026"
+  who = "Ayaka Yorihiro, Griffin Berlstein, Pedro Pontes García, Kevin Laeufer, and Adrian Sampson"
+  paper_name = "Understanding Accelerator Compilers via Performance Profiling"
+  conf_name = "OOPSLA '26"
+  conf_link = "https://2026.splashcon.org/track/OOPSLA"
+
+[[news]]
+  kind = "paper"
+  date = "May 2026"
+  who = "Vaibhav Mehta, Arjun Devraj, Bill Owen, Justin Hsu, and Rachee Singh"
+  paper_name = "λ_λ: A Programming Language for Photonic Switches"
+  conf_name = "SIGCOMM '26"
+  conf_link = "https://conferences.sigcomm.org/sigcomm/2026/"
+
+[[news]]
+  date = "May 2026"
+  content = "[Synthesizing Backward Error Bounds, Backward](https://arxiv.org/abs/2604.15633) won a Distinguished Paper Award at PLDI '26. Congratulations, Laura Zielinski and Justin Hsu!"
+
+[[news]]
   date = "May 2026"
   content = "Karuna has been awarded the LinkedIn Ph.D. Fellowship 2026-2027! Congratulations, Karuna!"
 
@@ -33,6 +69,14 @@ active = false
 [[news]]
   date = "May 2026"
   content = "Dr. Griffin Berlstein defended their thesis! Congratulations, Griffin!"
+
+[[news]]
+  kind = "paper"
+  date = "April 2026"
+  who = "Guy Amir, Mark Barbone, Nicolas Amat, and Jules Jacobs"
+  paper_name = "Deciding Serializability in Network Systems"
+  conf_name = "TACAS 2026"
+  conf_link = "https://etaps.org/2026/conferences/tacas/"
 
 [[news]]
   kind = "paper"
