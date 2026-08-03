@@ -24,7 +24,7 @@ active = false
 
 [[news]]
   date = "Oct 2026"
-  content = "Verifying ε-Differential Privacy Bit by Bit will appear at SAS 2026. Congratulations, Zachary Susag and Justin Hsu!"
+  content = "Verifying ε-Differential Privacy Bit by Bit will appear at [SAS 2026](https://conf.researchr.org/home/splash-issta-2026/sas-2026). Congratulations, Zachary Susag and Justin Hsu!"
 
 [[news]]
   kind = "paper"
