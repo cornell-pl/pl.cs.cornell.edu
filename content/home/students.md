@@ -12,11 +12,6 @@ title = "Students"
   name = "Mark Barbone"
 
 [[people]]
-  name = "Griffin Berlstein"
-  www = "https://griffinberlste.in/"
-  img = "griffin.jpg"
-
-[[people]]
   name = "Luke Bernick"
   www = "https://meritpages.com/Luke-Bernick/3531503"
 
@@ -36,17 +31,8 @@ title = "Students"
   img = "hc2296.jpg"
 
 [[people]]
-  name = "Hongzheng Chen"
-  www = "https://chhzh123.github.io/"
-  img = "hc676.jpg"
-
-[[people]]
   name = "Oliver Daids"
   www = "https://www.cs.cornell.edu/~ojd/"
-
-[[people]]
-  name = "Keri D'Angelo"
-  img = "kd349.jpeg"
 
 [[people]]
   name = "Max Fan"
@@ -69,18 +55,9 @@ title = "Students"
   img = "am3327.jpg"
 
 [[people]]
-  name = "Mark Moeller"
-  www = "https://www.cs.cornell.edu/~moeller/"
-  img = "mdm367.jpg"
-
-[[people]]
   name = "Ernest Ng"
   www = "https://ngernest.github.io"
   img = "eyn5.jpg"  
-
-[[people]]
-  name = "Silei Ren"
-  www = "https://www.sileiren.com/"
 
 [[people]]
   name = "Goktug Saatcioglu"
@@ -94,11 +71,6 @@ title = "Students"
   name = "Emmanuel Suárez Acevedo"
   www = "https://www.emmanuelsuarez.com"
   img = "es2278.png"
-
-[[people]]
-  name = "Zachary Susag"
-  www = "https://zacharysusag.net"
-  img = "zjs32.jpeg"
 
 [[people]]
   name = "Spencer Van Koevering"
@@ -121,10 +93,5 @@ title = "Students"
   name = "Laura Zielinski"
   www = "https://laurazielinski.net"
   img = "lcz8.jpg"
-
-[[people]]
-  name = "Noam Zilberstein"
-  www = "https://www.cs.cornell.edu/~noamz"
-  img = "nz67.jpg"
 
 +++

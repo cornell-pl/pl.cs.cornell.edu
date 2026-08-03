@@ -9,6 +9,47 @@ weight = 10
 title = "Alumni"
 
 [[people]]
+  name = "Silei Ren"
+  www = "https://www.sileiren.com/"
+  grad_year = "2026"
+  org = "Amazon"
+
+[[people]]
+  name = "Zachary Susag"
+  www = "https://zacharysusag.net"
+  grad_year = "2026"
+  org = "Grinnell College"
+
+[[people]]
+  name = "Keri D'Angelo"
+  grad_year = "2026"
+  org = "CatOps Analytics"
+
+[[people]]
+  name = "Mark Moeller"
+  www = "https://markmoeller.work/"
+  grad_year = "2026"
+  org = "College of the Holy Cross"
+
+[[people]]
+  name = "Noam Zilberstein"
+  www = "https://www.cs.cornell.edu/~noamz"
+  grad_year = "2026"
+  org = "Stevens Institute of Technology"
+
+[[people]]
+  name = "Griffin Berlstein"
+  www = "https://griffinberlste.in/"
+  grad_year = "2026"
+  org = "Efficient Computer"
+
+[[people]]
+  name = "Hongzheng Chen"
+  www = "https://chhzh123.github.io/"
+  grad_year = "2026"
+  org = "ByteDance Seed"
+
+[[people]]
   name = "Shawn Ong"
   www = "https://www.grinnell.edu/user/ongshawn"
   grad_year = "2025"

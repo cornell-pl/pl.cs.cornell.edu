@@ -15,6 +15,14 @@ active = false
   conf_link = "https://conf.researchr.org/home/splash-issta-2026/sas-2026"
 
 [[news]]
+  date = "July 2026"
+  content = "Dr. Silei Ren defended his thesis! Congratulations, Silei!"
+
+[[news]]
+  date = "June 2026"
+  content = "Dr. Zachary Susag defended his thesis! Congratulations, Zach!"
+
+[[news]]
   kind = "paper"
   date = "June 2026"
   who = "Katherine Wu, Jules Jacobs, Kevin Batz, and Alexandra Silva"
@@ -97,6 +105,10 @@ active = false
   paper_name = "Weighted NetKAT: A Programming Language For Quantitative Network Verification"
   conf_name = "PLDI '26"
   conf_link = "https://pldi26.sigplan.org/track/pldi-2026-papers"
+
+[[news]]
+  date = "March 2026"
+  content = "Dr. Hongzheng Chen defended his thesis! Congratulations, Hongzheng!"
 
 [[news]]
   kind = "paper"
