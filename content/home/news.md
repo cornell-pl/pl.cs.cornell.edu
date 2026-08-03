@@ -7,6 +7,18 @@ active = false
 # to quickly add news items. Use 'any' for other news items like students
 # graduating. See examples below.
 [[news]]
+  kind = "paper"
+  date = "Aug 2026"
+  who = "Vaibhav Mehta, Arjun Devraj, Bill Owen, Justin Hsu, and Rachee Singh"
+  paper_name = "λλ: a programming language for photonic switches"
+  conf_name = "SIGCOMM '26"
+  conf_link = "https://conferences.sigcomm.org/sigcomm/2026/"
+
+[[news]]
+  date = "June 2026"
+  content = "[Synthesizing Backward Error Bounds, Backward](https://arxiv.org/abs/2604.15633) won a Distinguished Paper Award at PLDI '26. Congratulations, Laura Zielinski and Justin Hsu!"
+
+[[news]]
   date = "May 2026"
   content = "Karuna has been awarded the LinkedIn Ph.D. Fellowship 2026-2027! Congratulations, Karuna!"
 
