@@ -8,6 +8,22 @@ active = false
 # graduating. See examples below.
 [[news]]
   kind = "paper"
+  date = "Oct 2026"
+  who = "Katherine Wu, Jules Jacobs, Kevin Batz, and Alexandra Silva"
+  paper_name = "Type-Directed Discretization of Probabilistic Programs"
+  conf_name = "OOPSLA '26"
+  conf_link = "https://2026.splashcon.org/track/OOPSLA"
+
+[[news]]
+  kind = "paper"
+  date = "Oct 2026"
+  who = "Ayaka Yorihiro, Griffin Berlstein, Pedro Pontes García, Kevin Laeufer, and Adrian Sampson"
+  paper_name = "Understanding Accelerator Compilers via Performance Profiling"
+  conf_name = "OOPSLA '26"
+  conf_link = "https://2026.splashcon.org/track/OOPSLA"
+
+[[news]]
+  kind = "paper"
   date = "Aug 2026"
   who = "Vaibhav Mehta, Arjun Devraj, Bill Owen, Justin Hsu, and Rachee Singh"
   paper_name = "λλ: a programming language for photonic switches"
