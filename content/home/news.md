@@ -69,6 +69,14 @@ active = false
 [[news]]
   kind = "paper"
   date = "April 2026"
+  who = "Guy Amir, Mark Barbone, Nicolas Amat, and Jules Jacobs"
+  paper_name = "Deciding Serializability in Network Systems"
+  conf_name = "TACAS 2026"
+  conf_link = "https://etaps.org/2026/conferences/tacas/"
+
+[[news]]
+  kind = "paper"
+  date = "April 2026"
   who = "Tiago Ferreira, Kevin Batz, Alexandra Silva"
   paper_name = "SMT-Based Active Learning of Weighted Automata"
   conf_name = "CAV '26"
