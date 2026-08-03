@@ -23,8 +23,12 @@ active = false
   conf_link = "https://2026.splashcon.org/track/OOPSLA"
 
 [[news]]
+  kind = "paper"
   date = "Oct 2026"
-  content = "Verifying ε-Differential Privacy Bit by Bit will appear at [SAS 2026](https://conf.researchr.org/home/splash-issta-2026/sas-2026). Congratulations, Zachary Susag and Justin Hsu!"
+  who = "Zachary Susag and Justin Hsu"
+  paper_name = "Verifying ε-Differential Privacy Bit by Bit"
+  conf_name = "SAS 2026"
+  conf_link = "https://conf.researchr.org/home/splash-issta-2026/sas-2026"
 
 [[news]]
   kind = "paper"
