@@ -30,7 +30,7 @@ active = false
   kind = "paper"
   date = "Aug 2026"
   who = "Vaibhav Mehta, Arjun Devraj, Bill Owen, Justin Hsu, and Rachee Singh"
-  paper_name = "λλ: a programming language for photonic switches"
+  paper_name = "λ_λ: A Programming Language for Photonic Switches"
   conf_name = "SIGCOMM '26"
   conf_link = "https://conferences.sigcomm.org/sigcomm/2026/"
 
