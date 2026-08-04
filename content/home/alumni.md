@@ -33,7 +33,7 @@ title = "Alumni"
 
 [[people]]
   name = "Noam Zilberstein"
-  www = "https://www.cs.cornell.edu/~noamz"
+  www = "https://zilberstein.github.io"
   grad_year = "2026"
   org = "Stevens Institute of Technology"
 
