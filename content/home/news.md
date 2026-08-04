@@ -9,6 +9,14 @@ active = false
 [[news]]
   kind = "paper"
   date = "July 2026"
+  who = "Arjun Devraj, Karuna Grewal, Justin Hsu, Rachee Singh, Eva Tardos, and collaborators"
+  paper_name = "Autonomy Without Anarchy in Decentralized WAN Traffic Engineering"
+  conf_name = "NSDI 2027"
+  conf_link = "https://www.usenix.org/conference/nsdi27"
+
+[[news]]
+  kind = "paper"
+  date = "July 2026"
   who = "Zachary Susag and Justin Hsu"
   paper_name = "Verifying ε-Differential Privacy Bit by Bit"
   conf_name = "SAS 2026"
