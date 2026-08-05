@@ -19,6 +19,11 @@ title = "Faculty"
   img = "justin.png"
 
 [[people]]
+  name = "Yuka Ikarashi"
+  www = "https://www.cs.cornell.edu/~yuka/"
+  img = "yuka.jpeg"
+
+[[people]]
   name = "Dexter Kozen"
   www = "https://www.cs.cornell.edu/~kozen/"
   img = "dck10.jpg"
