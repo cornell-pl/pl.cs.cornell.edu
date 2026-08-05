@@ -11,6 +11,7 @@ active = false
   date = "July 2026"
   who = "Arjun Devraj, Karuna Grewal, Justin Hsu, Rachee Singh, Eva Tardos, and collaborators"
   paper_name = "Autonomy Without Anarchy in Decentralized WAN Traffic Engineering"
+  paper_link = "https://arxiv.org/abs/2510.11937"
   conf_name = "NSDI 2027"
   conf_link = "https://www.usenix.org/conference/nsdi27"
 
@@ -91,6 +92,7 @@ active = false
   date = "April 2026"
   who = "Guy Amir, Mark Barbone, Nicolas Amat, and Jules Jacobs"
   paper_name = "Deciding Serializability in Network Systems"
+  paper_link = "https://arxiv.org/abs/2601.02251"
   conf_name = "TACAS 2026"
   conf_link = "https://etaps.org/2026/conferences/tacas/"
 
@@ -99,6 +101,7 @@ active = false
   date = "April 2026"
   who = "Tiago Ferreira, Kevin Batz, Alexandra Silva"
   paper_name = "SMT-Based Active Learning of Weighted Automata"
+  paper_link = "https://arxiv.org/abs/2605.07758"
   conf_name = "CAV '26"
   conf_link = "https://conferences.i-cav.org/2026/accepted/"
 
@@ -111,6 +114,7 @@ active = false
   date = "March 2026"
   who = "Emmanuel Suárez Acevedo, Tiago Ferreira, Kevin Batz, Oliver Emil Bøving, Nate Foster, and Alexandra Silva"
   paper_name = "Weighted NetKAT: A Programming Language For Quantitative Network Verification"
+  paper_link = "https://arxiv.org/abs/2604.13987"
   conf_name = "PLDI '26"
   conf_link = "https://pldi26.sigplan.org/track/pldi-2026-papers"
 
