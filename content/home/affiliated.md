@@ -3,7 +3,7 @@ widget = "affiliated"
 active = true
 date = 2016-04-20T00:00:00
 
-weight = 4
+weight = 5
 
 layout = "widgets/people"
 
@@ -16,14 +16,9 @@ title = "Affiliated Members"
   img = "andrew_appel.png"
 
 [[people]]
-  name = "Guy Amir"
-  www = "https://guyam2.github.io/"
-  img = "gda42.png"
-
-[[people]]
-  name = "Robert Constable"
-  www = "https://www.cs.cornell.edu/home/rc/"
-  img = "rc.jpg"
+  name = "Saikat Dutta"
+  www = "https://www.cs.cornell.edu/~saikatd/"
+  img = "saikat_dutta.jpg"
 
 [[people]]
   name = "Kevin Ellis"
@@ -36,12 +31,12 @@ title = "Affiliated Members"
   img = "jnf27.jpg"
 
 [[people]]
+  name = "Kevin Laeufer"
+  www = "https://kevinlaeufer.com/"
+  img = "kevin_laeufer.jpg"
+
+[[people]]
   name = "Owolabi Legunsen"
   www = "https://www.cs.cornell.edu/~legunsen/"
   img = "owo.jpg"
-
-[[people]]
-  name = "Ross Tate"
-  www = "https://www.cs.cornell.edu/~ross/"
-  img = "ret87.jpg"
 +++
