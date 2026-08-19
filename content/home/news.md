@@ -7,6 +7,10 @@ active = false
 # to quickly add news items. Use 'any' for other news items like students
 # graduating. See examples below.
 [[news]]
+  date = "August 2026"
+  content = "[λ_λ: A Programming Language for Photonic Switches](https://dl.acm.org/doi/10.1145/3789240.3829151) won a Best Paper award at SIGCOMM '26. Congratulations, Vaibhav Mehta, Arjun Devraj, Bill Owen, Justin Hsu, and Rachee Singh!"
+
+[[news]]
   kind = "paper"
   date = "July 2026"
   who = "Arjun Devraj, Karuna Grewal, Justin Hsu, Rachee Singh, Eva Tardos, and collaborators"
