@@ -2,7 +2,7 @@
 widget = "alumni"
 active = true
 date = 2026-08-17T00:00:00
-layout = "widgets/alumni"
+layout = "widgets/people"
 
 weight = 12
 
@@ -16,4 +16,5 @@ title = "Past Faculty"
 [[people]]
   name = "Ross Tate"
   www = "https://www.cs.cornell.edu/~ross/"
+  img = "ret87.jpg"
 +++
