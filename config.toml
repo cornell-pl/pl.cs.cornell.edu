@@ -152,9 +152,14 @@ enableGitInfo = false
   weight = 6
 
 [[menu.main]]
+  name = "Postdocs"
+  url = "#postdocs"
+  weight = 7
+
+[[menu.main]]
   name = "Affiliated"
   url = "#affiliated"
-  weight = 7
+  weight = 8
 
 [[menu.main]]
   name = "Alumni"
