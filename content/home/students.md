@@ -35,6 +35,11 @@ title = "Students"
   www = "https://www.cs.cornell.edu/~ojd/"
 
 [[people]]
+  name = "Lucas Du"
+  www = "https://lucaszdu.com/"
+  img = "ld574.jpg"
+
+[[people]]
   name = "Max Fan"
   www = "https://max.fan/"
   img = "myf5.jpg"
