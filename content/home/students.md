@@ -45,6 +45,11 @@ title = "Students"
   img = "myf5.jpg"
 
 [[people]]
+  name = "Shihan Fang"
+  www = "https://fangtangtang.github.io/"
+  img = "sf668.jpg"
+
+[[people]]
   name = "Karuna Grewal"
   www = "https://aakp10.github.io/"
   img = "kg384.jpg"
