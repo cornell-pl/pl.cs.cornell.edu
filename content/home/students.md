@@ -60,6 +60,11 @@ title = "Students"
   img = "eyn5.jpg"  
 
 [[people]]
+  name = "Pedro Pontes García"
+  www = "https://pedropontesgarcia.com"
+  img = "pp457.jpeg"  
+
+[[people]]
   name = "Goktug Saatcioglu"
 
 [[people]]
