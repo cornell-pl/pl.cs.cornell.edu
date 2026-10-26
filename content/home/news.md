@@ -6,6 +6,19 @@ active = false
 # The first two are customized by `layout/partial/news.html` to make it easier
 # to quickly add news items. Use 'any' for other news items like students
 # graduating. See examples below.
+
+[[news]]
+  date = "October 2026"
+  content = "Karuna Grewal won the [2026 ACM SIGPLAN John Vlissides Award](https://www.sigplan.org/Awards/Vlissides/) for her work's significant promise in applied software research!"
+  
+[[news]]
+  kind = "paper"
+  date = "September 2026"
+  who = "Sachin Ashok*, Karuna Grewal*, Brighten Godfrey, Justin Hsu, Radhika Mittal, and co-authors"
+  paper_name = "The Cloud Should Adapt to Its Applications, Not the Other Way Around!"
+  conf_name = "HotNets 2026"
+  conf_link = "https://conferences.sigcomm.org/hotnets/2026/"
+
 [[news]]
   date = "August 2026"
   content = "[λ_λ: A Programming Language for Photonic Switches](https://dl.acm.org/doi/10.1145/3789240.3829151) won a Best Paper award at SIGCOMM '26. Congratulations, Vaibhav Mehta, Arjun Devraj, Bill Owen, Justin Hsu, and Rachee Singh!"
