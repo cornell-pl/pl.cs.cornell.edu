@@ -8,6 +8,23 @@ active = false
 # graduating. See examples below.
 
 [[news]]
+  kind = "paper"
+  date = "November 2026"
+  who = "Vaibhav Mehta, Idhant Gode, and Justin Hsu"
+  paper_name = "A SymPL Logic for Verifying Symplectic Integrators"
+  conf_name = "POPL '27"
+  conf_link = "https://popl27.sigplan.org/track/POPL-2027-popl-research-papers"
+
+[[news]]
+  kind = "paper"
+  date = "November 2026"
+  who = "Thomas Lu, Qiancheng Fu, Kevin Batz, Oliver Emil Bøving, Tiago Ferreira, Mark Moeller, Nate Foster, and Alexandra Silva"
+  paper_name = "A Fast Quantitative Analyzer for NetKAT"
+  paper_link = "https://arxiv.org/abs/2607.14420"
+  conf_name = "POPL '27"
+  conf_link = "https://popl27.sigplan.org/track/POPL-2027-popl-research-papers"
+
+[[news]]
   date = "October 2026"
   content = "Karuna Grewal won the [2026 ACM SIGPLAN John Vlissides Award](https://www.sigplan.org/Awards/Vlissides/) for her work's significant promise in applied software research!"
   
