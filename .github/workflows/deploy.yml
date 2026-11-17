@@ -27,7 +27,7 @@ jobs:
 
   deploy:
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     if: ${{github.event_name=='push' && github.ref=='refs/heads/master'}}
     steps:
       - name: Tailscale
