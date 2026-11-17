@@ -4,8 +4,9 @@ Cornell PL WWW
 Website for the Cornell Programming Languages group.
 
 The website is automatically deployed using Github actions.
-Contact [Ayaka Yorihiro][ayaka] (Web Czar) or [Adrian][] if there are issues.
+Contact [Ernest Ng][ernest] (Web Czar) or [Adrian][] if there are issues.
 
+[ernest]: https://ngernest.github.io
 [adrian]: http://adriansampson.net
 [ayaka]: https://ayakayorihiro.github.io/
 [rachit]: https://rachitnigam.com
@@ -87,5 +88,6 @@ and add your changes.
 
 ## Former Web Czars
 
+- [Ayaka Yorihiro][ayaka]
 - [Rachit Nigam][rachit]
 - Oliver Daids
